@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-05T01:57:22Z",
+            "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13992
+            "stars": 13994
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T07:15:49Z",
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13326
+            "stars": 13331
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-08T08:21:39Z",
+            "last_commit": "2026-08-14T08:23:23Z",
             "owner": "webserver-llc",
             "repo": "angie",
             "stars": 2541
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-22T11:19:55Z",
+            "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11784
+            "stars": 11785
           }
         },
         {
@@ -154,10 +154,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-05T01:57:22Z",
+            "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13992
+            "stars": 13994
           }
         },
         {
@@ -168,10 +168,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-22T11:19:55Z",
+            "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11784
+            "stars": 11785
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T16:00:43Z",
+            "last_commit": "2026-08-13T21:45:53Z",
             "owner": "vozlt",
             "repo": "nginx-module-vts",
             "stars": 3499
@@ -269,7 +269,7 @@
             "last_commit": "2023-12-23T09:06:34Z",
             "owner": "yaoweibin",
             "repo": "nginx_upstream_check_module",
-            "stars": 2145
+            "stars": 2146
           }
         },
         {
@@ -437,7 +437,7 @@
             "last_commit": "2026-02-23T23:37:38Z",
             "owner": "aperezdc",
             "repo": "ngx-fancyindex",
-            "stars": 942
+            "stars": 943
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-06-21T07:35:22Z",
             "owner": "yzprofile",
             "repo": "ngx_http_dyups_module",
-            "stars": 877
+            "stars": 876
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2017-04-17T00:26:45Z",
             "owner": "alibaba",
             "repo": "nginx-http-sysguard",
-            "stars": 255
+            "stars": 254
           }
         },
         {
@@ -857,7 +857,7 @@
             "last_commit": "2019-05-04T21:27:29Z",
             "owner": "alibaba",
             "repo": "nginx-http-user-agent",
-            "stars": 161
+            "stars": 160
           }
         },
         {
@@ -1288,7 +1288,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T01:04:10Z",
+            "last_commit": "2026-08-13T16:04:09Z",
             "owner": "myguard-labs",
             "repo": "nginx-zstd-module",
             "stars": 27
@@ -1375,7 +1375,7 @@
             "last_commit": "2026-05-04T03:50:52Z",
             "owner": "61131",
             "repo": "nginx-http-auth-totp",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -1624,7 +1624,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T05:03:29Z",
+            "last_commit": "2026-08-14T11:56:32Z",
             "owner": "myguard-labs",
             "repo": "nginx-autocert-module",
             "stars": 6
@@ -1736,7 +1736,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T04:52:54Z",
+            "last_commit": "2026-08-14T11:54:17Z",
             "owner": "myguard-labs",
             "repo": "nginx-cache-turbo-module",
             "stars": 3
@@ -1869,7 +1869,7 @@
             "last_commit": "2024-03-17T12:14:30Z",
             "owner": "loveshell",
             "repo": "ngx_lua_waf",
-            "stars": 4025
+            "stars": 4024
           }
         },
         {
@@ -2846,7 +2846,7 @@
             "last_commit": "2026-08-04T16:25:03Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
-            "stars": 740
+            "stars": 741
           }
         },
         {
@@ -2998,7 +2998,7 @@
             "last_commit": "2026-08-12T03:02:03Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33852
+            "stars": 33862
           }
         },
         {
@@ -3012,7 +3012,7 @@
             "last_commit": "2024-12-14T10:56:21Z",
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28284
+            "stars": 28282
           }
         },
         {
@@ -3026,7 +3026,7 @@
             "last_commit": "2026-08-10T16:11:52Z",
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19894
+            "stars": 19895
           }
         },
         {
@@ -3040,7 +3040,7 @@
             "last_commit": "2026-08-10T23:16:10Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12660
+            "stars": 12662
           }
         },
         {
@@ -3065,10 +3065,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:07:04Z",
+            "last_commit": "2026-08-13T17:02:40Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10803
+            "stars": 10806
           }
         },
         {
@@ -3121,10 +3121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T05:40:02Z",
+            "last_commit": "2026-08-14T08:21:38Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2272
+            "stars": 2273
           }
         },
         {
@@ -3191,7 +3191,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T00:56:36Z",
+            "last_commit": "2026-08-13T22:12:48Z",
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 516
@@ -3331,7 +3331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-13T00:02:23Z",
+            "last_commit": "2026-08-14T00:02:51Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -3572,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:59:12.388Z",
+    "last_updated": "2026-08-14T11:56:52.458Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_sha": "fcf763dfe95cbffb192121a9d47c176f292dc5d3",
     "enhanced_repository": "enhansome/enhansome-nginx",
