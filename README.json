@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13994
+            "stars": 13996
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T08:23:23Z",
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2541
+            "stars": 2544
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11785
+            "stars": 11787
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 13994
+            "stars": 13996
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11785
+            "stars": 11787
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2023-04-21T14:50:27Z",
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
-            "stars": 4340
+            "stars": 4339
           }
         },
         {
@@ -196,7 +196,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T21:45:53Z",
+            "last_commit": "2026-08-15T10:30:12Z",
             "owner": "vozlt",
             "repo": "nginx-module-vts",
             "stars": 3499
@@ -227,7 +227,7 @@
             "last_commit": "2026-06-09T13:46:34Z",
             "owner": "slact",
             "repo": "nchan",
-            "stars": 3064
+            "stars": 3063
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-07-17T08:18:55Z",
             "owner": "openresty",
             "repo": "headers-more-nginx-module",
-            "stars": 1785
+            "stars": 1784
           }
         },
         {
@@ -1179,7 +1179,7 @@
             "last_commit": "2011-02-11T15:38:58Z",
             "owner": "gabrielfalcao",
             "repo": "nginx-markdown-module",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -1288,7 +1288,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T16:04:09Z",
+            "last_commit": "2026-08-14T18:22:07Z",
             "owner": "myguard-labs",
             "repo": "nginx-zstd-module",
             "stars": 27
@@ -1624,10 +1624,24 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T11:56:32Z",
+            "last_commit": "2026-08-15T07:36:54Z",
             "owner": "myguard-labs",
             "repo": "nginx-autocert-module",
             "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nginx-error-abuse-module",
+          "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-07T02:51:08Z",
+            "owner": "myguard-labs",
+            "repo": "nginx-error-abuse-module",
+            "stars": 5
           }
         },
         {
@@ -1661,7 +1675,7 @@
         {
           "node_type": "item",
           "title": "nginx-error-abuse-module",
-          "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
+          "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1669,7 +1683,7 @@
             "last_commit": "2026-08-07T02:51:08Z",
             "owner": "myguard-labs",
             "repo": "nginx-error-abuse-module",
-            "stars": 4
+            "stars": 5
           }
         },
         {
@@ -1683,20 +1697,6 @@
             "last_commit": "2022-07-16T02:14:13Z",
             "owner": "mschenck",
             "repo": "ngx_http_gif_magick",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nginx-error-abuse-module",
-          "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-07T02:51:08Z",
-            "owner": "myguard-labs",
-            "repo": "nginx-error-abuse-module",
             "stars": 4
           }
         },
@@ -1736,7 +1736,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T11:54:17Z",
+            "last_commit": "2026-08-15T07:22:05Z",
             "owner": "myguard-labs",
             "repo": "nginx-cache-turbo-module",
             "stars": 3
@@ -2843,7 +2843,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T16:25:03Z",
+            "last_commit": "2026-08-15T00:13:18Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 741
@@ -2998,7 +2998,7 @@
             "last_commit": "2026-08-12T03:02:03Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33862
+            "stars": 33870
           }
         },
         {
@@ -3012,7 +3012,7 @@
             "last_commit": "2024-12-14T10:56:21Z",
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28282
+            "stars": 28281
           }
         },
         {
@@ -3040,7 +3040,7 @@
             "last_commit": "2026-08-10T23:16:10Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12662
+            "stars": 12663
           }
         },
         {
@@ -3065,10 +3065,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T17:02:40Z",
+            "last_commit": "2026-08-14T17:24:48Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10806
+            "stars": 10807
           }
         },
         {
@@ -3110,7 +3110,7 @@
             "last_commit": "2018-07-26T19:54:37Z",
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2437
+            "stars": 2438
           }
         },
         {
@@ -3121,10 +3121,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T08:21:38Z",
+            "last_commit": "2026-08-15T08:55:11Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2273
+            "stars": 2272
           }
         },
         {
@@ -3191,7 +3191,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T22:12:48Z",
+            "last_commit": "2026-08-15T10:17:37Z",
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 516
@@ -3233,7 +3233,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T05:37:41Z",
+            "last_commit": "2026-08-15T04:59:14Z",
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 427
@@ -3331,7 +3331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-14T00:02:51Z",
+            "last_commit": "2026-08-15T00:02:24Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -3522,7 +3522,7 @@
             "last_commit": "2023-11-20T07:48:54Z",
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6963
+            "stars": 6961
           }
         },
         {
@@ -3572,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:56:52.458Z",
+    "last_updated": "2026-08-15T11:33:47.414Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_sha": "fcf763dfe95cbffb192121a9d47c176f292dc5d3",
     "enhanced_repository": "enhansome/enhansome-nginx",
