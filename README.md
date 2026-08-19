@@ -25,7 +25,7 @@ Feel free to add your project :)
 ## Well-known Distributions
 
 * [OpenResty](https://github.com/openresty/ngx_openresty) ⭐ 14,002 | 🐛 332 | 🌐 C | 📅 2026-08-14
-* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,334 | 🐛 500 | 🌐 C | 📅 2026-08-18
+* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,336 | 🐛 500 | 🌐 C | 📅 2026-08-18
 * [Angie](https://github.com/webserver-llc/angie) ⭐ 2,547 | 🐛 44 | 🌐 C | 📅 2026-08-14
 * [NGINX](https://nginx.org/en/docs/install.html)
 * [FreeNGINX](https://freenginx.org/)
@@ -85,7 +85,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_postgres](https://github.com/FRiCKLE/ngx_postgres) ⭐ 551 | 🐛 37 | 🌐 C | 📅 2020-09-29 - upstream module that allows nginx to communicate directly with PostgreSQL database.
 * [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) ⭐ 532 | 🐛 12 | 🌐 C | 📅 2026-05-18 - simple robot mitigation module using cookie based challenge/response technique.
 * [naxsi](https://github.com/wargio/naxsi) ⭐ 517 | 🐛 20 | 🌐 C | 📅 2026-08-07 - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
-* [nginx-dav-ext-module](https://github.com/arut/nginx-dav-ext-module) ⭐ 510 | 🐛 32 | 🌐 C | 📅 2024-05-18 - NGINX WebDAV missing methods support (PROPFIND & OPTIONS).
+* [nginx-dav-ext-module](https://github.com/arut/nginx-dav-ext-module) ⭐ 511 | 🐛 32 | 🌐 C | 📅 2024-05-18 - NGINX WebDAV missing methods support (PROPFIND & OPTIONS).
 * [nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) ⭐ 494 | 🐛 26 | 🌐 C | 📅 2020-01-12 - The fair load balancer module for nginx.
 * [srcache-nginx-module](https://github.com/openresty/srcache-nginx-module) ⭐ 486 | 🐛 28 | 🌐 C | 📅 2026-07-17 - Transparent subrequest-based caching layout for arbitrary nginx locations.
 * [ngx\_aws\_auth](https://github.com/anomalizer/ngx_aws_auth) ⭐ 475 | 🐛 41 | 🌐 C | 📅 2025-08-09 - nginx module to proxy to authenticated AWS services.
@@ -262,7 +262,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Njs Projects
 
-* [nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) ⭐ 743 | 🐛 48 | 🌐 JavaScript | 📅 2026-08-19 - S3 gateway for Nginx allowing to proxy requests directly to S3 private buckets.
+* [nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) ⭐ 743 | 🐛 49 | 🌐 JavaScript | 📅 2026-08-19 - S3 gateway for Nginx allowing to proxy requests directly to S3 private buckets.
 * [njs-examples](https://github.com/nginx/njs-examples) ⭐ 691 | 🐛 10 | 🌐 JavaScript | 📅 2026-06-25 - Examples of njs usage.
 * [nginx-dns](https://github.com/TuxInvader/nginx-dns) ⭐ 224 | 🐛 23 | 🌐 JavaScript | 📅 2024-01-08 - Example njs configuration for using Nginx with DNS services.
 * [njs-acme](https://github.com/nginx/njs-acme) ⭐ 94 | 🐛 27 | 🌐 TypeScript | 📅 2026-06-09 - ACME protocol implementation in njs allowing Let's Encrypt certificates to be issued directly from nginx.
@@ -277,7 +277,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Tools
 
-* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 33,903 | 🐛 929 | 🌐 TypeScript | 📅 2026-08-12 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 33,906 | 🐛 929 | 🌐 TypeScript | 📅 2026-08-12 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 
 * [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,276 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
 
@@ -295,13 +295,13 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [nginx-boilerplate](https://github.com/Umkus/nginx-boilerplate) ⭐ 2,438 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26 - Awesome Nginx configuration template.
 
-* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,279 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,279 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-19 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 * [nginx-conf](https://github.com/lebinh/nginx-conf) ⭐ 2,116 | 🐛 2 | 📅 2017-10-13 - A collection of useful Nginx configuration snippets.
 
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,669 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 - Real-time analyzing and diagnosing tools for Nginx based on SystemTap.
 
-* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,182 | 🐛 0 | 🌐 Python | 📅 2026-07-20 - Nginx configuration static analyzer
+* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,182 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Nginx configuration static analyzer
 
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) ⭐ 647 | 🐛 41 | 🌐 Shell | 📅 2025-02-01 - Compile Nginx from source with custom modules on Debian and Ubuntu
 

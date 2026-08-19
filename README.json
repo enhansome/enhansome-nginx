@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T07:16:59Z",
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13334
+            "stars": 13336
           }
         },
         {
@@ -614,7 +614,7 @@
                 "last_commit": "2024-05-18T05:45:42Z",
                 "owner": "arut",
                 "repo": "nginx-dav-ext-module",
-                "stars": 510
+                "stars": 511
               }
             },
             {
@@ -3035,7 +3035,7 @@
             "archived": false,
             "id": 296727267,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T03:54:27Z",
+            "last_commit": "2026-08-19T12:07:20Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 743
@@ -3194,7 +3194,7 @@
             "last_commit": "2026-08-12T03:02:03Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33903
+            "stars": 33906
           }
         },
         {
@@ -3326,7 +3326,7 @@
             "archived": false,
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:31:31Z",
+            "last_commit": "2026-08-19T11:52:19Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
             "stars": 2279
@@ -3371,7 +3371,7 @@
             "archived": false,
             "id": 198842952,
             "language": "Python",
-            "last_commit": "2026-07-20T14:56:06Z",
+            "last_commit": "2026-08-19T12:26:01Z",
             "owner": "dvershinin",
             "repo": "gixy",
             "stars": 1182
@@ -3808,8 +3808,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:39:35.582Z",
+    "last_updated": "2026-08-19T12:43:48.772Z",
     "original_repository": "agile6v/awesome-nginx",
+    "original_repository_id": 40654944,
     "original_repository_sha": "fcf763dfe95cbffb192121a9d47c176f292dc5d3",
     "enhanced_repository": "enhansome/enhansome-nginx",
     "enhanced_repository_description": null,
