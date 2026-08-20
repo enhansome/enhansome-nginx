@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14002
+            "stars": 14005
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T07:16:59Z",
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13336
+            "stars": 13339
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11787
+            "stars": 11788
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-14T07:32:25Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14002
+                "stars": 14005
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-14T07:31:37Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11787
+                "stars": 11788
               }
             },
             {
@@ -251,7 +251,7 @@
                 "archived": false,
                 "id": 95348937,
                 "language": "C",
-                "last_commit": "2026-08-11T02:48:11Z",
+                "last_commit": "2026-08-19T13:57:01Z",
                 "owner": "winshining",
                 "repo": "nginx-http-flv-module",
                 "stars": 2935
@@ -284,7 +284,7 @@
                 "last_commit": "2023-12-23T09:06:34Z",
                 "owner": "yaoweibin",
                 "repo": "nginx_upstream_check_module",
-                "stars": 2147
+                "stars": 2148
               }
             },
             {
@@ -314,7 +314,7 @@
                 "last_commit": "2026-05-04T17:05:33Z",
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1846
+                "stars": 1847
               }
             },
             {
@@ -599,7 +599,7 @@
                 "last_commit": "2026-08-07T16:05:41Z",
                 "owner": "wargio",
                 "repo": "naxsi",
-                "stars": 517
+                "stars": 519
               }
             },
             {
@@ -1751,7 +1751,7 @@
                 "archived": false,
                 "id": 1262837794,
                 "language": "C",
-                "last_commit": "2026-08-19T00:24:32Z",
+                "last_commit": "2026-08-20T09:39:06Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
                 "stars": 5
@@ -1796,7 +1796,7 @@
                 "archived": false,
                 "id": 1262837794,
                 "language": "C",
-                "last_commit": "2026-08-19T00:24:32Z",
+                "last_commit": "2026-08-20T09:39:06Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
                 "stars": 5
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 1265374865,
                 "language": "C",
-                "last_commit": "2026-08-18T23:56:22Z",
+                "last_commit": "2026-08-20T11:27:39Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3
@@ -3035,10 +3035,10 @@
             "archived": false,
             "id": 296727267,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:07:20Z",
+            "last_commit": "2026-08-19T23:16:50Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
-            "stars": 743
+            "stars": 744
           }
         },
         {
@@ -3194,7 +3194,7 @@
             "last_commit": "2026-08-12T03:02:03Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33906
+            "stars": 33910
           }
         },
         {
@@ -3209,7 +3209,7 @@
             "last_commit": "2024-12-14T10:56:21Z",
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28276
+            "stars": 28273
           }
         },
         {
@@ -3224,7 +3224,7 @@
             "last_commit": "2026-08-10T16:11:52Z",
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19894
+            "stars": 19896
           }
         },
         {
@@ -3239,7 +3239,7 @@
             "last_commit": "2026-08-16T23:05:08Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12667
+            "stars": 12669
           }
         },
         {
@@ -3254,7 +3254,7 @@
             "last_commit": "2026-06-20T15:26:17Z",
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11558
+            "stars": 11559
           }
         },
         {
@@ -3266,10 +3266,10 @@
             "archived": false,
             "id": 203456148,
             "language": "Python",
-            "last_commit": "2026-08-19T09:13:57Z",
+            "last_commit": "2026-08-20T07:05:46Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10824
+            "stars": 10831
           }
         },
         {
@@ -3326,10 +3326,10 @@
             "archived": false,
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:52:19Z",
+            "last_commit": "2026-08-20T10:20:04Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2279
+            "stars": 2282
           }
         },
         {
@@ -3344,7 +3344,7 @@
             "last_commit": "2017-10-13T14:36:47Z",
             "owner": "lebinh",
             "repo": "nginx-conf",
-            "stars": 2116
+            "stars": 2117
           }
         },
         {
@@ -3371,7 +3371,7 @@
             "archived": false,
             "id": 198842952,
             "language": "Python",
-            "last_commit": "2026-08-19T12:26:01Z",
+            "last_commit": "2026-08-19T13:55:34Z",
             "owner": "dvershinin",
             "repo": "gixy",
             "stars": 1182
@@ -3401,7 +3401,7 @@
             "archived": false,
             "id": 106615169,
             "language": "C++",
-            "last_commit": "2026-08-19T02:08:10Z",
+            "last_commit": "2026-08-20T05:10:07Z",
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 516
@@ -3539,7 +3539,7 @@
             "last_commit": "2017-05-21T20:57:05Z",
             "owner": "perusio",
             "repo": "nginx-cache-purge",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -3551,7 +3551,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-19T00:02:31Z",
+            "last_commit": "2026-08-20T00:02:20Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -3770,7 +3770,7 @@
             "last_commit": "2021-03-05T03:48:12Z",
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2869
+            "stars": 2868
           }
         },
         {
@@ -3808,7 +3808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:48.772Z",
+    "last_updated": "2026-08-20T11:41:48.046Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_id": 40654944,
     "original_repository_sha": "fcf763dfe95cbffb192121a9d47c176f292dc5d3",
