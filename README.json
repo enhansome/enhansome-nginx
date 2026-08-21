@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T07:32:25Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14005
+            "stars": 14008
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-18T07:16:59Z",
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13339
+            "stars": 13338
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-14T08:23:23Z",
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2547
+            "stars": 2548
           }
         }
       ],
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-14T07:31:37Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11788
+            "stars": 11789
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-14T07:32:25Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14005
+                "stars": 14008
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-14T07:31:37Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11788
+                "stars": 11789
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2024-08-19T19:17:35Z",
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
-                "stars": 2231
+                "stars": 2230
               }
             },
             {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-07-17T08:18:55Z",
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
-                "stars": 1783
+                "stars": 1784
               }
             },
             {
@@ -344,7 +344,7 @@
                 "last_commit": "2021-12-19T13:21:51Z",
                 "owner": "yaoweibin",
                 "repo": "nginx_tcp_proxy_module",
-                "stars": 1647
+                "stars": 1646
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2024-07-17T20:13:04Z",
                 "owner": "fdintino",
                 "repo": "nginx-upload-module",
-                "stars": 1003
+                "stars": 1002
               }
             },
             {
@@ -749,7 +749,7 @@
                 "last_commit": "2026-06-22T00:03:40Z",
                 "owner": "nginx",
                 "repo": "nginx-otel",
-                "stars": 270
+                "stars": 269
               }
             },
             {
@@ -1084,21 +1084,6 @@
             },
             {
               "node_type": "item",
-              "title": "nginx-fluentd-module",
-              "description": "Nginx module for Fluentd data collector.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 5814200,
-                "language": "C",
-                "last_commit": "2019-02-13T18:13:44Z",
-                "owner": "fluent",
-                "repo": "nginx-fluentd-module",
-                "stars": 89
-              }
-            },
-            {
-              "node_type": "item",
               "title": "nginx-eval-module",
               "description": "A module for evaluating memcached or proxy response into variable.",
               "children": [],
@@ -1109,6 +1094,21 @@
                 "last_commit": "2020-04-01T15:40:42Z",
                 "owner": "vkholodkov",
                 "repo": "nginx-eval-module",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nginx-fluentd-module",
+              "description": "Nginx module for Fluentd data collector.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5814200,
+                "language": "C",
+                "last_commit": "2019-02-13T18:13:44Z",
+                "owner": "fluent",
+                "repo": "nginx-fluentd-module",
                 "stars": 88
               }
             },
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 1265374865,
                 "language": "C",
-                "last_commit": "2026-08-20T11:27:39Z",
+                "last_commit": "2026-08-21T10:27:02Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3
@@ -2052,7 +2052,7 @@
                 "last_commit": "2026-07-17T09:28:44Z",
                 "owner": "openresty",
                 "repo": "lua-resty-core",
-                "stars": 854
+                "stars": 853
               }
             },
             {
@@ -3035,7 +3035,7 @@
             "archived": false,
             "id": 296727267,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T23:16:50Z",
+            "last_commit": "2026-08-21T02:40:16Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 744
@@ -3194,7 +3194,7 @@
             "last_commit": "2026-08-12T03:02:03Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33910
+            "stars": 33921
           }
         },
         {
@@ -3224,7 +3224,7 @@
             "last_commit": "2026-08-10T16:11:52Z",
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19896
+            "stars": 19897
           }
         },
         {
@@ -3266,10 +3266,10 @@
             "archived": false,
             "id": 203456148,
             "language": "Python",
-            "last_commit": "2026-08-20T07:05:46Z",
+            "last_commit": "2026-08-21T11:08:06Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10831
+            "stars": 10835
           }
         },
         {
@@ -3284,7 +3284,7 @@
             "last_commit": "2026-03-02T04:38:40Z",
             "owner": "lebinh",
             "repo": "ngxtop",
-            "stars": 6525
+            "stars": 6524
           }
         },
         {
@@ -3326,10 +3326,10 @@
             "archived": false,
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:20:04Z",
+            "last_commit": "2026-08-20T16:23:11Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2282
+            "stars": 2284
           }
         },
         {
@@ -3374,7 +3374,7 @@
             "last_commit": "2026-08-19T13:55:34Z",
             "owner": "dvershinin",
             "repo": "gixy",
-            "stars": 1182
+            "stars": 1183
           }
         },
         {
@@ -3401,7 +3401,7 @@
             "archived": false,
             "id": 106615169,
             "language": "C++",
-            "last_commit": "2026-08-20T05:10:07Z",
+            "last_commit": "2026-08-21T02:47:24Z",
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 516
@@ -3446,7 +3446,7 @@
             "archived": false,
             "id": 20060139,
             "language": "Go",
-            "last_commit": "2026-08-19T05:33:50Z",
+            "last_commit": "2026-08-21T00:34:55Z",
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 427
@@ -3551,7 +3551,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-20T00:02:20Z",
+            "last_commit": "2026-08-21T00:02:14Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -3808,7 +3808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:41:48.046Z",
+    "last_updated": "2026-08-21T11:40:52.336Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_id": 40654944,
     "original_repository_sha": "fcf763dfe95cbffb192121a9d47c176f292dc5d3",
