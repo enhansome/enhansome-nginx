@@ -62,7 +62,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_http\_google\_filter\_module](https://github.com/cuber/ngx_http_google_filter_module) ⭐ 3,356 | 🐛 37 | 🌐 C | 📅 2023-09-26 - Nginx Module for Google Mirror.
 * [nginx\_http\_push\_module](https://github.com/slact/nginx_http_push_module) ⭐ 3,064 | 🐛 128 | 🌐 C | 📅 2026-06-09 - Turn NGiNX into an adept HTTP push server.
 * [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module) ⭐ 2,934 | 🐛 26 | 🌐 C | 📅 2026-08-19  - A media streaming server based on nginx-rtmp-module, provides HTTP-FLV.
-* [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) ⭐ 2,230 | 🐛 15 | 🌐 C | 📅 2024-08-19 - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
+* [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) ⭐ 2,229 | 🐛 15 | 🌐 C | 📅 2024-08-19 - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
 * [nginx\_upstream\_check\_module](https://github.com/yaoweibin/nginx_upstream_check_module) ⭐ 2,147 | 🐛 173 | 🌐 Perl | 📅 2023-12-23 - Health checks upstreams for nginx.
 * [ngx\_http\_proxy\_connect\_module](https://github.com/chobits/ngx_http_proxy_connect_module) ⭐ 1,976 | 🐛 31 | 🌐 C | 📅 2024-08-18 - A forward proxy module for CONNECT request handling
 * [nginx\_modSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) ⭐ 1,849 | 🐛 70 | 🌐 Perl | 📅 2026-05-04 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
@@ -202,7 +202,7 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) ⭐ 443 | 🐛 26 | 🌐 Lua | 📅 2026-08-24 - String utilities and common hash functions for ngx\_lua and LuaJIT.
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) ⭐ 414 | 🐛 19 | 🌐 Lua | 📅 2026-08-24 - Streaming reader and parser for http file uploading based on ngx\_lua cosocket.
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) ⚠️ Archived - Lua library for HTTP cookie manipulations for OpenResty/ngx\_lua.
-* [lua-resty-session](https://github.com/bungle/lua-resty-session) ⭐ 343 | 🐛 27 | 🌐 Lua | 📅 2025-11-24 - Session library for OpenResty implementing Secure Cookie Protocol.
+* [lua-resty-session](https://github.com/bungle/lua-resty-session) ⭐ 343 | 🐛 26 | 🌐 Lua | 📅 2026-08-24 - Session library for OpenResty implementing Secure Cookie Protocol.
 * [lua-resty-dns](https://github.com/openresty/lua-resty-dns) ⭐ 338 | 🐛 17 | 🌐 Lua | 📅 2026-08-24 - DNS resolver for the nginx lua module.
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) ⭐ 323 | 🐛 9 | 🌐 Lua | 📅 2026-08-24 - Simple nonblocking lock API for ngx\_lua based on shared memory dictionaries.
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) ⭐ 268 | 🐛 11 | 🌐 Lua | 📅 2024-11-09 - RSA encrypt/decrypt & sign/verify for LuaJIT.
@@ -278,13 +278,13 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Tools
 
-* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 33,950 | 🐛 906 | 🌐 TypeScript | 📅 2026-08-22 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 33,951 | 🐛 906 | 🌐 TypeScript | 📅 2026-08-24 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 
-* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,271 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
+* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,270 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
 
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ⭐ 19,899 | 🐛 324 | 🌐 Python | 📅 2026-08-24 - Automated nginx proxy for Docker containers using docker-gen.
 
-* [Laradock](https://github.com/laradock/laradock) ⭐ 12,670 | 🐛 16 | 🌐 Dockerfile | 📅 2026-08-16 - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
+* [Laradock](https://github.com/laradock/laradock) ⭐ 12,671 | 🐛 16 | 🌐 Dockerfile | 📅 2026-08-16 - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 
 * [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) ⭐ 11,560 | 🐛 1 | 📅 2026-06-20 - Nginx HTTP server boilerplate configs.
 
@@ -298,7 +298,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,288 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
-* [nginx-conf](https://github.com/lebinh/nginx-conf) ⭐ 2,117 | 🐛 2 | 📅 2017-10-13 - A collection of useful Nginx configuration snippets.
+* [nginx-conf](https://github.com/lebinh/nginx-conf) ⭐ 2,116 | 🐛 2 | 📅 2017-10-13 - A collection of useful Nginx configuration snippets.
 
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,668 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 - Real-time analyzing and diagnosing tools for Nginx based on SystemTap.
 

@@ -269,7 +269,7 @@
                 "last_commit": "2024-08-19T19:17:35Z",
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
-                "stars": 2230
+                "stars": 2229
               }
             },
             {
@@ -1994,6 +1994,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "ngx-rust",
+          "description": "Rust bindings for Nginx modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100082295,
+            "language": "Rust",
+            "last_commit": "2026-08-21T05:44:56Z",
+            "owner": "nginx",
+            "repo": "ngx-rust",
+            "stars": 906
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -2244,7 +2259,7 @@
                 "archived": false,
                 "id": 20531891,
                 "language": "Lua",
-                "last_commit": "2025-11-24T15:49:00Z",
+                "last_commit": "2026-08-24T14:05:48Z",
                 "owner": "bungle",
                 "repo": "lua-resty-session",
                 "stars": 343
@@ -3206,10 +3221,10 @@
             "archived": false,
             "id": 114938943,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:11:02Z",
+            "last_commit": "2026-08-24T13:04:32Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33950
+            "stars": 33951
           }
         },
         {
@@ -3224,7 +3239,7 @@
             "last_commit": "2024-12-14T10:56:21Z",
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28271
+            "stars": 28270
           }
         },
         {
@@ -3254,7 +3269,7 @@
             "last_commit": "2026-08-16T23:05:08Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12670
+            "stars": 12671
           }
         },
         {
@@ -3281,7 +3296,7 @@
             "archived": false,
             "id": 203456148,
             "language": "Python",
-            "last_commit": "2026-08-24T09:20:42Z",
+            "last_commit": "2026-08-24T13:36:03Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
             "stars": 10852
@@ -3359,7 +3374,7 @@
             "last_commit": "2017-10-13T14:36:47Z",
             "owner": "lebinh",
             "repo": "nginx-conf",
-            "stars": 2117
+            "stars": 2116
           }
         },
         {
@@ -3823,7 +3838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:43:50.690Z",
+    "last_updated": "2026-08-24T14:16:14.276Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_id": 40654944,
     "original_repository_sha": "273b1678ff0f58de4144348cd112f365d68dc996",
