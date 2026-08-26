@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T10:25:41Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14010
+            "stars": 14012
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 557753836,
             "language": "C",
-            "last_commit": "2026-08-14T08:23:23Z",
+            "last_commit": "2026-08-26T08:22:33Z",
             "owner": "webserver-llc",
             "repo": "angie",
             "stars": 2549
@@ -126,7 +126,7 @@
             "last_commit": "2026-02-03T21:18:17Z",
             "owner": "Kong",
             "repo": "ngx_wasm_module",
-            "stars": 140
+            "stars": 141
           }
         }
       ],
@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14010
+                "stars": 14012
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-06-09T13:46:34Z",
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3064
+                "stars": 3065
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2023-12-23T09:06:34Z",
                 "owner": "yaoweibin",
                 "repo": "nginx_upstream_check_module",
-                "stars": 2147
+                "stars": 2148
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2024-08-18T12:49:19Z",
                 "owner": "chobits",
                 "repo": "ngx_http_proxy_connect_module",
-                "stars": 1976
+                "stars": 1975
               }
             },
             {
@@ -1354,6 +1354,21 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-zstd-module",
+              "description": "Zstandard (zstd) compression and decompression filters for nginx responses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448138162,
+                "language": "Python",
+                "last_commit": "2026-08-26T09:02:09Z",
+                "owner": "myguard-labs",
+                "repo": "nginx-zstd-module",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ngx_lfqueue",
               "description": "a lock free queue(enq/deq) container running on nginx share memory and it enqueue/dequeue the messages across multiple threads and multiple workers without any locking.",
               "children": [],
@@ -1364,21 +1379,6 @@
                 "last_commit": "2018-09-21T08:06:23Z",
                 "owner": "Taymindis",
                 "repo": "ngx_lfqueue",
-                "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-zstd-module",
-              "description": "Zstandard (zstd) compression and decompression filters for nginx responses.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 448138162,
-                "language": "Python",
-                "last_commit": "2026-08-25T07:39:35Z",
-                "owner": "myguard-labs",
-                "repo": "nginx-zstd-module",
                 "stars": 27
               }
             },
@@ -1856,7 +1856,7 @@
                 "archived": false,
                 "id": 1265374865,
                 "language": "C",
-                "last_commit": "2026-08-25T11:14:54Z",
+                "last_commit": "2026-08-26T09:59:01Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3
@@ -2172,7 +2172,7 @@
                 "last_commit": "2026-08-24T07:36:07Z",
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
-                "stars": 511
+                "stars": 512
               }
             },
             {
@@ -2289,7 +2289,7 @@
                 "archived": false,
                 "id": 13136767,
                 "language": "Lua",
-                "last_commit": "2026-08-24T07:34:37Z",
+                "last_commit": "2026-08-26T01:58:38Z",
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
                 "stars": 323
@@ -3065,7 +3065,7 @@
             "archived": false,
             "id": 296727267,
             "language": "Shell",
-            "last_commit": "2026-08-25T05:02:08Z",
+            "last_commit": "2026-08-26T03:13:54Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 747
@@ -3221,10 +3221,10 @@
             "archived": false,
             "id": 114938943,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:41:27Z",
+            "last_commit": "2026-08-26T02:59:19Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 33960
+            "stars": 33984
           }
         },
         {
@@ -3239,7 +3239,7 @@
             "last_commit": "2024-12-14T10:56:21Z",
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28270
+            "stars": 28269
           }
         },
         {
@@ -3251,10 +3251,10 @@
             "archived": false,
             "id": 19463625,
             "language": "Python",
-            "last_commit": "2026-08-24T04:42:05Z",
+            "last_commit": "2026-08-26T07:47:49Z",
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19899
+            "stars": 19897
           }
         },
         {
@@ -3296,10 +3296,10 @@
             "archived": false,
             "id": 203456148,
             "language": "Python",
-            "last_commit": "2026-08-25T09:51:58Z",
+            "last_commit": "2026-08-26T09:34:33Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10854
+            "stars": 10863
           }
         },
         {
@@ -3314,7 +3314,7 @@
             "last_commit": "2026-03-02T04:38:40Z",
             "owner": "lebinh",
             "repo": "ngxtop",
-            "stars": 6524
+            "stars": 6525
           }
         },
         {
@@ -3356,10 +3356,10 @@
             "archived": false,
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:50:58Z",
+            "last_commit": "2026-08-25T23:27:32Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2288
+            "stars": 2292
           }
         },
         {
@@ -3581,7 +3581,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-25T00:02:18Z",
+            "last_commit": "2026-08-26T06:17:02Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -3838,7 +3838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:43:15.111Z",
+    "last_updated": "2026-08-26T11:44:41.283Z",
     "original_repository": "agile6v/awesome-nginx",
     "original_repository_id": 40654944,
     "original_repository_sha": "273b1678ff0f58de4144348cd112f365d68dc996",
