@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T10:25:41Z",
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14015
-          }
+            "stars": 14018
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-24T06:13:53Z",
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13340
-          }
+            "stars": 13343
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-26T08:22:33Z",
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2550
-          }
+            "stars": 2551
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         }
       ],
       "title": "Well-known Distributions"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-24T09:16:22Z",
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11789
-          }
+            "stars": 11790
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "nginx-clojure",
             "repo": "nginx-clojure",
             "stars": 1084
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "matsumotory",
             "repo": "ngx_mruby",
             "stars": 997
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "rryqszq4",
             "repo": "ngx_php",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "Kong",
             "repo": "ngx_wasm_module",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         }
       ],
       "title": "Embeddable Scripting Languages"
@@ -150,7 +158,8 @@
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
                 "stars": 14036
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -164,8 +173,9 @@
                 "last_commit": "2026-08-24T10:25:41Z",
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14015
-              }
+                "stars": 14018
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -179,8 +189,9 @@
                 "last_commit": "2026-08-24T09:16:22Z",
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11789
-              }
+                "stars": 11790
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -195,7 +206,8 @@
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
                 "stars": 4339
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
                 "stars": 3500
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -224,8 +237,9 @@
                 "last_commit": "2023-09-26T00:52:26Z",
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3355
-              }
+                "stars": 3356
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -240,7 +254,8 @@
                 "owner": "slact",
                 "repo": "nchan",
                 "stars": 3065
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -255,7 +270,8 @@
                 "owner": "winshining",
                 "repo": "nginx-http-flv-module",
                 "stars": 2934
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -270,7 +286,8 @@
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
                 "stars": 2229
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -285,7 +302,8 @@
                 "owner": "yaoweibin",
                 "repo": "nginx_upstream_check_module",
                 "stars": 2148
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -300,7 +318,8 @@
                 "owner": "chobits",
                 "repo": "ngx_http_proxy_connect_module",
                 "stars": 1975
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -315,7 +334,8 @@
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
                 "stars": 1848
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -330,7 +350,8 @@
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
                 "stars": 1783
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -345,7 +366,8 @@
                 "owner": "yaoweibin",
                 "repo": "nginx_tcp_proxy_module",
                 "stars": 1645
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -360,7 +382,8 @@
                 "owner": "openresty",
                 "repo": "echo-nginx-module",
                 "stars": 1193
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -374,8 +397,9 @@
                 "last_commit": "2024-04-02T21:25:17Z",
                 "owner": "leev",
                 "repo": "ngx_http_geoip2_module",
-                "stars": 1140
-              }
+                "stars": 1141
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -390,7 +414,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_cache_purge",
                 "stars": 1094
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -405,7 +430,8 @@
                 "owner": "nginx-clojure",
                 "repo": "nginx-clojure",
                 "stars": 1084
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "vision5",
                 "repo": "ngx_devel_kit",
                 "stars": 1027
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -435,7 +462,8 @@
                 "owner": "fdintino",
                 "repo": "nginx-upload-module",
                 "stars": 1003
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -450,7 +478,8 @@
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
                 "stars": 997
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -464,8 +493,9 @@
                 "last_commit": "2026-02-23T23:37:38Z",
                 "owner": "aperezdc",
                 "repo": "ngx-fancyindex",
-                "stars": 943
-              }
+                "stars": 945
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -480,7 +510,8 @@
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
                 "stars": 905
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -495,7 +526,8 @@
                 "owner": "yzprofile",
                 "repo": "ngx_http_dyups_module",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -510,7 +542,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-http-concat",
                 "stars": 863
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -525,7 +558,8 @@
                 "owner": "mdirolf",
                 "repo": "nginx-gridfs",
                 "stars": 786
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -540,7 +574,8 @@
                 "owner": "kvspb",
                 "repo": "nginx-auth-ldap",
                 "stars": 759
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -555,7 +590,8 @@
                 "owner": "yaoweibin",
                 "repo": "ngx_http_substitutions_filter_module",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -570,7 +606,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_postgres",
                 "stars": 551
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -585,7 +622,8 @@
                 "owner": "kyprizel",
                 "repo": "testcookie-nginx-module",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -600,7 +638,8 @@
                 "owner": "wargio",
                 "repo": "naxsi",
                 "stars": 519
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -615,7 +654,8 @@
                 "owner": "arut",
                 "repo": "nginx-dav-ext-module",
                 "stars": 511
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -630,7 +670,8 @@
                 "owner": "gnosek",
                 "repo": "nginx-upstream-fair",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -645,7 +686,8 @@
                 "owner": "openresty",
                 "repo": "srcache-nginx-module",
                 "stars": 486
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -660,7 +702,8 @@
                 "owner": "anomalizer",
                 "repo": "ngx_aws_auth",
                 "stars": 475
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -675,7 +718,8 @@
                 "owner": "cubicdaiya",
                 "repo": "ngx_small_light",
                 "stars": 474
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -690,7 +734,8 @@
                 "owner": "masterzen",
                 "repo": "nginx-upload-progress-module",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -705,7 +750,8 @@
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -720,7 +766,8 @@
                 "owner": "openresty",
                 "repo": "drizzle-nginx-module",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -735,7 +782,8 @@
                 "owner": "rryqszq4",
                 "repo": "ngx_php",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -749,8 +797,9 @@
                 "last_commit": "2026-06-22T00:03:40Z",
                 "owner": "nginx",
                 "repo": "nginx-otel",
-                "stars": 270
-              }
+                "stars": 271
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -765,7 +814,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_zeromq",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -780,7 +830,8 @@
                 "owner": "openresty",
                 "repo": "replace-filter-nginx-module",
                 "stars": 263
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -795,7 +846,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-tfs",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -810,7 +862,8 @@
                 "owner": "tokers",
                 "repo": "zstd-nginx-module",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -825,7 +878,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-http-sysguard",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -840,7 +894,8 @@
                 "owner": "yaoweibin",
                 "repo": "nginx_ajp_module",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -855,7 +910,8 @@
                 "owner": "Taymindis",
                 "repo": "nginx-link-function",
                 "stars": 234
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -870,7 +926,8 @@
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
                 "stars": 213
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -885,7 +942,8 @@
                 "owner": "wandenberg",
                 "repo": "nginx-video-thumbextractor-module",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -900,7 +958,8 @@
                 "owner": "openresty",
                 "repo": "encrypted-session-nginx-module",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -915,7 +974,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-http-user-agent",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -930,7 +990,8 @@
                 "owner": "openresty",
                 "repo": "rds-json-nginx-module",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1006,8 @@
                 "owner": "openresty",
                 "repo": "xss-nginx-module",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -960,7 +1022,8 @@
                 "owner": "flavioribeiro",
                 "repo": "nginx-audio-track-for-hls-module",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -975,7 +1038,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-http-footer-filter",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -990,7 +1054,8 @@
                 "owner": "wandenberg",
                 "repo": "nginx-selective-cache-purge-module",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1005,7 +1070,8 @@
                 "owner": "calio",
                 "repo": "form-input-nginx-module",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1020,7 +1086,8 @@
                 "owner": "GetPageSpeed",
                 "repo": "ngx_security_headers",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1035,7 +1102,8 @@
                 "owner": "Qihoo360",
                 "repo": "ngx_http_subrange_module",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1050,7 +1118,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-http-slice",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1065,7 +1134,8 @@
                 "owner": "FRiCKLE",
                 "repo": "ngx_supervisord",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1080,7 +1150,8 @@
                 "owner": "whatvn",
                 "repo": "ngx_http_estreaming_module",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1095,7 +1166,8 @@
                 "owner": "vkholodkov",
                 "repo": "nginx-eval-module",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1110,7 +1182,8 @@
                 "owner": "fluent",
                 "repo": "nginx-fluentd-module",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1125,7 +1198,8 @@
                 "owner": "vkholodkov",
                 "repo": "nginx-mogilefs-module",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1140,7 +1214,8 @@
                 "owner": "nginx-modules",
                 "repo": "ngx_http_hmac_secure_link_module",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1155,7 +1230,8 @@
                 "owner": "evanmiller",
                 "repo": "nginx_circle_gif",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1170,7 +1246,8 @@
                 "owner": "alibaba",
                 "repo": "nginx-backtrace",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1185,7 +1262,8 @@
                 "owner": "openresty",
                 "repo": "array-var-nginx-module",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1278,8 @@
                 "owner": "agile6v",
                 "repo": "ngx_cache_viewer",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1294,8 @@
                 "owner": "dbcode",
                 "repo": "protobuf-nginx",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1310,8 @@
                 "owner": "pjincz",
                 "repo": "nginx-cgi",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1326,8 @@
                 "owner": "Vasfed",
                 "repo": "nginx_ipset_blacklist",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1260,7 +1342,8 @@
                 "owner": "gabrielfalcao",
                 "repo": "nginx-markdown-module",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1275,7 +1358,8 @@
                 "owner": "replay",
                 "repo": "ngx_http_php_session",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1290,7 +1374,8 @@
                 "owner": "dizballanze",
                 "repo": "ngx_http_avatars_gen_module",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1305,7 +1390,8 @@
                 "owner": "calio",
                 "repo": "iconv-nginx-module",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1320,7 +1406,8 @@
                 "owner": "laocai",
                 "repo": "tcp-nginx-module",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1335,7 +1422,8 @@
                 "owner": "vkholodkov",
                 "repo": "nginx-udplog-module",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1350,7 +1438,8 @@
                 "owner": "session-replay-tools",
                 "repo": "nginx-hmux-module",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1361,11 +1450,12 @@
                 "archived": false,
                 "id": 448138162,
                 "language": "C",
-                "last_commit": "2026-08-27T20:57:46Z",
+                "last_commit": "2026-08-28T21:11:07Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1380,7 +1470,8 @@
                 "owner": "Taymindis",
                 "repo": "ngx_lfqueue",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1395,7 +1486,8 @@
                 "owner": "liseen",
                 "repo": "ngx-gm-filter",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1410,7 +1502,8 @@
                 "owner": "chaizhenhua",
                 "repo": "ngx-ip2location",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1425,7 +1518,8 @@
                 "owner": "Taymindis",
                 "repo": "nginx-elastic-client",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1440,7 +1534,8 @@
                 "owner": "openresty",
                 "repo": "rds-csv-nginx-module",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1455,7 +1550,8 @@
                 "owner": "couchbaselabs",
                 "repo": "couchbase-nginx-module",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1470,7 +1566,8 @@
                 "owner": "61131",
                 "repo": "nginx-http-auth-totp",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1485,7 +1582,8 @@
                 "owner": "ioppermann",
                 "repo": "modjpeg-nginx",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1500,7 +1598,8 @@
                 "owner": "vozlt",
                 "repo": "nginx-module-url",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1515,7 +1614,8 @@
                 "owner": "vedang",
                 "repo": "nginx-nonewlines",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1530,7 +1630,8 @@
                 "owner": "dvershinin",
                 "repo": "ngx_dynamic_etag",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1545,7 +1646,8 @@
                 "owner": "zzzcpan",
                 "repo": "ngx_trace",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1560,7 +1662,8 @@
                 "owner": "nginx-clojure",
                 "repo": "nginx-access-plus",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1575,7 +1678,8 @@
                 "owner": "yaoweibin",
                 "repo": "nginx-sticky-module",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1590,7 +1694,8 @@
                 "owner": "wburgers",
                 "repo": "Session-Binding-Proxy",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1605,7 +1710,8 @@
                 "owner": "Yureien",
                 "repo": "nginx-mime-magic-module",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1620,7 +1726,8 @@
                 "owner": "anjuke",
                 "repo": "ngx_http_qqwry_module",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1635,7 +1742,8 @@
                 "owner": "Taymindis",
                 "repo": "ngx-stomp",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1650,7 +1758,8 @@
                 "owner": "kyprizel",
                 "repo": "nginx_ocsp_proxy-module",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1665,7 +1774,8 @@
                 "owner": "Taymindis",
                 "repo": "ngx_lfstack",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1680,7 +1790,8 @@
                 "owner": "trax-retail",
                 "repo": "url-protector-nginx-module",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1695,7 +1806,8 @@
                 "owner": "hamano",
                 "repo": "nginx-mod-so",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1710,7 +1822,8 @@
                 "owner": "alexchamberlain",
                 "repo": "nginx-qrcode",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1725,7 +1838,8 @@
                 "owner": "refractalize",
                 "repo": "nginx_mod_akamai_g2o",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1740,7 +1854,8 @@
                 "owner": "myguard-labs",
                 "repo": "nginx-autocert-module",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1755,7 +1870,8 @@
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1770,7 +1886,8 @@
                 "owner": "yoreek",
                 "repo": "nginx-xsltproc-module",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1785,7 +1902,8 @@
                 "owner": "algermissen",
                 "repo": "nginx-dlg-auth",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1800,7 +1918,8 @@
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1934,8 @@
                 "owner": "mschenck",
                 "repo": "ngx_http_gif_magick",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1950,8 @@
                 "owner": "gsdu8g9",
                 "repo": "waf-nginx-module",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1845,7 +1966,8 @@
                 "owner": "ohnx",
                 "repo": "nginx-guess-mime",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1856,11 +1978,12 @@
                 "archived": false,
                 "id": 1265374865,
                 "language": "C",
-                "last_commit": "2026-08-27T20:52:03Z",
+                "last_commit": "2026-08-28T21:17:26Z",
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1875,7 +1998,8 @@
                 "owner": "mk-fg",
                 "repo": "nginx-stat-check",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1890,7 +2014,8 @@
                 "owner": "no1xpert",
                 "repo": "ngx_http_securelog_module",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1905,7 +2030,8 @@
                 "owner": "codebytes5",
                 "repo": "ngx_status_module",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1920,7 +2046,8 @@
                 "owner": "myguard-labs",
                 "repo": "nginx-http-sentinel-module",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1935,7 +2062,8 @@
                 "owner": "61131",
                 "repo": "nginx-http-est",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1950,7 +2078,8 @@
                 "owner": "61131",
                 "repo": "nginx-http-filter-data",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1965,7 +2094,8 @@
                 "owner": "myguard-labs",
                 "repo": "nginx-strip-filter-module",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -1980,7 +2110,8 @@
                 "owner": "coalaura",
                 "repo": "nwall",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             }
           ],
           "description": null,
@@ -2002,11 +2133,12 @@
             "archived": false,
             "id": 100082295,
             "language": "Rust",
-            "last_commit": "2026-08-21T05:44:56Z",
+            "last_commit": "2026-08-28T05:46:09Z",
             "owner": "nginx",
             "repo": "ngx-rust",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "children": [
@@ -2023,7 +2155,8 @@
                 "owner": "loveshell",
                 "repo": "ngx_lua_waf",
                 "stars": 4024
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2038,7 +2171,8 @@
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
                 "stars": 2078
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2053,7 +2187,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
                 "stars": 1956
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2068,7 +2203,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-template",
                 "stars": 923
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2083,7 +2219,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-core",
                 "stars": 853
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2098,7 +2235,8 @@
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2113,7 +2251,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2128,7 +2267,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-upstream-healthcheck",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2143,7 +2283,8 @@
                 "owner": "SkyLothar",
                 "repo": "lua-resty-jwt",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2158,7 +2299,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
                 "stars": 523
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2173,7 +2315,8 @@
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
                 "stars": 512
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2188,7 +2331,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-logger-socket",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2203,7 +2347,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-lrucache",
                 "stars": 460
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2218,7 +2363,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-string",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2233,7 +2379,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-upload",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2248,7 +2395,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-cookie",
                 "stars": 350
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2263,7 +2411,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-session",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2278,7 +2427,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-dns",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2293,7 +2443,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2308,7 +2459,8 @@
                 "owner": "spacewander",
                 "repo": "lua-resty-rsa",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2323,7 +2475,8 @@
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2338,7 +2491,8 @@
                 "owner": "wingify",
                 "repo": "lua-resty-rabbitmqstomp",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2353,7 +2507,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-nettle",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2368,7 +2523,8 @@
                 "owner": "torhve",
                 "repo": "LuaWeb",
                 "stars": 180
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2383,7 +2539,8 @@
                 "owner": "cloudflare",
                 "repo": "lua-resty-json",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2398,7 +2555,8 @@
                 "owner": "jkeys089",
                 "repo": "lua-resty-hmac",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2413,7 +2571,8 @@
                 "owner": "timebug",
                 "repo": "lua-resty-redis-ratelimit",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2428,7 +2587,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-validation",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2443,7 +2603,8 @@
                 "owner": "juce",
                 "repo": "lua-resty-shell",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2458,7 +2619,8 @@
                 "owner": "agoragames",
                 "repo": "nginx-google-oauth",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2473,7 +2635,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-consul",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2488,7 +2651,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-upstream",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2503,7 +2667,8 @@
                 "owner": "LazyZhu",
                 "repo": "lua-resty-ssdb",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2518,7 +2683,8 @@
                 "owner": "ledgetech",
                 "repo": "lua-resty-qless",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2533,7 +2699,8 @@
                 "owner": "openresty",
                 "repo": "lua-redis-parser",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2548,7 +2715,8 @@
                 "owner": "duhoobo",
                 "repo": "lua-resty-smtp",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2563,7 +2731,8 @@
                 "owner": "pintsized",
                 "repo": "lua-resty-rack",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2578,7 +2747,8 @@
                 "owner": "Laobei2012",
                 "repo": "nginx-tcp-lua-module",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2593,7 +2763,8 @@
                 "owner": "jbochi",
                 "repo": "lua-resty-cassandra",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2608,7 +2779,8 @@
                 "owner": "azurewang",
                 "repo": "lua-resty-postgres",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2623,7 +2795,8 @@
                 "owner": "woothee",
                 "repo": "lua-resty-woothee",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2638,7 +2811,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-uuid",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2653,7 +2827,8 @@
                 "owner": "smallfish",
                 "repo": "lua-resty-beanstalkd",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2668,7 +2843,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-random",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2683,7 +2859,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-libcjson",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2698,7 +2875,8 @@
                 "owner": "Olivine-Labs",
                 "repo": "resty-mongol",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2713,7 +2891,8 @@
                 "owner": "isage",
                 "repo": "lua-resty-mobile",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2728,7 +2907,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-murmurhash2",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2743,7 +2923,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-hoedown",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2758,7 +2939,8 @@
                 "owner": "zhhchen",
                 "repo": "lua-resty-gearman",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2773,7 +2955,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-riak",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2788,7 +2971,8 @@
                 "owner": "bakins",
                 "repo": "lua-resty-riak",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2803,7 +2987,8 @@
                 "owner": "benagricola",
                 "repo": "lua-resty-fastcgi",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2818,7 +3003,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-snappy",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2833,7 +3019,8 @@
                 "owner": "openresty",
                 "repo": "lua-rds-parser",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2848,7 +3035,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-scrypt",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2863,7 +3051,8 @@
                 "owner": "cloudflarearchive",
                 "repo": "lua-resty-kyototycoon",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2878,7 +3067,8 @@
                 "owner": "miurahr",
                 "repo": "lua-nginx-osm",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2893,7 +3083,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-libxl",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2908,7 +3099,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-fileinfo",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2923,7 +3115,8 @@
                 "owner": "hamishforbes",
                 "repo": "lua-resty-dns-cache",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2938,7 +3131,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-sass",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2953,7 +3147,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-gettext",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2968,7 +3163,8 @@
                 "owner": "sjnam",
                 "repo": "lua-resty-kyototycoon",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2983,7 +3179,8 @@
                 "owner": "hugozhu",
                 "repo": "lua-resty-oceanbase",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -2998,7 +3195,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-github",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -3013,7 +3211,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-readurl",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -3028,7 +3227,8 @@
                 "owner": "bungle",
                 "repo": "lua-resty-taglib",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             },
             {
               "node_type": "item",
@@ -3043,7 +3243,8 @@
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-hipchat",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
             }
           ],
           "description": null,
@@ -3065,11 +3266,12 @@
             "archived": false,
             "id": 296727267,
             "language": "Shell",
-            "last_commit": "2026-08-27T20:19:52Z",
+            "last_commit": "2026-08-28T20:57:11Z",
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
-            "stars": 748
-          }
+            "stars": 749
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3084,7 +3286,8 @@
             "owner": "nginx",
             "repo": "njs-examples",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3099,7 +3302,8 @@
             "owner": "TuxInvader",
             "repo": "nginx-dns",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3114,7 +3318,8 @@
             "owner": "nginx",
             "repo": "njs-acme",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3129,7 +3334,8 @@
             "owner": "jirutka",
             "repo": "njs-typescript-starter",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3144,7 +3350,8 @@
             "owner": "jirutka",
             "repo": "babel-preset-njs",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3159,7 +3366,8 @@
             "owner": "gallarda",
             "repo": "mqtt5",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3174,7 +3382,8 @@
             "owner": "f5devcentral",
             "repo": "nginx-njs-usecases",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3189,7 +3398,8 @@
             "owner": "lcrilly",
             "repo": "nginx-xml-json",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3204,7 +3414,8 @@
             "owner": "4141done",
             "repo": "njs-memory-profiler",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         }
       ],
       "title": "Njs Projects"
@@ -3221,11 +3432,12 @@
             "archived": false,
             "id": 114938943,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T21:42:43Z",
+            "last_commit": "2026-08-28T06:29:43Z",
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34007
-          }
+            "stars": 34013
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3240,7 +3452,8 @@
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
             "stars": 28270
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3254,8 +3467,9 @@
             "last_commit": "2026-08-26T15:42:48Z",
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19899
-          }
+            "stars": 19900
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3269,8 +3483,9 @@
             "last_commit": "2026-08-16T23:05:08Z",
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12672
-          }
+            "stars": 12673
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3285,7 +3500,8 @@
             "owner": "h5bp",
             "repo": "server-configs-nginx",
             "stars": 11561
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3296,11 +3512,12 @@
             "archived": false,
             "id": 203456148,
             "language": "Python",
-            "last_commit": "2026-08-27T19:06:48Z",
+            "last_commit": "2026-08-28T09:28:08Z",
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10870
-          }
+            "stars": 10880
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3315,7 +3532,8 @@
             "owner": "lebinh",
             "repo": "ngxtop",
             "stars": 6525
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3330,7 +3548,8 @@
             "owner": "alexazhou",
             "repo": "VeryNginx",
             "stars": 5978
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3345,7 +3564,8 @@
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
             "stars": 2438
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3356,11 +3576,12 @@
             "archived": false,
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:20:36Z",
+            "last_commit": "2026-08-28T21:21:39Z",
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2294
-          }
+            "stars": 2297
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3375,7 +3596,8 @@
             "owner": "lebinh",
             "repo": "nginx-conf",
             "stars": 2116
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3390,7 +3612,8 @@
             "owner": "openresty",
             "repo": "openresty-systemtap-toolkit",
             "stars": 1668
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3401,11 +3624,12 @@
             "archived": false,
             "id": 198842952,
             "language": "Python",
-            "last_commit": "2026-08-19T13:55:34Z",
+            "last_commit": "2026-08-28T15:11:15Z",
             "owner": "dvershinin",
             "repo": "gixy",
             "stars": 1182
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3420,7 +3644,8 @@
             "owner": "angristan",
             "repo": "nginx-autoinstall",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3435,7 +3660,8 @@
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 515
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3450,7 +3676,8 @@
             "owner": "voxpupuli",
             "repo": "puppet-nginx",
             "stars": 468
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3465,7 +3692,8 @@
             "owner": "openresty",
             "repo": "test-nginx",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3480,7 +3708,8 @@
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3495,7 +3724,8 @@
             "owner": "slomkowski",
             "repo": "nginx-config-formatter",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3510,7 +3740,8 @@
             "owner": "openresty",
             "repo": "openresty-gdb-utils",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3525,7 +3756,8 @@
             "owner": "lide-reed",
             "repo": "apache2nginx",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3540,7 +3772,8 @@
             "owner": "martensson",
             "repo": "nixy",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3555,7 +3788,8 @@
             "owner": "openresty",
             "repo": "openresty-devel-utils",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3570,7 +3804,8 @@
             "owner": "perusio",
             "repo": "nginx-cache-purge",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3581,11 +3816,12 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-27T20:07:11Z",
+            "last_commit": "2026-08-28T18:37:04Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3600,7 +3836,8 @@
             "owner": "jirutka",
             "repo": "nginx-binaries",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3615,7 +3852,8 @@
             "owner": "openresty",
             "repo": "no-pool-nginx",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3630,7 +3868,8 @@
             "owner": "jaygooby",
             "repo": "build-nginx",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3645,7 +3884,8 @@
             "owner": "openresty",
             "repo": "nginx-dtrace",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3660,7 +3900,8 @@
             "owner": "jirutka",
             "repo": "nginx-testing",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3675,7 +3916,8 @@
             "owner": "cubicdaiya",
             "repo": "libngxcore",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3690,7 +3932,8 @@
             "owner": "wyvern8",
             "repo": "akamai-nginx",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3705,7 +3948,8 @@
             "owner": "blendbyte",
             "repo": "nginx-modules",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3720,7 +3964,8 @@
             "owner": "rmacd",
             "repo": "ngx-admintools",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3735,7 +3980,8 @@
             "owner": "Janady13",
             "repo": "seo-sidecar",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3750,7 +3996,8 @@
             "owner": "glidecraft",
             "repo": "nginx-maint",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3765,7 +4012,8 @@
             "owner": "gistrec",
             "repo": "nginx-scanner-trap",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         }
       ],
       "title": "Tools"
@@ -3785,8 +4033,9 @@
             "last_commit": "2023-11-20T07:48:54Z",
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6962
-          }
+            "stars": 6963
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3801,7 +4050,8 @@
             "owner": "openresty",
             "repo": "nginx-tutorials",
             "stars": 2868
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3816,7 +4066,8 @@
             "owner": "SimulatedGREG",
             "repo": "nginx-cheatsheet",
             "stars": 342
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
           "node_type": "item",
@@ -3831,14 +4082,15 @@
             "owner": "taobao",
             "repo": "nginx-docs-cn",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
         }
       ],
       "title": "Tutorials"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:01:31.545Z",
+    "last_updated": "2026-08-28T21:22:28.977Z",
     "original_repository_info": {
       "archived": false,
       "id": 40654944,
@@ -3846,7 +4098,7 @@
       "last_commit": "2026-08-23T05:52:24Z",
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1287
+      "stars": 1288
     },
     "original_repository_sha": "273b1678ff0f58de4144348cd112f365d68dc996",
     "enhanced_repository": "enhansome/enhansome-nginx",
