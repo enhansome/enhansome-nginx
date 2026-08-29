@@ -337,7 +337,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-16T14:56:42Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
                 "stars": 3500,
@@ -410,7 +410,7 @@
                 "open_issues": 26,
                 "owner": "winshining",
                 "repo": "nginx-http-flv-module",
-                "stars": 2934,
+                "stars": 2933,
                 "topics": [
                   "aac",
                   "chunked-transmission",
@@ -517,7 +517,7 @@
                 "open_issues": 70,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1848,
+                "stars": 1849,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -2091,8 +2091,8 @@
                 "id": 448138162,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T02:41:43Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-29T14:34:17Z",
+                "open_issues": 3,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
                 "stars": 28,
@@ -2853,8 +2853,8 @@
                 "id": 1265374865,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T04:35:18Z",
-                "open_issues": 0,
+                "last_commit": "2026-08-29T14:47:02Z",
+                "open_issues": 1,
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3,
@@ -3086,7 +3086,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:46:09Z",
-            "open_issues": 43,
+            "open_issues": 45,
             "owner": "nginx",
             "repo": "ngx-rust",
             "stars": 907,
@@ -3609,7 +3609,7 @@
                 "open_issues": 1,
                 "owner": "torhve",
                 "repo": "LuaWeb",
-                "stars": 180,
+                "stars": 179,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -4848,7 +4848,7 @@
             "open_issues": 898,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34014,
+            "stars": 34015,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4872,7 +4872,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28268,
+            "stars": 28269,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4914,7 +4914,7 @@
             "open_issues": 325,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19901,
+            "stars": 19902,
             "topics": [
               "docker",
               "docker-gen",
@@ -5119,11 +5119,11 @@
             "id": 487797390,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T02:05:29Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-29T11:29:06Z",
+            "open_issues": 13,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2297,
+            "stars": 2299,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5189,7 +5189,7 @@
             "id": 198842952,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:11:15Z",
+            "last_commit": "2026-08-29T06:27:29Z",
             "open_issues": 0,
             "owner": "dvershinin",
             "repo": "gixy",
@@ -5255,8 +5255,8 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-22T00:39:55Z",
-            "open_issues": 39,
+            "last_commit": "2026-08-29T08:39:28Z",
+            "open_issues": 43,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 515,
@@ -5340,8 +5340,8 @@
             "id": 20060139,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:01:38Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-29T06:00:49Z",
+            "open_issues": 8,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 427,
@@ -5492,7 +5492,7 @@
         {
           "node_type": "item",
           "title": "nginx-lua",
-          "description": "Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.",
+          "description": "Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5928,7 +5928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:44.086Z",
+    "last_updated": "2026-08-29T15:37:55.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -5936,8 +5936,8 @@
       "id": 40654944,
       "language": "C",
       "license": null,
-      "last_commit": "2026-08-23T05:52:24Z",
-      "open_issues": 6,
+      "last_commit": "2026-08-29T07:24:02Z",
+      "open_issues": 5,
       "owner": "agile6v",
       "repo": "awesome-nginx",
       "stars": 1288,
@@ -5952,7 +5952,7 @@
         "ngx-lua"
       ]
     },
-    "original_repository_sha": "273b1678ff0f58de4144348cd112f365d68dc996",
+    "original_repository_sha": "72409ec8c3ac9ca7dfe4514999834b1ad658b745",
     "enhanced_repository": "enhansome/enhansome-nginx",
     "enhanced_repository_description": null,
     "title": "Awesome Nginx with stars"
