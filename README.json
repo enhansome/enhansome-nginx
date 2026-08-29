@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Performance Web Platform Based on Nginx and LuaJIT",
+            "homepage": "https://openresty.org",
             "id": 480080,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T10:25:41Z",
+            "open_issues": 333,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14018
+            "stars": 14018,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -26,12 +31,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-performance web server and reverse proxy, 100% compatible with nginx.",
+            "homepage": "https://tengine.taobao.org",
             "id": 3784017,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-24T06:13:53Z",
+            "open_issues": 501,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13343
+            "stars": 13343,
+            "topics": [
+              "forward-proxy",
+              "health-check",
+              "http3",
+              "kubernetes-ingress",
+              "load-balancer",
+              "lua",
+              "nginx",
+              "quic",
+              "reverse-proxy",
+              "sm2",
+              "tcp-proxy",
+              "tengine",
+              "tlcp",
+              "tls",
+              "web-server"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -42,12 +68,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angie - drop-in replacement for nginx",
+            "homepage": "https://en.angie.software/angie/docs/",
             "id": 557753836,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-26T08:22:33Z",
+            "open_issues": 44,
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2551
+            "stars": 2553,
+            "topics": [
+              "adc",
+              "apache",
+              "http",
+              "http3",
+              "https",
+              "load-balancer",
+              "nginx",
+              "quic",
+              "reverse-proxy"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         }
@@ -64,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embed the Power of Lua into NGINX HTTP servers",
+            "homepage": "https://openresty.org/",
             "id": 613829,
             "language": "C",
+            "license": null,
             "last_commit": "2026-08-24T09:16:22Z",
+            "open_issues": 393,
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11790
+            "stars": 11790,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -80,12 +126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.",
+            "homepage": "http://nginx-clojure.github.io",
             "id": 14975201,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T12:11:00Z",
+            "open_issues": 34,
             "owner": "nginx-clojure",
             "repo": "nginx-clojure",
-            "stars": 1084
+            "stars": 1084,
+            "topics": [
+              "clojure",
+              "groovy",
+              "java",
+              "nginx",
+              "nginx-clojure",
+              "nginx-java"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -96,12 +154,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ngx_mruby - A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language mruby for nginx",
+            "homepage": "https://ngx.mruby.org/",
             "id": 4246391,
             "language": "C",
+            "license": null,
             "last_commit": "2026-01-28T13:13:35Z",
+            "open_issues": 21,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
-            "stars": 997
+            "stars": 997,
+            "topics": [
+              "mruby",
+              "nginx",
+              "ngx-mruby"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -112,12 +179,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ngx_php -  Embedded php scripting language for nginx module.  All released versions of the code repository.",
+            "homepage": null,
             "id": 53402852,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2020-01-06T11:51:37Z",
+            "open_issues": 3,
             "owner": "rryqszq4",
             "repo": "ngx_php",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "module",
+              "nginx",
+              "nginx-module",
+              "ngx-php",
+              "php",
+              "php7"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -128,12 +207,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx + WebAssembly",
+            "homepage": null,
             "id": 355988312,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-03T21:18:17Z",
+            "open_issues": 18,
             "owner": "Kong",
             "repo": "ngx_wasm_module",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "assemblyscript",
+              "go",
+              "nginx",
+              "proxy-wasm",
+              "rust",
+              "wasi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         }
@@ -152,12 +245,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX-based Media Streaming Server",
+                "homepage": "http://nginx-rtmp.blogspot.com",
                 "id": 3714900,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-12-24T10:28:38Z",
+                "open_issues": 1160,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14036
+                "stars": 14036,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -168,12 +266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High Performance Web Platform Based on Nginx and LuaJIT",
+                "homepage": "https://openresty.org",
                 "id": 480080,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T10:25:41Z",
+                "open_issues": 333,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14018
+                "stars": 14018,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -184,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embed the Power of Lua into NGINX HTTP servers",
+                "homepage": "https://openresty.org/",
                 "id": 613829,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T09:16:22Z",
+                "open_issues": 393,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11790
+                "stars": 11790,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -200,12 +308,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Automatic PageSpeed optimization module for Nginx",
+                "homepage": "http://ngxpagespeed.com/",
                 "id": 4766638,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-21T14:50:27Z",
+                "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4339
+                "stars": 4339,
+                "topics": [
+                  "pagespeed"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -216,12 +331,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx virtual host traffic status module",
+                "homepage": null,
                 "id": 30759499,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-16T14:56:42Z",
+                "open_issues": 10,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
-                "stars": 3500
+                "stars": 3500,
+                "topics": [
+                  "c",
+                  "monitoring",
+                  "nginx",
+                  "nginx-module",
+                  "nginx-vhost-traffic-status",
+                  "vozlt-nginx-modules"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -232,12 +359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx Module for Google Mirror",
+                "homepage": null,
                 "id": 28071175,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-09-26T00:52:26Z",
+                "open_issues": 37,
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3356
+                "stars": 3356,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -248,12 +380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE), powered by Nginx.",
+                "homepage": "https://nchan.io/",
                 "id": 274218,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-09T13:46:34Z",
+                "open_issues": 130,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3065
+                "stars": 3065,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -264,12 +401,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache, VHosts (one IP for multi domain names) and JSON style statistics are supported now.",
+                "homepage": null,
                 "id": 95348937,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-19T13:57:01Z",
+                "open_issues": 26,
                 "owner": "winshining",
                 "repo": "nginx-http-flv-module",
-                "stars": 2934
+                "stars": 2934,
+                "topics": [
+                  "aac",
+                  "chunked-transmission",
+                  "dynamic-module",
+                  "flvjs",
+                  "gop-cache",
+                  "h264",
+                  "http-flv",
+                  "json-statistics",
+                  "live",
+                  "live-streaming",
+                  "media-server",
+                  "nginx",
+                  "nginx-http-flv",
+                  "nginx-rtmp",
+                  "rtmp",
+                  "vhost",
+                  "virtual-hosts"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -280,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.",
+                "homepage": null,
                 "id": 994615,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-19T19:17:35Z",
+                "open_issues": 15,
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
-                "stars": 2229
+                "stars": 2229,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -296,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Health checks upstreams for nginx",
+                "homepage": "http://github.com/yaoweibin/nginx_upstream_check_module",
                 "id": 840210,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2023-12-23T09:06:34Z",
+                "open_issues": 173,
                 "owner": "yaoweibin",
                 "repo": "nginx_upstream_check_module",
-                "stars": 2148
+                "stars": 2148,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -312,12 +482,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A forward proxy module for CONNECT request handling",
+                "homepage": null,
                 "id": 53579202,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-08-18T12:49:19Z",
+                "open_issues": 31,
                 "owner": "chobits",
                 "repo": "ngx_http_proxy_connect_module",
-                "stars": 1975
+                "stars": 1975,
+                "topics": [
+                  "forward-proxy",
+                  "http-tunnel",
+                  "nginx",
+                  "tengine"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -328,12 +508,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ModSecurity v3 Nginx Connector",
+                "homepage": null,
                 "id": 37931803,
                 "language": "Perl",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-04T17:05:33Z",
+                "open_issues": 70,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1848
+                "stars": 1848,
+                "topics": [
+                  "libmodsecurity",
+                  "modsecurity",
+                  "modsecurity-nginx",
+                  "nginx",
+                  "nginx-connector",
+                  "waf"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -344,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set, add, and clear arbitrary output headers in NGINX http servers",
+                "homepage": null,
                 "id": 374483,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T07:43:15Z",
+                "open_issues": 52,
                 "owner": "openresty",
                 "repo": "headers-more-nginx-module",
-                "stars": 1783
+                "stars": 1783,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -360,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "add the feature of tcp proxy with nginx, with health check and status monitor",
+                "homepage": "http://yaoweibin.github.com/nginx_tcp_proxy_module",
                 "id": 540999,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-12-19T13:21:51Z",
+                "open_issues": 107,
                 "owner": "yaoweibin",
                 "repo": "nginx_tcp_proxy_module",
-                "stars": 1645
+                "stars": 1645,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -376,12 +578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Nginx module for bringing the power of \"echo\", \"sleep\", \"time\" and more to Nginx's config file",
+                "homepage": "http://wiki.nginx.org/NginxHttpEchoModule",
                 "id": 318905,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T07:23:17Z",
+                "open_issues": 32,
                 "owner": "openresty",
                 "repo": "echo-nginx-module",
-                "stars": 1193
+                "stars": 1193,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -392,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx GeoIP2 module",
+                "homepage": null,
                 "id": 16393796,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-04-02T21:25:17Z",
+                "open_issues": 10,
                 "owner": "leev",
                 "repo": "ngx_http_geoip2_module",
-                "stars": 1141
+                "stars": 1141,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -408,12 +620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.",
+                "homepage": "http://labs.frickle.com/nginx_ngx_cache_purge/",
                 "id": 466680,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-20T07:30:20Z",
+                "open_issues": 47,
                 "owner": "FRiCKLE",
                 "repo": "ngx_cache_purge",
-                "stars": 1094
+                "stars": 1094,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -424,12 +641,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.",
+                "homepage": "http://nginx-clojure.github.io",
                 "id": 14975201,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T12:11:00Z",
+                "open_issues": 34,
                 "owner": "nginx-clojure",
                 "repo": "nginx-clojure",
-                "stars": 1084
+                "stars": 1084,
+                "topics": [
+                  "clojure",
+                  "groovy",
+                  "java",
+                  "nginx",
+                  "nginx-clojure",
+                  "nginx-java"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -440,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules",
+                "homepage": null,
                 "id": 492054,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-02-20T11:21:17Z",
+                "open_issues": 4,
                 "owner": "vision5",
                 "repo": "ngx_devel_kit",
-                "stars": 1027
+                "stars": 1027,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -456,12 +690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).",
+                "homepage": "http://www.grid.net.ru/nginx/upload.en.html",
                 "id": 95414,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-17T20:13:04Z",
+                "open_issues": 56,
                 "owner": "fdintino",
                 "repo": "nginx-upload-module",
-                "stars": 1003
+                "stars": 1003,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -472,12 +711,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ngx_mruby - A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language mruby for nginx",
+                "homepage": "https://ngx.mruby.org/",
                 "id": 4246391,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-01-28T13:13:35Z",
+                "open_issues": 21,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "mruby",
+                  "nginx",
+                  "ngx-mruby"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -488,12 +736,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fancy indexes module for the Nginx web server",
+                "homepage": null,
                 "id": 8378175,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-23T23:37:38Z",
+                "open_issues": 43,
                 "owner": "aperezdc",
                 "repo": "ngx-fancyindex",
-                "stars": 945
+                "stars": 945,
+                "topics": [
+                  "c",
+                  "indexes",
+                  "module",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -504,12 +762,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx upstream module for the Redis 2.0 protocol",
+                "homepage": "http://wiki.nginx.org/HttpRedis2Module",
                 "id": 1167878,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:47:05Z",
+                "open_issues": 28,
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
-                "stars": 905
+                "stars": 905,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -520,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[Deprecated] update upstreams' config by restful interface",
+                "homepage": null,
                 "id": 8284912,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-06-21T07:35:22Z",
+                "open_issues": 38,
                 "owner": "yzprofile",
                 "repo": "ngx_http_dyups_module",
-                "stars": 876
+                "stars": 876,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -536,12 +804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nginx module for concatenating files in a given context: CSS and JS files usually",
+                "homepage": null,
                 "id": 2948093,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-12-11T19:32:41Z",
+                "open_issues": 34,
                 "owner": "alibaba",
                 "repo": "nginx-http-concat",
-                "stars": 863
+                "stars": 863,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -552,12 +825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module for serving files from MongoDB's GridFS",
+                "homepage": "http://www.mongodb.org",
                 "id": 265935,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2013-12-10T14:35:03Z",
+                "open_issues": 54,
                 "owner": "mdirolf",
                 "repo": "nginx-gridfs",
-                "stars": 786
+                "stars": 786,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -568,12 +846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDAP authentication module for nginx",
+                "homepage": null,
                 "id": 3093005,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-07-25T13:01:22Z",
+                "open_issues": 151,
                 "owner": "kvspb",
                 "repo": "nginx-auth-ldap",
-                "stars": 759
+                "stars": 759,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -584,12 +867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a filter module which can do both regular expression and fixed string substitutions for nginx",
+                "homepage": null,
                 "id": 4075908,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2022-01-24T01:04:16Z",
+                "open_issues": 28,
                 "owner": "yaoweibin",
                 "repo": "ngx_http_substitutions_filter_module",
-                "stars": 628
+                "stars": 628,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -600,12 +888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "upstream module that allows nginx to communicate directly with PostgreSQL database. ",
+                "homepage": "http://labs.frickle.com/nginx_ngx_postgres/",
                 "id": 648923,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-09-29T08:09:44Z",
+                "open_issues": 37,
                 "owner": "FRiCKLE",
                 "repo": "ngx_postgres",
-                "stars": 551
+                "stars": 551,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -616,12 +909,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple robot mitigation module using cookie based challenge/response technique. Not supported any more.",
+                "homepage": "http://kyprizel.github.com/testcookie-nginx-module/",
                 "id": 3575731,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-18T05:05:35Z",
+                "open_issues": 14,
                 "owner": "kyprizel",
                 "repo": "testcookie-nginx-module",
-                "stars": 532
+                "stars": 532,
+                "topics": [
+                  "ddos",
+                  "ddos-mitigation",
+                  "nginx",
+                  "nginx-module"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -632,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX",
+                "homepage": null,
                 "id": 466452096,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-07T16:05:41Z",
+                "open_issues": 20,
                 "owner": "wargio",
                 "repo": "naxsi",
-                "stars": 519
+                "stars": 519,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -648,12 +956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx WebDAV PROPFIND,OPTIONS,LOCK,UNLOCK support",
+                "homepage": null,
                 "id": 3287337,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-05-18T05:45:42Z",
+                "open_issues": 32,
                 "owner": "arut",
                 "repo": "nginx-dav-ext-module",
-                "stars": 511
+                "stars": 511,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -664,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fair load balancer module for nginx",
+                "homepage": "http://nginx.localdomain.pl",
                 "id": 4957,
                 "language": "C",
+                "license": null,
                 "last_commit": "2020-01-12T01:41:17Z",
+                "open_issues": 26,
                 "owner": "gnosek",
                 "repo": "nginx-upstream-fair",
-                "stars": 493
+                "stars": 493,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -680,12 +998,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transparent subrequest-based caching layout for arbitrary nginx locations.",
+                "homepage": "http://wiki.nginx.org/NginxHttpSRCacheModule",
                 "id": 658456,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:37:26Z",
+                "open_issues": 28,
                 "owner": "openresty",
                 "repo": "srcache-nginx-module",
-                "stars": 486
+                "stars": 486,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -696,12 +1019,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module to proxy to authenticated AWS services",
+                "homepage": null,
                 "id": 1195063,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-08-09T14:48:15Z",
+                "open_issues": 41,
                 "owner": "anomalizer",
                 "repo": "ngx_aws_auth",
-                "stars": 475
+                "stars": 475,
+                "topics": [
+                  "aws-s3",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -712,12 +1043,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Image Transformation Module For nginx.",
+                "homepage": null,
                 "id": 4642174,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-16T13:38:31Z",
+                "open_issues": 20,
                 "owner": "cubicdaiya",
                 "repo": "ngx_small_light",
-                "stars": 474
+                "stars": 474,
+                "topics": [
+                  "gd",
+                  "imagemagick",
+                  "imlib2",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -728,12 +1069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module implementing an upload progress system, that monitors RFC1867 POST uploads as they are transmitted to upstream servers.",
+                "homepage": null,
                 "id": 42653,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-15T16:42:28Z",
+                "open_issues": 19,
                 "owner": "masterzen",
                 "repo": "nginx-upload-progress-module",
-                "stars": 434
+                "stars": 434,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -744,12 +1090,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various set_xxx directives added to nginx's rewrite module (md5/sha1, sql/json quoting, and many more)",
+                "homepage": "http://wiki.nginx.org/NginxHttpSetMiscModule",
                 "id": 498791,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:37:15Z",
+                "open_issues": 18,
                 "owner": "openresty",
                 "repo": "set-misc-nginx-module",
-                "stars": 402
+                "stars": 402,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -760,12 +1111,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an nginx upstream module that talks to mysql and drizzle by libdrizzle",
+                "homepage": "http://wiki.nginx.org/NginxHttpDrizzleModule",
                 "id": 386256,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:32:25Z",
+                "open_issues": 14,
                 "owner": "openresty",
                 "repo": "drizzle-nginx-module",
-                "stars": 335
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -776,12 +1132,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ngx_php -  Embedded php scripting language for nginx module.  All released versions of the code repository.",
+                "homepage": null,
                 "id": 53402852,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-01-06T11:51:37Z",
+                "open_issues": 3,
                 "owner": "rryqszq4",
                 "repo": "ngx_php",
-                "stars": 318
+                "stars": 318,
+                "topics": [
+                  "module",
+                  "nginx",
+                  "nginx-module",
+                  "ngx-php",
+                  "php",
+                  "php7"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -792,12 +1160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 645453402,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T00:03:40Z",
+                "open_issues": 20,
                 "owner": "nginx",
                 "repo": "nginx-otel",
-                "stars": 271
+                "stars": 271,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -808,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZeroMQ transport for nginx",
+                "homepage": null,
                 "id": 3113772,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-12-29T12:06:36Z",
+                "open_issues": 5,
                 "owner": "FRiCKLE",
                 "repo": "ngx_zeromq",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -824,12 +1202,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming regular expression replacement in response bodies",
+                "homepage": null,
                 "id": 7385528,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-08-12T07:08:58Z",
+                "open_issues": 12,
                 "owner": "openresty",
                 "repo": "replace-filter-nginx-module",
-                "stars": 263
+                "stars": 263,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -840,12 +1223,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Asynchronous Nginx module providing a RESTful API for TFS (Taobao File System).  ",
+                "homepage": "http://tfs.taobao.org/",
                 "id": 7350724,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-05-22T17:13:55Z",
+                "open_issues": 15,
                 "owner": "alibaba",
                 "repo": "nginx-tfs",
-                "stars": 257
+                "stars": 257,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -856,12 +1244,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx modules for the Zstandard compression",
+                "homepage": null,
                 "id": 152521348,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-10-30T10:25:14Z",
+                "open_issues": 30,
                 "owner": "tokers",
                 "repo": "zstd-nginx-module",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "nginx",
+                  "nginx-module",
+                  "zstd"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -872,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nginx module to protect servers when system load or memory use goes too high.",
+                "homepage": null,
                 "id": 6861228,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-04-17T00:26:45Z",
+                "open_issues": 5,
                 "owner": "alibaba",
                 "repo": "nginx-http-sysguard",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -888,12 +1290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "support AJP protocol proxy with Nginx",
+                "homepage": "http://github.com/yaoweibin/nginx_ajp_module",
                 "id": 686561,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2024-02-20T07:04:23Z",
+                "open_issues": 24,
                 "owner": "yaoweibin",
                 "repo": "nginx_ajp_module",
-                "stars": 245
+                "stars": 245,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -904,12 +1311,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It is a NGINX module that provides dynamic linking to your application in server context and call the function of your application in location directive",
+                "homepage": "https://nginx-link-function.github.io",
                 "id": 119272966,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-07-22T03:54:50Z",
+                "open_issues": 3,
                 "owner": "Taymindis",
                 "repo": "nginx-link-function",
-                "stars": 234
+                "stars": 234,
+                "topics": [
+                  "dynamic-link-library",
+                  "dynamic-linking",
+                  "embedded",
+                  "golang",
+                  "microservices",
+                  "microservices-architecture",
+                  "nginx",
+                  "nginx-cfunction",
+                  "nginx-server",
+                  "ngx-http",
+                  "test-nginx",
+                  "zero-downtime"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -920,12 +1345,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An extended version of the standard memcached module that supports set, add, delete, and many more memcached commands.",
+                "homepage": "http://wiki.nginx.org/NginxHttpMemcModule",
                 "id": 382367,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:36:16Z",
+                "open_issues": 11,
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
-                "stars": 213
+                "stars": 213,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -936,12 +1366,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module to extract thumbs from a video file",
+                "homepage": null,
                 "id": 2830385,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T09:19:30Z",
+                "open_issues": 2,
                 "owner": "wandenberg",
                 "repo": "nginx-video-thumbextractor-module",
-                "stars": 208
+                "stars": 208,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -952,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "encrypt and decrypt nginx variable values",
+                "homepage": "http://openresty.org",
                 "id": 669625,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:23:29Z",
+                "open_issues": 19,
                 "owner": "openresty",
                 "repo": "encrypted-session-nginx-module",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -968,12 +1408,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nginx module to match browsers and crawlers",
+                "homepage": "http://tengine.taobao.org",
                 "id": 3947645,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-05-04T21:27:29Z",
+                "open_issues": 1,
                 "owner": "alibaba",
                 "repo": "nginx-http-user-agent",
-                "stars": 160
+                "stars": 160,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -984,12 +1429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An nginx output filter that formats Resty DBD Streams generated by ngx_drizzle and others to JSON",
+                "homepage": null,
                 "id": 468617,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:36:32Z",
+                "open_issues": 4,
                 "owner": "openresty",
                 "repo": "rds-json-nginx-module",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1000,12 +1450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native support for cross-site scripting (XSS) in an nginx",
+                "homepage": null,
                 "id": 481928,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:37:50Z",
+                "open_issues": 2,
                 "owner": "openresty",
                 "repo": "xss-nginx-module",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1016,12 +1471,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":sound: Nginx module that generates audio track for HTTP Live Streaming (HLS) streams on the fly.",
+                "homepage": null,
                 "id": 9702514,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-20T21:01:28Z",
+                "open_issues": 10,
                 "owner": "flavioribeiro",
                 "repo": "nginx-audio-track-for-hls-module",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "audio",
+                  "hls",
+                  "livestream",
+                  "nginx",
+                  "plugin",
+                  "stream",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1032,12 +1500,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A nginx module that prints some text in the footer of a request",
+                "homepage": null,
                 "id": 3182047,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-04-08T16:29:57Z",
+                "open_issues": 1,
                 "owner": "alibaba",
                 "repo": "nginx-http-footer-filter",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1048,12 +1521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 8563975,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-04-08T09:18:15Z",
+                "open_issues": 4,
                 "owner": "wandenberg",
                 "repo": "nginx-selective-cache-purge-module",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1064,12 +1542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a nginx module that reads HTTP POST and PUT request body encoded     in \"application/x-www-form-urlencoded\", and parse the arguments in     request body into nginx variables.",
+                "homepage": null,
                 "id": 609888,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2017-10-27T20:55:33Z",
+                "open_issues": 3,
                 "owner": "calio",
                 "repo": "form-input-nginx-module",
-                "stars": 119
+                "stars": 119,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1080,12 +1563,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX Module for sending security headers",
+                "homepage": "https://www.getpagespeed.com/server-setup/nginx-security-headers-the-right-way",
                 "id": 168027028,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-13T07:07:30Z",
+                "open_issues": 5,
                 "owner": "GetPageSpeed",
                 "repo": "ngx_security_headers",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "hsts",
+                  "hstspreload",
+                  "https",
+                  "nginx",
+                  "nginx-module",
+                  "security",
+                  "securityheader",
+                  "x-frame-options",
+                  "x-powered-by"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1096,12 +1594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Split one big HTTP/Range request to multiple subrange requesets",
+                "homepage": null,
                 "id": 19489959,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-04-09T09:37:10Z",
+                "open_issues": 2,
                 "owner": "Qihoo360",
                 "repo": "ngx_http_subrange_module",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1112,12 +1615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module for serving a file in slices (reverse byte-range)",
+                "homepage": null,
                 "id": 3587897,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-05-01T03:32:05Z",
+                "open_issues": 3,
                 "owner": "alibaba",
                 "repo": "nginx-http-slice",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1128,12 +1636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module providing API to communicate with supervisord and manage (start/stop) backends on-demand.",
+                "homepage": "http://labs.frickle.com/nginx_ngx_supervisord/",
                 "id": 466757,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2010-06-24T13:37:56Z",
+                "open_issues": 1,
                 "owner": "FRiCKLE",
                 "repo": "ngx_supervisord",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1144,12 +1657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An adaptive hls streaming module for nginx",
+                "homepage": null,
                 "id": 33910294,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-07T15:46:15Z",
+                "open_issues": 7,
                 "owner": "whatvn",
                 "repo": "ngx_http_estreaming_module",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1160,12 +1678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A module for evaluating memcached or proxy response into variable",
+                "homepage": null,
                 "id": 192921,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-01T15:40:42Z",
+                "open_issues": 13,
                 "owner": "vkholodkov",
                 "repo": "nginx-eval-module",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1176,12 +1699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx module for Fluentd data collector",
+                "homepage": null,
                 "id": 5814200,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-13T18:13:44Z",
+                "open_issues": 2,
                 "owner": "fluent",
                 "repo": "nginx-fluentd-module",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1192,12 +1720,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MogileFS client for nginx",
+                "homepage": null,
                 "id": 174269,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2012-10-14T15:52:12Z",
+                "open_issues": 6,
                 "owner": "vkholodkov",
                 "repo": "nginx-mogilefs-module",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1208,12 +1741,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HMAC Secure Link module for NGINX.",
+                "homepage": null,
                 "id": 18655654,
                 "language": "C",
+                "license": "Unlicense",
                 "last_commit": "2026-04-25T08:03:04Z",
+                "open_issues": 1,
                 "owner": "nginx-modules",
                 "repo": "ngx_http_hmac_secure_link_module",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "authentication",
+                  "blake2",
+                  "expiration-period",
+                  "gost",
+                  "hash",
+                  "hashing-algorithm",
+                  "hmac",
+                  "iso-8601",
+                  "legacy",
+                  "lifetime",
+                  "module",
+                  "nginx",
+                  "openssl",
+                  "rfc-2104",
+                  "security",
+                  "sha3",
+                  "sha512",
+                  "sm3",
+                  "timestamp",
+                  "unix-timestamp"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1224,12 +1783,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Serve round corners with custom tinting. Vroom, vroom! 🏎",
+                "homepage": "https://www.nginx.com/resources/wiki/modules/circle_gif/",
                 "id": 342269,
                 "language": "C",
+                "license": null,
                 "last_commit": "2019-05-06T19:12:58Z",
+                "open_issues": 1,
                 "owner": "evanmiller",
                 "repo": "nginx_circle_gif",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1240,12 +1804,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Nginx module to dump backtrace when a worker process exits abnormally",
+                "homepage": "http://tengine.taobao.org",
                 "id": 3947634,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-12-01T09:19:28Z",
+                "open_issues": 1,
                 "owner": "alibaba",
                 "repo": "nginx-backtrace",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1256,12 +1825,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add support for array-typed variables to nginx config files",
+                "homepage": "http://openresty.org",
                 "id": 510988,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:14:30Z",
+                "open_issues": 2,
                 "owner": "openresty",
                 "repo": "array-var-nginx-module",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1272,12 +1846,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module which adds ability to view cache node info from FastCGI, proxy, SCGI and uWSGI caches.",
+                "homepage": null,
                 "id": 14745749,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-11-28T12:20:29Z",
+                "open_issues": 0,
                 "owner": "agile6v",
                 "repo": "ngx_cache_viewer",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1288,12 +1867,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Protocol Buffers code generator for nginx module developers",
+                "homepage": "http://daveb.net/protobuf-nginx/protobuf-nginx-1.0.tar.gz",
                 "id": 9544541,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2013-05-27T16:47:38Z",
+                "open_issues": 0,
                 "owner": "dbcode",
                 "repo": "protobuf-nginx",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1304,12 +1888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "run cgi scripts with nginx",
+                "homepage": null,
                 "id": 916271026,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-03T17:46:22Z",
+                "open_issues": 5,
                 "owner": "pjincz",
                 "repo": "nginx-cgi",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1320,12 +1909,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module to use linux netfilter ipsets as blacklists",
+                "homepage": null,
                 "id": 1015489,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-04-16T01:21:14Z",
+                "open_issues": 2,
                 "owner": "Vasfed",
                 "repo": "nginx_ipset_blacklist",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "ipset",
+                  "nginx",
+                  "nginx-module"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1336,12 +1934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "renderize markdown as HTML directly from your upstream server",
+                "homepage": null,
                 "id": 1355535,
                 "language": "C",
+                "license": null,
                 "last_commit": "2011-02-11T15:38:58Z",
+                "open_issues": 1,
                 "owner": "gabrielfalcao",
                 "repo": "nginx-markdown-module",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1352,12 +1955,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module to parse php sessions",
+                "homepage": null,
                 "id": 516598,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-04-26T10:42:25Z",
+                "open_issues": 0,
                 "owner": "replay",
                 "repo": "ngx_http_php_session",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1368,12 +1976,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🖼 Generating avatars on-the-fly with Nginx",
+                "homepage": null,
                 "id": 67533951,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2018-07-26T08:04:16Z",
+                "open_issues": 2,
                 "owner": "dizballanze",
                 "repo": "ngx_http_avatars_gen_module",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "avatar",
+                  "generating-avatars",
+                  "nginx",
+                  "nginx-module"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1384,12 +2002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a character conversion nginx module using libiconv",
+                "homepage": null,
                 "id": 623023,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-10-10T09:09:52Z",
+                "open_issues": 2,
                 "owner": "calio",
                 "repo": "iconv-nginx-module",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1400,12 +2023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use nginx as a common TCP server framework",
+                "homepage": null,
                 "id": 17563135,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-11-20T06:07:10Z",
+                "open_issues": 2,
                 "owner": "laocai",
                 "repo": "tcp-nginx-module",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1416,12 +2044,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of logging using BSD Syslog Protocol for nginx (RFC 3164)",
+                "homepage": "http://www.grid.net.ru/nginx/udplog.en.html",
                 "id": 459562,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2011-07-09T10:35:48Z",
+                "open_issues": 3,
                 "owner": "vkholodkov",
                 "repo": "nginx-udplog-module",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1432,12 +2065,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The module implements Resin's HMUX protocol in NGINX.",
+                "homepage": null,
                 "id": 2575104,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-20T10:11:49Z",
+                "open_issues": 2,
                 "owner": "session-replay-tools",
                 "repo": "nginx-hmux-module",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1448,12 +2086,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZTSD Compression for NGINX/Angie, fixed and tested",
+                "homepage": "https://deb.myguard.nl/articles/zstd-nginx-module-bugs-fixed/",
                 "id": 448138162,
                 "language": "C",
-                "last_commit": "2026-08-28T21:11:07Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T02:41:43Z",
+                "open_issues": 6,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "angie",
+                  "compression",
+                  "hardened",
+                  "myguard",
+                  "nginx",
+                  "zstd"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1464,12 +2114,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ngx_lfqueue is the queue which share memory across multiple threads and multiple worker without any lock!! ",
+                "homepage": null,
                 "id": 149596669,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-09-21T08:06:23Z",
+                "open_issues": 0,
                 "owner": "Taymindis",
                 "repo": "ngx_lfqueue",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "atomic-design",
+                  "lfqueue",
+                  "lock-free",
+                  "nginx",
+                  "queue-workers",
+                  "queues",
+                  "shared-memory",
+                  "zerodowntime"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1480,12 +2144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another image filter based GraphicsMagic",
+                "homepage": null,
                 "id": 5377382,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-04-12T10:38:14Z",
+                "open_issues": 1,
                 "owner": "liseen",
                 "repo": "ngx-gm-filter",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1496,12 +2165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Nginx IP2Location Module",
+                "homepage": null,
                 "id": 11997618,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-11-27T12:51:24Z",
+                "open_issues": 2,
                 "owner": "chaizhenhua",
                 "repo": "ngx-ip2location",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1512,12 +2186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "To structure your elastic client command in your nginx proxy for multiple elasticsearch server.",
+                "homepage": null,
                 "id": 130675934,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-04-27T07:27:02Z",
+                "open_issues": 0,
                 "owner": "Taymindis",
                 "repo": "nginx-elastic-client",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1528,12 +2207,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx output filter module to convert Resty-DBD-Streams (RDS) to Comma-Separated Values (CSV)",
+                "homepage": null,
                 "id": 2283707,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:36:24Z",
+                "open_issues": 2,
                 "owner": "openresty",
                 "repo": "rds-csv-nginx-module",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1544,12 +2228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The module for nginx webserver to access Couchbase Server",
+                "homepage": "labs.couchbase.com/couchbase-nginx-module/",
                 "id": 5958709,
                 "language": "C",
+                "license": null,
                 "last_commit": "2013-09-17T04:06:58Z",
+                "open_issues": 0,
                 "owner": "couchbaselabs",
                 "repo": "couchbase-nginx-module",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1560,12 +2249,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Time-based one-time password (TOTP) authentication for Nginx",
+                "homepage": null,
                 "id": 833960926,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-04T03:50:52Z",
+                "open_issues": 1,
                 "owner": "61131",
                 "repo": "nginx-http-auth-totp",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "c",
+                  "nginx",
+                  "totp"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1576,12 +2274,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX filter module for adding overlays and logos to JPEGs on-the-fly without degrading the quality of the image.",
+                "homepage": null,
                 "id": 28925550,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-10-02T20:07:13Z",
+                "open_issues": 1,
                 "owner": "ioppermann",
                 "repo": "modjpeg-nginx",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "filter",
+                  "jpeg",
+                  "libmodjpeg",
+                  "module",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1592,12 +2301,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx url encoding converting module",
+                "homepage": null,
                 "id": 29515077,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2022-09-06T01:18:37Z",
+                "open_issues": 0,
                 "owner": "vozlt",
                 "repo": "nginx-module-url",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "c",
+                  "encoding",
+                  "nginx",
+                  "nginx-module",
+                  "vozlt-nginx-modules"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1608,12 +2328,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an nginx module to strip the served HTML of all newlines (\\n and \\r characters)",
+                "homepage": null,
                 "id": 781869,
                 "language": "C",
+                "license": null,
                 "last_commit": "2011-04-03T10:43:46Z",
+                "open_issues": 0,
                 "owner": "vedang",
                 "repo": "nginx-nonewlines",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "c",
+                  "nginx",
+                  "nginx-module"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1624,12 +2353,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX module for adding ETag to dynamic content",
+                "homepage": "https://www.getpagespeed.com/server-setup/nginx/nginx-enable-conditional-get-for-dynamic-pages",
                 "id": 167708393,
                 "language": "Perl",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-15T18:10:43Z",
+                "open_issues": 0,
                 "owner": "dvershinin",
                 "repo": "ngx_dynamic_etag",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "c",
+                  "etag",
+                  "etags",
+                  "module",
+                  "nginx",
+                  "nginx-module"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1640,12 +2381,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "runtime call tracer for nginx",
+                "homepage": null,
                 "id": 2621872,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2012-01-04T21:20:45Z",
+                "open_issues": 0,
                 "owner": "zzzcpan",
                 "repo": "ngx_trace",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1656,12 +2402,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module allows limiting access to certain  http request methods and client addresses.",
+                "homepage": null,
                 "id": 39293650,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-08-10T08:04:20Z",
+                "open_issues": 0,
                 "owner": "nginx-clojure",
                 "repo": "nginx-access-plus",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1672,12 +2423,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "clone from http://code.google.com/p/nginx-sticky-module/",
+                "homepage": null,
                 "id": 5324779,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2012-08-10T10:12:10Z",
+                "open_issues": 2,
                 "owner": "yaoweibin",
                 "repo": "nginx-sticky-module",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1688,12 +2444,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Nginx module capable of binding the application session to the SSL session by encrypting the application cookie with a secret key and the SSL master key",
+                "homepage": null,
                 "id": 6140981,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-09-05T06:45:44Z",
+                "open_issues": 0,
                 "owner": "wburgers",
                 "repo": "Session-Binding-Proxy",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1704,12 +2465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set Content-Type mime-type automatically from the magic bytes of some file! (Similar to file(1))",
+                "homepage": null,
                 "id": 265369963,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-11-21T10:31:15Z",
+                "open_issues": 1,
                 "owner": "Yureien",
                 "repo": "nginx-mime-magic-module",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1720,12 +2486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nginx module that creates variables with location info from QQWry",
+                "homepage": null,
                 "id": 1190665,
                 "language": "C",
+                "license": null,
                 "last_commit": "2010-12-23T16:28:45Z",
+                "open_issues": 1,
                 "owner": "anjuke",
                 "repo": "ngx_http_qqwry_module",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1736,12 +2507,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A STOMP upstream module on nginx, STOMP is the Simple (or Streaming) Text Orientated Messaging Protocol.",
+                "homepage": null,
                 "id": 136440249,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-06-13T08:47:22Z",
+                "open_issues": 0,
                 "owner": "Taymindis",
                 "repo": "ngx-stomp",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "mq",
+                  "nginx",
+                  "stompclient"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1752,12 +2532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx OCSP processing module designed for response caching",
+                "homepage": null,
                 "id": 15052120,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2014-03-24T11:22:56Z",
+                "open_issues": 0,
                 "owner": "kyprizel",
                 "repo": "nginx_ocsp_proxy-module",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1768,12 +2553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ngx_lfstack is the lock free stack(push/pop) container running on nginx share memory and it read/write across multiple threads and multiple workers without any lock!",
+                "homepage": null,
                 "id": 149598495,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-09-21T08:09:32Z",
+                "open_issues": 1,
                 "owner": "Taymindis",
                 "repo": "ngx_lfstack",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1784,12 +2574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This module allow nginx to decrypt strings encrypted with xxtea algorithm. This is useful to hide actual URLs from client.",
+                "homepage": null,
                 "id": 104042864,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2017-09-19T07:45:27Z",
+                "open_issues": 0,
                 "owner": "trax-retail",
                 "repo": "url-protector-nginx-module",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1800,12 +2595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx DSO module",
+                "homepage": null,
                 "id": 2868570,
                 "language": "C",
+                "license": null,
                 "last_commit": "2014-02-05T03:15:18Z",
+                "open_issues": 0,
                 "owner": "hamano",
                 "repo": "nginx-mod-so",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1816,12 +2616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native QR encoding for Nginx Web Server",
+                "homepage": null,
                 "id": 3198209,
                 "language": "C",
+                "license": null,
                 "last_commit": "2012-01-17T16:53:25Z",
+                "open_issues": 0,
                 "owner": "alexchamberlain",
                 "repo": "nginx-qrcode",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1832,12 +2637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx Module for Authenticating Akamai G2O requests",
+                "homepage": null,
                 "id": 2149327,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-08-08T09:18:35Z",
+                "open_issues": 0,
                 "owner": "refractalize",
                 "repo": "nginx_mod_akamai_g2o",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1848,12 +2658,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module to automate certificates through the ACME protocol, with dual-certifate, wildcard and ip-cert  support",
+                "homepage": "https://deb.myguard.nl/articles/nginx-autocert-module/",
                 "id": 1272653477,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T04:33:31Z",
+                "open_issues": 1,
                 "owner": "myguard-labs",
                 "repo": "nginx-autocert-module",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "acme",
+                  "angie",
+                  "dual-certificate",
+                  "ecdsa",
+                  "https",
+                  "nginx",
+                  "rsa",
+                  "tls",
+                  "wildcard-certificates"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1864,12 +2689,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
                 "id": 1262837794,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1880,12 +2716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XSLT processor based on Nginx",
+                "homepage": null,
                 "id": 3089031,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-11T14:39:47Z",
+                "open_issues": 0,
                 "owner": "yoreek",
                 "repo": "nginx-xsltproc-module",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1896,12 +2737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX module for delegating authentication and authorization to an HTTP gateway.",
+                "homepage": null,
                 "id": 10621328,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2014-06-06T16:30:56Z",
+                "open_issues": 6,
                 "owner": "algermissen",
                 "repo": "nginx-dlg-auth",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1912,12 +2758,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
                 "id": 1262837794,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
                 "owner": "myguard-labs",
                 "repo": "nginx-error-abuse-module",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1928,12 +2785,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx http filter module for dynamically resizing gifs with ImageMagick",
+                "homepage": null,
                 "id": 10576025,
                 "language": "C",
+                "license": null,
                 "last_commit": "2022-07-16T02:14:13Z",
+                "open_issues": 0,
                 "owner": "mschenck",
                 "repo": "ngx_http_gif_magick",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1944,12 +2806,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight web application firewall module for nginx.",
+                "homepage": null,
                 "id": 85120412,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2015-09-07T12:43:20Z",
+                "open_issues": 0,
                 "owner": "gsdu8g9",
                 "repo": "waf-nginx-module",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1960,12 +2827,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx/tengine module to guess mime type using libmagic",
+                "homepage": null,
                 "id": 160998872,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-15T23:37:12Z",
+                "open_issues": 3,
                 "owner": "ohnx",
                 "repo": "nginx-guess-mime",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1976,12 +2848,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Edge page cache for NGINX; shared-memory cache, stale-while-revalidate, probabilistic single-flight refresh",
+                "homepage": "https://deb.myguard.nl/articles/nginx-cache-turbo/",
                 "id": 1265374865,
                 "language": "C",
-                "last_commit": "2026-08-28T21:17:26Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-29T04:35:18Z",
+                "open_issues": 0,
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "angie",
+                  "caching",
+                  "module",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -1992,12 +2874,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple nginx module that returns 403 if stat() of specified path succeeds",
+                "homepage": null,
                 "id": 235103584,
                 "language": "C",
+                "license": "WTFPL",
                 "last_commit": "2025-02-22T09:56:44Z",
+                "open_issues": 0,
                 "owner": "mk-fg",
                 "repo": "nginx-stat-check",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "access-control",
+                  "blacklisting",
+                  "bots",
+                  "module",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2008,12 +2901,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time encryption at NGINX log phase (zero plaintext on disk)",
+                "homepage": "https://bzlab.dev",
                 "id": 1261307961,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-09T17:06:06Z",
+                "open_issues": 0,
                 "owner": "no1xpert",
                 "repo": "ngx_http_securelog_module",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "logging",
+                  "module",
+                  "nginx",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2024,12 +2927,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx mod status",
+                "homepage": null,
                 "id": 405095791,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-28T11:21:16Z",
+                "open_issues": 0,
                 "owner": "codebytes5",
                 "repo": "ngx_status_module",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2040,12 +2948,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EXPERIMENTAL: Unified client-reputation + JA4+ fingerprint + AI-scraper tarpit module for nginx/angie (planning stage)",
+                "homepage": null,
                 "id": 1277439463,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-10T18:00:40Z",
+                "open_issues": 1,
                 "owner": "myguard-labs",
                 "repo": "nginx-http-sentinel-module",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "angie",
+                  "ja4",
+                  "module",
+                  "nginx",
+                  "security",
+                  "tarpit"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2056,12 +2976,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enrollment over Secure Transport (EST) module for Nginx",
+                "homepage": null,
                 "id": 715822174,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-05-20T02:30:27Z",
+                "open_issues": 2,
                 "owner": "61131",
                 "repo": "nginx-http-est",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "c",
+                  "est",
+                  "nginx",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2072,12 +3002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RFC 2397 \"data\" URL scheme filter module for Nginx",
+                "homepage": null,
                 "id": 909921383,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-12-30T04:34:37Z",
+                "open_issues": 1,
                 "owner": "61131",
                 "repo": "nginx-http-filter-data",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2088,12 +3023,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx dynamic module: smart HTML/CSS/JS/JSON response-body minifier",
+                "homepage": "https://deb.myguard.nl/articles/nginx-strip-filter-module/",
                 "id": 1277155838,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T04:48:52Z",
+                "open_issues": 1,
                 "owner": "myguard-labs",
                 "repo": "nginx-strip-filter-module",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "angie",
+                  "module",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2104,12 +3048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "nginx module that drops scrapers, scanners and secret-file probes",
+                "homepage": null,
                 "id": 1337836980,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-23T00:00:21Z",
+                "open_issues": 0,
                 "owner": "coalaura",
                 "repo": "nwall",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             }
@@ -2131,12 +3080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust binding for NGINX",
+            "homepage": null,
             "id": 100082295,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:46:09Z",
+            "open_issues": 43,
             "owner": "nginx",
             "repo": "ngx-rust",
-            "stars": 907
+            "stars": 907,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -2149,12 +3103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ngx_lua_waf是一个基于lua-nginx-module(openresty)的web应用防火墙",
+                "homepage": null,
                 "id": 8968583,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2024-03-17T12:14:30Z",
+                "open_issues": 84,
                 "owner": "loveshell",
                 "repo": "ngx_lua_waf",
-                "stars": 4024
+                "stars": 4024,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2165,12 +3124,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua HTTP client cosocket driver for OpenResty / ngx_lua.",
+                "homepage": null,
                 "id": 13468660,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-11T08:14:16Z",
+                "open_issues": 42,
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
-                "stars": 2078
+                "stars": 2078,
+                "topics": [
+                  "http",
+                  "http-client",
+                  "lua",
+                  "luajit",
+                  "nginx",
+                  "nginx-lua",
+                  "openresty",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2181,12 +3154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua redis client driver for the ngx_lua based on the cosocket API",
+                "homepage": null,
                 "id": 3366743,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:34:57Z",
+                "open_issues": 75,
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
-                "stars": 1956
+                "stars": 1956,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2197,12 +3175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Templating Engine (HTML) for Lua and OpenResty.",
+                "homepage": null,
                 "id": 17054544,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-07-21T13:39:41Z",
+                "open_issues": 15,
                 "owner": "bungle",
                 "repo": "lua-resty-template",
-                "stars": 923
+                "stars": 923,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2213,12 +3196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New FFI-based API for lua-nginx-module",
+                "homepage": null,
                 "id": 9782547,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:43:56Z",
+                "open_issues": 71,
                 "owner": "openresty",
                 "repo": "lua-resty-core",
-                "stars": 853
+                "stars": 853,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2229,12 +3217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua kafka client driver for the Openresty based on the cosocket API",
+                "homepage": null,
                 "id": 24495769,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-11-03T14:50:51Z",
+                "open_issues": 83,
                 "owner": "doujiang24",
                 "repo": "lua-resty-kafka",
-                "stars": 813
+                "stars": 813,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2245,12 +3238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nonblocking Lua MySQL driver library for ngx_lua or OpenResty",
+                "homepage": null,
                 "id": 3420775,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-06-20T14:42:27Z",
+                "open_issues": 54,
                 "owner": "openresty",
                 "repo": "lua-resty-mysql",
-                "stars": 726
+                "stars": 726,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2261,12 +3259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Health Checker for Nginx Upstream Servers in Pure Lua",
+                "homepage": null,
                 "id": 16270774,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:35:43Z",
+                "open_issues": 47,
                 "owner": "openresty",
                 "repo": "lua-resty-upstream-healthcheck",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2277,12 +3280,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JWT For The Great Openresty",
+                "homepage": null,
                 "id": 27266201,
                 "language": "Perl",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-03T10:53:56Z",
+                "open_issues": 37,
                 "owner": "SkyLothar",
                 "repo": "lua-resty-jwt",
-                "stars": 538
+                "stars": 538,
+                "topics": [
+                  "jwt",
+                  "lua",
+                  "lua-resty-jwt",
+                  "ngx-lua"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2293,12 +3306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebSocket support for the ngx_lua module (and OpenResty)",
+                "homepage": null,
                 "id": 12722647,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:35:51Z",
+                "open_issues": 32,
                 "owner": "openresty",
                 "repo": "lua-resty-websocket",
-                "stars": 523
+                "stars": 523,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2309,12 +3327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nginx C module to expose Lua API to ngx_lua for Nginx upstreams",
+                "homepage": null,
                 "id": 15853845,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-24T07:36:07Z",
+                "open_issues": 27,
                 "owner": "openresty",
                 "repo": "lua-upstream-nginx-module",
-                "stars": 512
+                "stars": 512,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2325,12 +3348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Raw-socket-based Logger Library for Nginx (based on ngx_lua)",
+                "homepage": null,
                 "id": 13570050,
                 "language": "Raku",
+                "license": null,
                 "last_commit": "2026-04-24T00:32:14Z",
+                "open_issues": 36,
                 "owner": "cloudflare",
                 "repo": "lua-resty-logger-socket",
-                "stars": 494
+                "stars": 494,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2341,12 +3369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua-land LRU Cache based on LuaJIT FFI",
+                "homepage": null,
                 "id": 19296238,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-07-17T07:52:08Z",
+                "open_issues": 15,
                 "owner": "openresty",
                 "repo": "lua-resty-lrucache",
-                "stars": 460
+                "stars": 460,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2357,12 +3390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "String utilities and common hash functions for ngx_lua and LuaJIT",
+                "homepage": null,
                 "id": 3560530,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:35:25Z",
+                "open_issues": 26,
                 "owner": "openresty",
                 "repo": "lua-resty-string",
-                "stars": 443
+                "stars": 443,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2373,12 +3411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming reader and parser for http file uploading based on ngx_lua cosocket",
+                "homepage": null,
                 "id": 3386972,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:35:34Z",
+                "open_issues": 19,
                 "owner": "openresty",
                 "repo": "lua-resty-upload",
-                "stars": 414
+                "stars": 414,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2389,12 +3432,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lua library for HTTP cookie manipulations for OpenResty/ngx_lua",
+                "homepage": null,
                 "id": 13894100,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2023-09-06T12:59:08Z",
+                "open_issues": 24,
                 "owner": "cloudflare",
                 "repo": "lua-resty-cookie",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2405,12 +3453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Session library for OpenResty – flexible and secure",
+                "homepage": null,
                 "id": 20531891,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-24T14:05:48Z",
+                "open_issues": 26,
                 "owner": "bungle",
                 "repo": "lua-resty-session",
-                "stars": 343
+                "stars": 343,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2421,12 +3474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DNS resolver for the nginx lua module",
+                "homepage": null,
                 "id": 5268553,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:34:12Z",
+                "open_issues": 17,
                 "owner": "openresty",
                 "repo": "lua-resty-dns",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2437,12 +3495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple nonblocking lock API for ngx_lua based on shared memory dictionaries",
+                "homepage": null,
                 "id": 13136767,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-26T01:58:38Z",
+                "open_issues": 9,
                 "owner": "openresty",
                 "repo": "lua-resty-lock",
-                "stars": 323
+                "stars": 323,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2453,12 +3516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RSA encrypt/decrypt & sign/verify for OpenResty/LuaJIT",
+                "homepage": null,
                 "id": 27882984,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2024-11-09T04:22:57Z",
+                "open_issues": 11,
                 "owner": "spacewander",
                 "repo": "lua-resty-rsa",
-                "stars": 268
+                "stars": 268,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2469,12 +3537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua memcached client driver for the ngx_lua based on the cosocket API",
+                "homepage": null,
                 "id": 3334760,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T07:34:49Z",
+                "open_issues": 8,
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2485,12 +3558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opinionated Lua RabbitMQ client library for the ngx_lua apps based on the cosocket API",
+                "homepage": null,
                 "id": 10382805,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2020-04-27T11:18:21Z",
+                "open_issues": 3,
                 "owner": "wingify",
                 "repo": "lua-resty-rabbitmqstomp",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2501,12 +3579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings for Nettle (a low-level cryptographic library) ",
+                "homepage": null,
                 "id": 20655013,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-06-08T12:21:27Z",
+                "open_issues": 5,
                 "owner": "bungle",
                 "repo": "lua-resty-nettle",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2517,12 +3600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple blog engine using openresty, nginx, lua, markdown, git and redis",
+                "homepage": null,
                 "id": 6628370,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2014-12-27T18:25:10Z",
+                "open_issues": 1,
                 "owner": "torhve",
                 "repo": "LuaWeb",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2533,12 +3621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "json lib for lua and C",
+                "homepage": null,
                 "id": 26564065,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-24T00:37:50Z",
+                "open_issues": 4,
                 "owner": "cloudflare",
                 "repo": "lua-resty-json",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2549,12 +3642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HMAC functions for ngx_lua and LuaJIT",
+                "homepage": null,
                 "id": 21948797,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2023-05-31T14:14:23Z",
+                "open_issues": 2,
                 "owner": "jkeys089",
                 "repo": "lua-resty-hmac",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2565,12 +3663,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Limit the request processing rate between multiple NGINX instances backed by Redis",
+                "homepage": null,
                 "id": 24169492,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2026-06-01T17:11:02Z",
+                "open_issues": 2,
                 "owner": "timebug",
                 "repo": "lua-resty-redis-ratelimit",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "leaky-bucket",
+                  "lua-resty",
+                  "ratelimit",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2581,12 +3689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Validation Library (Input Validation and Filtering) for Lua and OpenResty.",
+                "homepage": null,
                 "id": 18399578,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-08-31T14:06:42Z",
+                "open_issues": 2,
                 "owner": "bungle",
                 "repo": "lua-resty-validation",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2597,12 +3710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tiny subprocess/shell library to use with OpenResty application server",
+                "homepage": null,
                 "id": 18308898,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2022-09-28T20:28:55Z",
+                "open_issues": 3,
                 "owner": "juce",
                 "repo": "lua-resty-shell",
-                "stars": 148
+                "stars": 148,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2613,12 +3731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua module to add Google OAuth to nginx",
+                "homepage": null,
                 "id": 20331187,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2021-03-11T15:58:04Z",
+                "open_issues": 10,
                 "owner": "agoragames",
                 "repo": "nginx-google-oauth",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2629,12 +3752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library to interface with the consul HTTP API from ngx_lua",
+                "homepage": null,
                 "id": 21396969,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2021-08-18T22:37:45Z",
+                "open_issues": 1,
                 "owner": "hamishforbes",
                 "repo": "lua-resty-consul",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2645,12 +3773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Upstream connection load balancing and failover module for Openresty",
+                "homepage": null,
                 "id": 14048336,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2019-12-19T08:59:09Z",
+                "open_issues": 3,
                 "owner": "hamishforbes",
                 "repo": "lua-resty-upstream",
-                "stars": 116
+                "stars": 116,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2661,12 +3794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a  leveldb server.",
+                "homepage": null,
                 "id": 7935699,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2019-07-11T14:44:22Z",
+                "open_issues": 6,
                 "owner": "LazyZhu",
                 "repo": "lua-resty-ssdb",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2677,12 +3815,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua binding to Qless (Queue / Pipeline management) for OpenResty / Redis",
+                "homepage": null,
                 "id": 16312736,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2022-07-08T13:32:48Z",
+                "open_issues": 3,
                 "owner": "ledgetech",
                 "repo": "lua-resty-qless",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "job-queue",
+                  "lua",
+                  "luajit",
+                  "nginx",
+                  "openresty",
+                  "queue",
+                  "redis",
+                  "redis-queue"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2693,12 +3845,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua module for parsing raw redis responses",
+                "homepage": null,
                 "id": 1181501,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-14T00:29:52Z",
+                "open_issues": 3,
                 "owner": "openresty",
                 "repo": "lua-redis-parser",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2709,12 +3866,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I must be crazy trying to send mail with Nginx. ",
+                "homepage": null,
                 "id": 18463945,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2021-02-28T20:36:20Z",
+                "open_issues": 12,
                 "owner": "duhoobo",
                 "repo": "lua-resty-smtp",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2725,12 +3887,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and extensible HTTP server framework for OpenResty.",
+                "homepage": null,
                 "id": 4510119,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2012-08-09T15:51:55Z",
+                "open_issues": 1,
                 "owner": "pintsized",
                 "repo": "lua-resty-rack",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2741,12 +3908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TCP server with lua supporting based on nginx",
+                "homepage": null,
                 "id": 6415854,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2015-06-09T02:27:05Z",
+                "open_issues": 7,
                 "owner": "Laobei2012",
                 "repo": "nginx-tcp-lua-module",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2757,12 +3929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure Lua Cassandra client using CQL binary protocol",
+                "homepage": null,
                 "id": 21579476,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2017-06-09T18:40:44Z",
+                "open_issues": 5,
                 "owner": "jbochi",
                 "repo": "lua-resty-cassandra",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2773,12 +3950,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nonblocking Lua PostgreSQL driver library for ngx_lua",
+                "homepage": null,
                 "id": 8284297,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2022-04-18T09:54:26Z",
+                "open_issues": 6,
                 "owner": "azurewang",
                 "repo": "lua-resty-postgres",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2789,12 +3971,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Woothee Lua-Openresty implementation",
+                "homepage": null,
                 "id": 26055097,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2021-10-13T17:41:59Z",
+                "open_issues": 0,
                 "owner": "woothee",
                 "repo": "lua-resty-woothee",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2805,12 +3992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library.",
+                "homepage": null,
                 "id": 25573906,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-05-07T14:05:44Z",
+                "open_issues": 1,
                 "owner": "bungle",
                 "repo": "lua-resty-uuid",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2821,12 +4013,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "non-blocking beanstalkd client lib for ngx_lua",
+                "homepage": null,
                 "id": 6387543,
                 "language": "Raku",
+                "license": null,
                 "last_commit": "2021-12-18T02:10:57Z",
+                "open_issues": 1,
                 "owner": "smallfish",
                 "repo": "lua-resty-beanstalkd",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "beanstalkd",
+                  "lua",
+                  "ngx-lua"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2837,12 +4038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI-based Random Library for OpenResty.",
+                "homepage": null,
                 "id": 15048033,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T21:54:46Z",
+                "open_issues": 2,
                 "owner": "bungle",
                 "repo": "lua-resty-random",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2853,12 +4059,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI-based cJSON library for OpenResty.",
+                "homepage": null,
                 "id": 16968463,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2016-11-25T00:29:25Z",
+                "open_issues": 2,
                 "owner": "bungle",
                 "repo": "lua-resty-libcjson",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2869,12 +4080,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua MongoDB driver",
+                "homepage": null,
                 "id": 10046678,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2020-04-29T09:25:24Z",
+                "open_issues": 11,
                 "owner": "Olivine-Labs",
                 "repo": "resty-mongol",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2885,12 +4101,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile detection for nginx/openresty",
+                "homepage": null,
                 "id": 30250215,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2019-07-02T16:28:35Z",
+                "open_issues": 1,
                 "owner": "isage",
                 "repo": "lua-resty-mobile",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2901,12 +4122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT MurmurHash 2 bindings to Nginx / OpenResty murmurhash2 implementation.",
+                "homepage": null,
                 "id": 24596874,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T21:52:05Z",
+                "open_issues": 0,
                 "owner": "bungle",
                 "repo": "lua-resty-murmurhash2",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2917,12 +4143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C.",
+                "homepage": null,
                 "id": 24866412,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T21:06:18Z",
+                "open_issues": 1,
                 "owner": "bungle",
                 "repo": "lua-resty-hoedown",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2933,12 +4164,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua gearman client driver for the ngx_lua based on the cosocket API ",
+                "homepage": null,
                 "id": 6956709,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2013-11-20T06:08:08Z",
+                "open_issues": 2,
                 "owner": "zhhchen",
                 "repo": "lua-resty-gearman",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2949,12 +4185,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API",
+                "homepage": "http://bakins.github.io/lua-resty-riak/",
                 "id": 8443937,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2014-09-10T20:48:32Z",
+                "open_issues": 3,
                 "owner": "bakins",
                 "repo": "lua-resty-riak",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2965,12 +4206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API",
+                "homepage": "http://bakins.github.io/lua-resty-riak/",
                 "id": 8443937,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2014-09-10T20:48:32Z",
+                "open_issues": 3,
                 "owner": "bakins",
                 "repo": "lua-resty-riak",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2981,12 +4227,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua FCGI client driver for ngx_lua based on the cosocket API.",
+                "homepage": null,
                 "id": 16259909,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-09-28T12:34:53Z",
+                "open_issues": 2,
                 "owner": "benagricola",
                 "repo": "lua-resty-fastcgi",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2997,12 +4248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings for Snappy, a fast compressor/decompressor (https://code.google.com/p/snappy/)",
+                "homepage": null,
                 "id": 24385426,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T22:19:12Z",
+                "open_issues": 1,
                 "owner": "bungle",
                 "repo": "lua-resty-snappy",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3013,12 +4269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resty DBD Stream (RDS) parser for Lua written in C",
+                "homepage": null,
                 "id": 2295372,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-14T00:31:41Z",
+                "open_issues": 1,
                 "owner": "openresty",
                 "repo": "lua-rds-parser",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3029,12 +4290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI-based scrypt library for OpenResty.",
+                "homepage": null,
                 "id": 15076467,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-07-06T06:17:44Z",
+                "open_issues": 0,
                 "owner": "bungle",
                 "repo": "lua-resty-scrypt",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3045,12 +4311,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua client driver for KyotoTycoon using its native wire protocol (OpenResty/ngx_lua)",
+                "homepage": null,
                 "id": 13996207,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2013-12-06T02:49:50Z",
+                "open_issues": 0,
                 "owner": "cloudflarearchive",
                 "repo": "lua-resty-kyototycoon",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3061,12 +4332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenStreetMap extension for Nginx Lua module",
+                "homepage": null,
                 "id": 9998598,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2014-04-13T23:11:53Z",
+                "open_issues": 1,
                 "owner": "miurahr",
                 "repo": "lua-nginx-osm",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3077,12 +4353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI-based LibXL (Excel) library for OpenResty.",
+                "homepage": null,
                 "id": 15493840,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T20:50:14Z",
+                "open_issues": 2,
                 "owner": "bungle",
                 "repo": "lua-resty-libxl",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3093,12 +4374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types.",
+                "homepage": null,
                 "id": 25011190,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T20:54:08Z",
+                "open_issues": 0,
                 "owner": "bungle",
                 "repo": "lua-resty-fileinfo",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3109,12 +4395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cache wrapper for lua-resty-dns",
+                "homepage": null,
                 "id": 36876514,
                 "language": "Perl",
+                "license": "MIT",
                 "last_commit": "2017-04-19T13:32:59Z",
+                "open_issues": 0,
                 "owner": "hamishforbes",
                 "repo": "lua-resty-dns-cache",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3125,12 +4416,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings for libsass - A C/C++ implementation of a Sass compiler (http://libsass.org/)",
+                "homepage": null,
                 "id": 22722549,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-02-17T14:13:15Z",
+                "open_issues": 4,
                 "owner": "bungle",
                 "repo": "lua-resty-sass",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3141,12 +4437,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI-based gettext library for OpenResty.",
+                "homepage": null,
                 "id": 20197630,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T20:55:07Z",
+                "open_issues": 0,
                 "owner": "bungle",
                 "repo": "lua-resty-gettext",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3157,12 +4458,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Lua client driver for KyotoTycoon using its binary protocol",
+                "homepage": null,
                 "id": 17050558,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-02-28T02:54:52Z",
+                "open_issues": 0,
                 "owner": "sjnam",
                 "repo": "lua-resty-kyototycoon",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "kyoto-tycoon",
+                  "lua-resty"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3173,12 +4482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 7351442,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2012-12-28T15:36:24Z",
+                "open_issues": 0,
                 "owner": "hugozhu",
                 "repo": "lua-resty-oceanbase",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3189,12 +4503,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua library for using the github api in the ngx_lua nginx module",
+                "homepage": null,
                 "id": 22967480,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-10-23T05:27:14Z",
+                "open_issues": 0,
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-github",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3205,12 +4524,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua library for capturing urls, decoding, and logging results",
+                "homepage": null,
                 "id": 25144335,
                 "language": "Perl",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-10-22T23:13:09Z",
+                "open_issues": 1,
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-readurl",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3221,12 +4545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library (http://taglib.github.io/)",
+                "homepage": null,
                 "id": 28666297,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2015-12-16T22:21:20Z",
+                "open_issues": 0,
                 "owner": "bungle",
                 "repo": "lua-resty-taglib",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3237,12 +4566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua library for using the hipchat api",
+                "homepage": null,
                 "id": 22635077,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2014-08-14T23:15:05Z",
+                "open_issues": 0,
                 "owner": "jamesmarlowe",
                 "repo": "lua-resty-hipchat",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             }
@@ -3264,12 +4598,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NGINX S3 Gateway",
+            "homepage": null,
             "id": 296727267,
             "language": "Shell",
-            "last_commit": "2026-08-28T20:57:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:31:10Z",
+            "open_issues": 10,
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
-            "stars": 749
+            "stars": 749,
+            "topics": [
+              "docker",
+              "gateway",
+              "nginx",
+              "s3"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3280,12 +4624,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NGINX JavaScript examples",
+            "homepage": null,
             "id": 150008354,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-25T16:54:39Z",
+            "open_issues": 10,
             "owner": "nginx",
             "repo": "njs-examples",
-            "stars": 692
+            "stars": 692,
+            "topics": [
+              "javascript",
+              "nginx",
+              "njs"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3296,12 +4649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample Configuration for DNS over HTTPS (DoH/DoT gateway) and GSLB with NGINX",
+            "homepage": null,
             "id": 211519995,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-01-08T22:35:13Z",
+            "open_issues": 23,
             "owner": "TuxInvader",
             "repo": "nginx-dns",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3312,12 +4670,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx NJS module runtime to work with ACME providers like Let's Encrypt for automated no-reload TLS certificate issue/renewal.",
+            "homepage": null,
             "id": 624988178,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-09T15:07:32Z",
+            "open_issues": 27,
             "owner": "nginx",
             "repo": "njs-acme",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "acme",
+              "acme-client",
+              "nginx",
+              "njs",
+              "tls-certificate"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3328,12 +4697,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starting template for developing njs (NGINX JavaScript) scripts for NGINX server in TypeScript.",
+            "homepage": null,
             "id": 330286185,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-02T10:44:15Z",
+            "open_issues": 1,
             "owner": "jirutka",
             "repo": "njs-typescript-starter",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "nginx",
+              "njs",
+              "starter-template",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3344,12 +4723,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Babel preset for njs - NGINX JavaScript",
+            "homepage": null,
             "id": 316086290,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-19T19:43:51Z",
+            "open_issues": 1,
             "owner": "jirutka",
             "repo": "babel-preset-njs",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "babel",
+              "babel-preset",
+              "nginx",
+              "njs"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3360,12 +4749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 488861166,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-10T20:51:15Z",
+            "open_issues": 0,
             "owner": "gallarda",
             "repo": "mqtt5",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3376,12 +4770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 259198339,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-04T05:12:13Z",
+            "open_issues": 0,
             "owner": "f5devcentral",
             "repo": "nginx-njs-usecases",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3392,12 +4791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof-of-concept solution for presenting XML services as a JSON API",
+            "homepage": null,
             "id": 341362201,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-05-21T09:50:16Z",
+            "open_issues": 1,
             "owner": "lcrilly",
             "repo": "nginx-xml-json",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3408,12 +4812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple memory profiler for the NGINX Javascript Module (njs)",
+            "homepage": null,
             "id": 569794317,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-27T18:27:25Z",
+            "open_issues": 1,
             "owner": "4141done",
             "repo": "njs-memory-profiler",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         }
@@ -3430,12 +4839,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+            "homepage": "https://nginxproxymanager.com",
             "id": 114938943,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:29:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:14:42Z",
+            "open_issues": 898,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34013
+            "stars": 34014,
+            "topics": [
+              "nginx",
+              "nginx-proxy"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3446,12 +4863,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ NGINX config generator on steroids 💉",
+            "homepage": "https://do.co/nginxconfig",
             "id": 116392709,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-14T10:56:21Z",
+            "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28270
+            "stars": 28268,
+            "topics": [
+              "cdn",
+              "digitalocean",
+              "digitalocean-community-tools",
+              "drupal",
+              "gzip",
+              "hacktoberfest",
+              "hsts",
+              "http2",
+              "https",
+              "letsencrypt",
+              "nginx",
+              "nginx-configs",
+              "nginx-configuration",
+              "php-fpm",
+              "rate-limiting",
+              "security",
+              "security-headers",
+              "ssl",
+              "ssl-certificate",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3462,12 +4905,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated Nginx Reverse Proxy for Docker",
+            "homepage": null,
             "id": 19463625,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:42:48Z",
+            "open_issues": 325,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19900
+            "stars": 19901,
+            "topics": [
+              "docker",
+              "docker-gen",
+              "nginx",
+              "reverse-proxy"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3478,12 +4931,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+            "homepage": "https://laradock.io",
             "id": 41152295,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2026-08-16T23:05:08Z",
+            "open_issues": 16,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12673
+            "stars": 12673,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-compose-template",
+              "docker-container",
+              "docker-drupal",
+              "docker-environment",
+              "docker-laravel",
+              "docker-nginx-php",
+              "docker-symfony",
+              "docker-wordpress",
+              "hacktoberfest",
+              "laradock",
+              "laravel-docker",
+              "laravel-docker-compose",
+              "php",
+              "php-container",
+              "php-docker",
+              "php-docker-image",
+              "php-docker-images",
+              "php-environment"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3494,12 +4973,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx HTTP server boilerplate configs",
+            "homepage": null,
             "id": 11726680,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-20T15:26:17Z",
+            "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561
+            "stars": 11561,
+            "topics": [
+              "best-practices",
+              "config",
+              "h5bp",
+              "nginx",
+              "nginx-configuration",
+              "robust",
+              "standard"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3510,12 +5002,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛡️ Open-source and cloud-native Web Application Firewall (WAF)",
+            "homepage": "https://www.bunkerweb.io",
             "id": 203456148,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T09:28:08Z",
+            "open_issues": 157,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10880
+            "stars": 10880,
+            "topics": [
+              "antibot",
+              "cybersecurity",
+              "devops",
+              "devsecops",
+              "dnsbl",
+              "docker",
+              "hardening",
+              "hosting",
+              "kubernetes",
+              "letsencrypt",
+              "modsecurity",
+              "nginx",
+              "reverse-proxy",
+              "security",
+              "security-tuning",
+              "swarm",
+              "waap",
+              "waf",
+              "web-application-firewall",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3526,12 +5044,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time metrics for nginx server",
+            "homepage": null,
             "id": 17984636,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T04:38:40Z",
+            "open_issues": 62,
             "owner": "lebinh",
             "repo": "ngxtop",
-            "stars": 6525
+            "stars": 6525,
+            "topics": [
+              "cli",
+              "monitoring",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3542,12 +5069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. ",
+            "homepage": null,
             "id": 48843327,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2020-06-30T07:07:17Z",
+            "open_issues": 111,
             "owner": "alexazhou",
             "repo": "VeryNginx",
-            "stars": 5978
+            "stars": 5978,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3558,12 +5090,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Nginx configuration template",
+            "homepage": null,
             "id": 10489882,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2018-07-26T19:54:37Z",
+            "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2438
+            "stars": 2438,
+            "topics": [
+              "boilerplate",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3574,12 +5114,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a fork of nginx-proxy-manager",
+            "homepage": "https://hub.docker.com/r/zoeyvid/npmplus",
             "id": 487797390,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:21:39Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T02:05:29Z",
+            "open_issues": 16,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2297
+            "stars": 2297,
+            "topics": [
+              "nginx",
+              "nginx-php",
+              "nginx-proxy",
+              "nginx-proxy-manager",
+              "nginx-reverse-proxy",
+              "npmplus"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3590,12 +5142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful Nginx configuration snippets",
+            "homepage": null,
             "id": 30537345,
             "language": null,
+            "license": "MIT",
             "last_commit": "2017-10-13T14:36:47Z",
+            "open_issues": 2,
             "owner": "lebinh",
             "repo": "nginx-conf",
-            "stars": 2116
+            "stars": 2116,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3606,12 +5163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time analysis and diagnostics tools for OpenResty (including NGINX, LuaJIT, ngx_lua, and more) based on SystemTap",
+            "homepage": null,
             "id": 5622110,
             "language": "Perl",
+            "license": null,
             "last_commit": "2023-03-14T04:01:02Z",
+            "open_issues": 28,
             "owner": "openresty",
             "repo": "openresty-systemtap-toolkit",
-            "stars": 1668
+            "stars": 1668,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3622,12 +5184,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NGINX configuration static analyzer",
+            "homepage": "https://gixy.getpagespeed.com",
             "id": 198842952,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:11:15Z",
+            "open_issues": 0,
             "owner": "dvershinin",
             "repo": "gixy",
-            "stars": 1182
+            "stars": 1182,
+            "topics": [
+              "checker",
+              "configuration",
+              "linter",
+              "linting",
+              "nginx",
+              "nginx-configuration",
+              "python",
+              "security",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3638,12 +5215,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile NGINX from source with custom modules and patches on Debian and Ubuntu",
+            "homepage": null,
             "id": 54280872,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-01T07:08:42Z",
+            "open_issues": 41,
             "owner": "angristan",
             "repo": "nginx-autoinstall",
-            "stars": 646
+            "stars": 646,
+            "topics": [
+              "alpn",
+              "brotli",
+              "chacha20-poly1305",
+              "cloudflare",
+              "curve25519",
+              "debian",
+              "geoip",
+              "http2",
+              "libressl",
+              "nginx",
+              "openssl",
+              "pagespeed",
+              "waf"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3654,12 +5250,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NGINX plugin for OpenTracing",
+            "homepage": null,
             "id": 106615169,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T00:39:55Z",
+            "open_issues": 39,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "jaegertracing",
+              "lightstep",
+              "nginx",
+              "nginx-module",
+              "opentracing",
+              "tracing",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3670,12 +5279,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Puppet Module to manage NGINX on various UNIXes",
+            "homepage": "https://forge.puppet.com/puppet/nginx",
             "id": 1791219,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-27T18:18:49Z",
+            "open_issues": 106,
             "owner": "voxpupuli",
             "repo": "puppet-nginx",
-            "stars": 468
+            "stars": 468,
+            "topics": [
+              "archlinux-puppet-module",
+              "bsd-puppet-module",
+              "centos-puppet-module",
+              "debian-puppet-module",
+              "freebsd-puppet-module",
+              "hacktoberfest",
+              "linux-puppet-module",
+              "nginx",
+              "openbsd-puppet-module",
+              "puppet",
+              "redhat-puppet-module",
+              "sles-puppet-module",
+              "ubuntu-puppet-module"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3686,12 +5314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-driven test scaffold for Nginx C module and OpenResty Lua library development",
+            "homepage": "http://search.cpan.org/dist/Test-Nginx",
             "id": 406087,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-08-24T10:29:15Z",
+            "open_issues": 44,
             "owner": "openresty",
             "repo": "test-nginx",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3702,12 +5335,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamless nginx builder",
+            "homepage": null,
             "id": 20060139,
             "language": "Go",
-            "last_commit": "2026-08-27T12:40:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:01:38Z",
+            "open_issues": 9,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
-            "stars": 427
+            "stars": 427,
+            "topics": [
+              "build-tool",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3718,12 +5359,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nginx config file formatter/beautifier written in Python with no additional dependencies.",
+            "homepage": null,
             "id": 60739977,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T23:43:42Z",
+            "open_issues": 3,
             "owner": "slomkowski",
             "repo": "nginx-config-formatter",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "beautifier",
+              "formatter",
+              "formatting",
+              "nginx",
+              "nginx-configuration"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3734,12 +5386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GDB Utilities for OpenResty (including Nginx, ngx_lua, LuaJIT, and more)",
+            "homepage": null,
             "id": 11327372,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-12-18T01:06:46Z",
+            "open_issues": 3,
             "owner": "openresty",
             "repo": "openresty-gdb-utils",
-            "stars": 348
+            "stars": 348,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3750,12 +5407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool, which can be used to generate nginx config file according to given config files of Apache",
+            "homepage": null,
             "id": 5351849,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-17T12:55:21Z",
+            "open_issues": 6,
             "owner": "lide-reed",
             "repo": "apache2nginx",
-            "stars": 282
+            "stars": 282,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3766,12 +5428,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nixy - nginx auto configuration and service discovery for Mesos/Marathon",
+            "homepage": null,
             "id": 50028904,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-07-01T08:01:42Z",
+            "open_issues": 1,
             "owner": "martensson",
             "repo": "nixy",
-            "stars": 270
+            "stars": 270,
+            "topics": [
+              "load-balancer",
+              "marathon",
+              "mesos",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3782,12 +5454,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for nginx module development",
+            "homepage": null,
             "id": 2176697,
             "language": "Perl",
+            "license": null,
             "last_commit": "2026-05-15T07:14:50Z",
+            "open_issues": 1,
             "owner": "openresty",
             "repo": "openresty-devel-utils",
-            "stars": 268
+            "stars": 268,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3798,12 +5475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bash script for deleting items from Nginx cache",
+            "homepage": null,
             "id": 3067253,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-05-21T20:57:05Z",
+            "open_issues": 5,
             "owner": "perusio",
             "repo": "nginx-cache-purge",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3814,12 +5496,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.",
+            "homepage": "https://hub.docker.com/r/fabiocicerchia/nginx-lua",
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-28T18:37:04Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:02:17Z",
+            "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "container",
+              "docker",
+              "lua",
+              "luajit",
+              "nginx",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3830,12 +5524,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx and njs binaries for Linux (x86_64, aarch64, ppc64le), macOS and Windows. Linux binaries are static so works on every Linux.",
+            "homepage": null,
             "id": 318009793,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-23T00:49:53Z",
+            "open_issues": 6,
             "owner": "jirutka",
             "repo": "nginx-binaries",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "binaries",
+              "javascript",
+              "nginx",
+              "nginx-linux",
+              "nginx-macos",
+              "nginx-windows",
+              "njs",
+              "static-binaries"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3846,12 +5554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "replace nginx's pool mechanism with plain malloc & free to help tools like valgrind",
+            "homepage": null,
             "id": 750575,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T02:57:55Z",
+            "open_issues": 0,
             "owner": "openresty",
             "repo": "no-pool-nginx",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3862,12 +5575,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fetches nginx and any optional third-party modules and dependencies you specify, such as openssl and PCRE and then configures and builds.",
+            "homepage": null,
             "id": 107274926,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-03T14:09:27Z",
+            "open_issues": 0,
             "owner": "jaygooby",
             "repo": "build-nginx",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "3rd-party-modules",
+              "build-tool",
+              "configuration",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3878,12 +5601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An nginx fork that adds dtrace USDT probes",
+            "homepage": null,
             "id": 5119931,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2016-05-02T22:51:43Z",
+            "open_issues": 0,
             "owner": "openresty",
             "repo": "nginx-dtrace",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3894,12 +5622,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Support for integration/acceptance testing of nginx configuration in TypeScript/JavaScript.",
+            "homepage": null,
             "id": 325879194,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-19T00:55:28Z",
+            "open_issues": 3,
             "owner": "jirutka",
             "repo": "nginx-testing",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "nginx",
+              "njs",
+              "test-server",
+              "testing",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3910,12 +5649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libngxcore is the library built from nginx core APIs. ",
+            "homepage": null,
             "id": 7454916,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2015-01-17T09:10:56Z",
+            "open_issues": 1,
             "owner": "cubicdaiya",
             "repo": "libngxcore",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3926,12 +5670,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":rocket: configure nginx based on akamai property rules",
+            "homepage": null,
             "id": 100767026,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-08T08:53:36Z",
+            "open_issues": 1,
             "owner": "wyvern8",
             "repo": "akamai-nginx",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "akamai",
+              "docker",
+              "edgegrid",
+              "lua",
+              "nginx",
+              "nodejs",
+              "openresty",
+              "papi",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3942,12 +5701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debian apt repository of nginx dynamic modules (brotli, zstd, geoip2, ModSecurity, headers-more, and more), built against the official nginx.org stable releases. A migration path for sury's nginx users.",
+            "homepage": "https://www.nginx-modules.com",
             "id": 1221989097,
             "language": "Shell",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-10T18:19:31Z",
+            "open_issues": 0,
             "owner": "blendbyte",
             "repo": "nginx-modules",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3958,12 +5722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debian Administration Tools for nginx web server",
+            "homepage": null,
             "id": 1798632,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2011-05-25T13:01:23Z",
+            "open_issues": 0,
             "owner": "rmacd",
             "repo": "ngx-admintools",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3974,12 +5743,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inject up-to-date Schema.org JSON-LD into nginx-served sites with zero crons, zero file changes, always fresh. FastAPI sidecar + nginx SSI integration.",
+            "homepage": "https://www.thatdevpro.com/tools/seo-sidecar/",
             "id": 1247952650,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-27T03:52:03Z",
+            "open_issues": 0,
             "owner": "Janady13",
             "repo": "seo-sidecar",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "aeo",
+              "ai-seo",
+              "fastapi",
+              "go",
+              "jsonld",
+              "nginx",
+              "nginx-ssi",
+              "python",
+              "schema-org",
+              "seo",
+              "sidecar"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -3990,12 +5776,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toggle nginx maintenance mode per site via a flag file",
+            "homepage": "maint.spaceplane.dev",
             "id": 1320484239,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-02T19:00:57Z",
+            "open_issues": 0,
             "owner": "glidecraft",
             "repo": "nginx-maint",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -4006,12 +5797,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn an nginx box into a honeypot for vulnerability scanners: the first probe of /.env or /.git gets the bot banned on all ports via fail2ban + nftables. One script, verified install.",
+            "homepage": "https://gistrec.cloud/blog/nginx-honeypot-fail2ban/ru/",
             "id": 1281837231,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:31:33Z",
+            "open_issues": 0,
             "owner": "gistrec",
             "repo": "nginx-scanner-trap",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bash",
+              "bot-detection",
+              "debian",
+              "devops",
+              "fail2ban",
+              "hardening",
+              "honeypot",
+              "intrusion-prevention",
+              "linux",
+              "nftables",
+              "nginx",
+              "security",
+              "server-security",
+              "sysadmin",
+              "ubuntu",
+              "vulnerability-scanner",
+              "web-security"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         }
@@ -4028,12 +5842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx开发从入门到精通",
+            "homepage": null,
             "id": 7679716,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-20T07:48:54Z",
+            "open_issues": 542,
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6963
+            "stars": 6963,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -4044,12 +5863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx Tutorials",
+            "homepage": "http://blog.sina.com.cn/openresty",
             "id": 2889434,
             "language": "Perl",
+            "license": null,
             "last_commit": "2021-03-05T03:48:12Z",
+            "open_issues": 5,
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2868
+            "stars": 2868,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -4060,12 +5884,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick reference to common server configurations from serving static files to using in congruency with Node.js applications.",
+            "homepage": null,
             "id": 75707200,
             "language": null,
+            "license": null,
             "last_commit": "2016-12-06T08:00:15Z",
+            "open_issues": 0,
             "owner": "SimulatedGREG",
             "repo": "nginx-cheatsheet",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "cheatsheet",
+              "nginx",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
@@ -4076,12 +5909,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Chinese translation of nginx documentation.",
+            "homepage": null,
             "id": 4855876,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2013-04-01T03:28:09Z",
+            "open_issues": 1,
             "owner": "taobao",
             "repo": "nginx-docs-cn",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
         }
@@ -4090,15 +5928,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:22:28.977Z",
+    "last_updated": "2026-08-29T04:41:44.086Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
+      "homepage": null,
       "id": 40654944,
       "language": "C",
+      "license": null,
       "last_commit": "2026-08-23T05:52:24Z",
+      "open_issues": 6,
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1288
+      "stars": 1288,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lua-nginx",
+        "lua-resty",
+        "nginx",
+        "nginx-http",
+        "nginx-server",
+        "ngx-lua"
+      ]
     },
     "original_repository_sha": "273b1678ff0f58de4144348cd112f365d68dc996",
     "enhanced_repository": "enhansome/enhansome-nginx",
