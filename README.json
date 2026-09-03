@@ -19,7 +19,7 @@
             "open_issues": 333,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14021,
+            "stars": 14023,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -36,11 +36,11 @@
             "id": 3784017,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-01T10:30:21Z",
+            "last_commit": "2026-09-02T16:10:24Z",
             "open_issues": 501,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13345,
+            "stars": 13347,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2562,
+            "stars": 2564,
             "topics": [
               "adc",
               "apache",
@@ -159,8 +159,8 @@
             "id": 4246391,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-02T14:19:25Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-03T06:24:44Z",
+            "open_issues": 21,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
             "stars": 997,
@@ -275,7 +275,7 @@
                 "open_issues": 333,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14021,
+                "stars": 14023,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -336,8 +336,8 @@
                 "id": 30759499,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-16T14:56:42Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-02T22:56:40Z",
+                "open_issues": 12,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
                 "stars": 3500,
@@ -517,7 +517,7 @@
                 "open_issues": 70,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1851,
+                "stars": 1852,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -716,8 +716,8 @@
                 "id": 4246391,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-02T14:19:25Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-03T06:24:44Z",
+                "open_issues": 21,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
                 "stars": 997,
@@ -2028,8 +2028,8 @@
                 "id": 448138162,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-01T13:45:44Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-03T13:33:17Z",
+                "open_issues": 9,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
                 "stars": 31,
@@ -2653,6 +2653,60 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-error-abuse-module",
+              "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
+                "id": 1262837794,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
+                "owner": "myguard-labs",
+                "repo": "nginx-error-abuse-module",
+                "stars": 6,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nginx-error-abuse-module",
+              "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
+                "id": 1262837794,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
+                "owner": "myguard-labs",
+                "repo": "nginx-error-abuse-module",
+                "stars": 6,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "nginx-autocert-module",
               "description": "Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.",
               "children": [],
@@ -2678,33 +2732,6 @@
                   "rsa",
                   "tls",
                   "wildcard-certificates"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-error-abuse-module",
-              "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NGINX module that ratelimits error (404) abusers",
-                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
-                "id": 1262837794,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-08-20T09:39:06Z",
-                "open_issues": 0,
-                "owner": "myguard-labs",
-                "repo": "nginx-error-abuse-module",
-                "stars": 5,
-                "topics": [
-                  "404",
-                  "abuse",
-                  "module",
-                  "myguard",
-                  "nginx"
                 ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -2748,33 +2775,6 @@
                 "repo": "nginx-dlg-auth",
                 "stars": 5,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-error-abuse-module",
-              "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NGINX module that ratelimits error (404) abusers",
-                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
-                "id": 1262837794,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-08-20T09:39:06Z",
-                "open_issues": 0,
-                "owner": "myguard-labs",
-                "repo": "nginx-error-abuse-module",
-                "stars": 5,
-                "topics": [
-                  "404",
-                  "abuse",
-                  "module",
-                  "myguard",
-                  "nginx"
-                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -3945,27 +3945,6 @@
             },
             {
               "node_type": "item",
-              "title": "lua-resty-postgres",
-              "description": "Nonblocking Lua PostgreSQL driver library for ngx_lua.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nonblocking Lua PostgreSQL driver library for ngx_lua",
-                "homepage": null,
-                "id": 8284297,
-                "language": "Lua",
-                "license": null,
-                "last_commit": "2022-04-18T09:54:26Z",
-                "open_issues": 6,
-                "owner": "azurewang",
-                "repo": "lua-resty-postgres",
-                "stars": 65,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
               "title": "lua-resty-woothee",
               "description": "Woothee Lua-Openresty implementation.",
               "children": [],
@@ -3980,6 +3959,27 @@
                 "open_issues": 0,
                 "owner": "woothee",
                 "repo": "lua-resty-woothee",
+                "stars": 66,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
+              "title": "lua-resty-postgres",
+              "description": "Nonblocking Lua PostgreSQL driver library for ngx_lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nonblocking Lua PostgreSQL driver library for ngx_lua",
+                "homepage": null,
+                "id": 8284297,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2022-04-18T09:54:26Z",
+                "open_issues": 6,
+                "owner": "azurewang",
+                "repo": "lua-resty-postgres",
                 "stars": 65,
                 "topics": []
               },
@@ -4844,11 +4844,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T23:02:53Z",
-            "open_issues": 889,
+            "last_commit": "2026-09-03T11:58:04Z",
+            "open_issues": 892,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34050,
+            "stars": 34056,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4872,7 +4872,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28264,
+            "stars": 28265,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4910,8 +4910,8 @@
             "id": 19463625,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T15:42:48Z",
-            "open_issues": 325,
+            "last_commit": "2026-09-03T04:42:35Z",
+            "open_issues": 326,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
             "stars": 19904,
@@ -4936,11 +4936,11 @@
             "id": 41152295,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-02T01:39:25Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-03T00:13:36Z",
+            "open_issues": 18,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12673,
+            "stars": 12670,
             "topics": [
               "docker",
               "docker-compose",
@@ -4982,7 +4982,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561,
+            "stars": 11562,
             "topics": [
               "best-practices",
               "config",
@@ -5007,11 +5007,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T09:33:14Z",
-            "open_issues": 162,
+            "last_commit": "2026-09-03T13:49:43Z",
+            "open_issues": 165,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10893,
+            "stars": 10895,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5119,11 +5119,11 @@
             "id": 487797390,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T14:16:03Z",
+            "last_commit": "2026-09-03T10:51:24Z",
             "open_issues": 16,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2304,
+            "stars": 2311,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5255,7 +5255,7 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T09:22:56Z",
+            "last_commit": "2026-09-03T11:16:24Z",
             "open_issues": 39,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
@@ -5340,8 +5340,8 @@
             "id": 20060139,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T06:00:49Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-03T02:56:44Z",
+            "open_issues": 9,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 427,
@@ -5501,8 +5501,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T13:05:29Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-03T00:02:18Z",
+            "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225,
@@ -5533,7 +5533,7 @@
             "open_issues": 6,
             "owner": "jirutka",
             "repo": "nginx-binaries",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "binaries",
               "javascript",
@@ -5851,7 +5851,7 @@
             "open_issues": 542,
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6965,
+            "stars": 6964,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -5928,7 +5928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:05:53.742Z",
+    "last_updated": "2026-09-03T14:59:44.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
