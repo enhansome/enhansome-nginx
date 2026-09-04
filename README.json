@@ -16,10 +16,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T09:03:50Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14023,
+            "stars": 14025,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -36,11 +36,11 @@
             "id": 3784017,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-02T16:10:24Z",
-            "open_issues": 501,
+            "last_commit": "2026-09-04T11:41:08Z",
+            "open_issues": 500,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13347,
+            "stars": 13346,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -73,8 +73,8 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-26T08:22:33Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-04T08:22:50Z",
+            "open_issues": 45,
             "owner": "webserver-llc",
             "repo": "angie",
             "stars": 2564,
@@ -272,10 +272,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-02T09:03:50Z",
-                "open_issues": 333,
+                "open_issues": 334,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14023,
+                "stars": 14025,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -317,7 +317,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4338,
+                "stars": 4337,
                 "topics": [
                   "pagespeed"
                 ]
@@ -386,7 +386,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-09T13:46:34Z",
-                "open_issues": 131,
+                "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
                 "stars": 3065,
@@ -517,7 +517,7 @@
                 "open_issues": 70,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1852,
+                "stars": 1851,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -1218,6 +1218,31 @@
             },
             {
               "node_type": "item",
+              "title": "zstd-nginx-module",
+              "description": "Nginx modules for the Zstandard compression.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nginx modules for the Zstandard compression",
+                "homepage": null,
+                "id": 152521348,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2025-10-30T10:25:14Z",
+                "open_issues": 30,
+                "owner": "tokers",
+                "repo": "zstd-nginx-module",
+                "stars": 258,
+                "topics": [
+                  "nginx",
+                  "nginx-module",
+                  "zstd"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "nginx-tfs",
               "description": "An Asynchronous Nginx module providing a RESTful API for TFS (Taobao File System).",
               "children": [],
@@ -1234,31 +1259,6 @@
                 "repo": "nginx-tfs",
                 "stars": 257,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "zstd-nginx-module",
-              "description": "Nginx modules for the Zstandard compression.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nginx modules for the Zstandard compression",
-                "homepage": null,
-                "id": 152521348,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2025-10-30T10:25:14Z",
-                "open_issues": 30,
-                "owner": "tokers",
-                "repo": "zstd-nginx-module",
-                "stars": 257,
-                "topics": [
-                  "nginx",
-                  "nginx-module",
-                  "zstd"
-                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2028,8 +2028,8 @@
                 "id": 448138162,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-03T13:33:17Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-04T08:56:52Z",
+                "open_issues": 3,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
                 "stars": 31,
@@ -3085,7 +3085,7 @@
             "id": 100082295,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T05:46:09Z",
+            "last_commit": "2026-09-04T05:45:15Z",
             "open_issues": 47,
             "owner": "nginx",
             "repo": "ngx-rust",
@@ -3130,7 +3130,7 @@
                 "language": "Lua",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-11T08:14:16Z",
-                "open_issues": 42,
+                "open_issues": 41,
                 "owner": "ledgetech",
                 "repo": "lua-resty-http",
                 "stars": 2078,
@@ -3698,7 +3698,7 @@
                 "open_issues": 2,
                 "owner": "bungle",
                 "repo": "lua-resty-validation",
-                "stars": 155,
+                "stars": 154,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -4603,8 +4603,8 @@
             "id": 296727267,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T20:43:21Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-03T16:21:09Z",
+            "open_issues": 9,
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 749,
@@ -4844,11 +4844,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T11:58:04Z",
-            "open_issues": 892,
+            "last_commit": "2026-09-03T21:43:05Z",
+            "open_issues": 891,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34056,
+            "stars": 34062,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4872,7 +4872,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28265,
+            "stars": 28264,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4940,7 +4940,7 @@
             "open_issues": 18,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12670,
+            "stars": 12671,
             "topics": [
               "docker",
               "docker-compose",
@@ -4982,7 +4982,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11561,
             "topics": [
               "best-practices",
               "config",
@@ -5007,11 +5007,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T13:49:43Z",
-            "open_issues": 165,
+            "last_commit": "2026-09-04T07:47:36Z",
+            "open_issues": 166,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10895,
+            "stars": 10900,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5099,7 +5099,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2438,
+            "stars": 2436,
             "topics": [
               "boilerplate",
               "nginx"
@@ -5119,11 +5119,11 @@
             "id": 487797390,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T10:51:24Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-04T04:51:22Z",
+            "open_issues": 13,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2311,
+            "stars": 2314,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5255,8 +5255,8 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T11:16:24Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-04T11:17:04Z",
+            "open_issues": 40,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 515,
@@ -5340,7 +5340,7 @@
             "id": 20060139,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:56:44Z",
+            "last_commit": "2026-09-04T02:37:39Z",
             "open_issues": 9,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
@@ -5497,12 +5497,12 @@
           "repo_info": {
             "archived": false,
             "description": "Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.",
-            "homepage": "https://hub.docker.com/r/fabiocicerchia/nginx-lua",
+            "homepage": "https://fabiocicerchia.github.io/nginx-lua/",
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T00:02:18Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-04T00:02:47Z",
+            "open_issues": 8,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225,
@@ -5928,7 +5928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:59:44.774Z",
+    "last_updated": "2026-09-04T14:57:14.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -5940,7 +5940,7 @@
       "open_issues": 5,
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1289,
+      "stars": 1290,
       "topics": [
         "awesome",
         "awesome-list",
