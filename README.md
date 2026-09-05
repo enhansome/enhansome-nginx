@@ -25,8 +25,8 @@ Feel free to add your project :)
 ## Well-known Distributions
 
 * [OpenResty](https://github.com/openresty/ngx_openresty) ⭐ 14,025 | 🐛 334 | 🌐 C | 📅 2026-09-02
-* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,346 | 🐛 500 | 🌐 C | 📅 2026-09-04
-* [Angie](https://github.com/webserver-llc/angie) ⭐ 2,564 | 🐛 45 | 🌐 C | 📅 2026-09-04
+* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,348 | 🐛 500 | 🌐 C | 📅 2026-09-04
+* [Angie](https://github.com/webserver-llc/angie) ⭐ 2,564 | 🐛 45 | 🌐 C | 📅 2026-09-05
 * [NGINX](https://nginx.org/en/docs/install.html)
 * [FreeNGINX](https://freenginx.org/)
 * [MyGuard NGINX](https://deb.myguard.nl/nginx-modules/)
@@ -63,13 +63,13 @@ These modules are not distributed with the Nginx source.
 * [nginx\_http\_push\_module](https://github.com/slact/nginx_http_push_module) ⭐ 3,065 | 🐛 134 | 🌐 C | 📅 2026-06-09 - Turn NGiNX into an adept HTTP push server.
 * [nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module) ⭐ 2,933 | 🐛 26 | 🌐 C | 📅 2026-08-19  - A media streaming server based on nginx-rtmp-module, provides HTTP-FLV.
 * [nginx-push-stream-module](https://github.com/wandenberg/nginx-push-stream-module) ⭐ 2,229 | 🐛 15 | 🌐 C | 📅 2024-08-19 - A pure stream http push technology for your Nginx setup. Comet made easy and really scalable.
-* [nginx\_upstream\_check\_module](https://github.com/yaoweibin/nginx_upstream_check_module) ⭐ 2,149 | 🐛 173 | 🌐 Perl | 📅 2023-12-23 - Health checks upstreams for nginx.
+* [nginx\_upstream\_check\_module](https://github.com/yaoweibin/nginx_upstream_check_module) ⭐ 2,149 | 🐛 172 | 🌐 Perl | 📅 2026-09-05 - Health checks upstreams for nginx.
 * [ngx\_http\_proxy\_connect\_module](https://github.com/chobits/ngx_http_proxy_connect_module) ⭐ 1,976 | 🐛 31 | 🌐 C | 📅 2024-08-18 - A forward proxy module for CONNECT request handling
-* [nginx\_modSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) ⭐ 1,851 | 🐛 70 | 🌐 Perl | 📅 2026-05-04 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
+* [nginx\_modSecurity](https://github.com/SpiderLabs/ModSecurity-nginx) ⭐ 1,852 | 🐛 70 | 🌐 Perl | 📅 2026-05-04 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs.
 * [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) ⭐ 1,783 | 🐛 52 | 🌐 C | 📅 2026-08-24 - Set, add, and clear arbitrary output headers.
 * [nginx\_tcp\_proxy\_module](https://github.com/yaoweibin/nginx_tcp_proxy_module) ⭐ 1,645 | 🐛 107 | 🌐 C | 📅 2021-12-19 - add the feature of tcp proxy with nginx, with health check and status monitor.
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) ⭐ 1,193 | 🐛 32 | 🌐 C | 📅 2026-08-24 - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file.
-* [ngx\_http\_geoip2\_module](https://github.com/leev/ngx_http_geoip2_module) ⭐ 1,142 | 🐛 10 | 🌐 C | 📅 2024-04-02 - creates variables with values from the maxmind geoip2 databases based on the client IP (supports both IPv4 and IPv6).
+* [ngx\_http\_geoip2\_module](https://github.com/leev/ngx_http_geoip2_module) ⭐ 1,143 | 🐛 10 | 🌐 C | 📅 2024-04-02 - creates variables with values from the maxmind geoip2 databases based on the client IP (supports both IPv4 and IPv6).
 * [ngx\_cache\_purge](https://github.com/FRiCKLE/ngx_cache_purge) ⭐ 1,094 | 🐛 47 | 🌐 C | 📅 2023-02-20 - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.
 * [nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) ⭐ 1,084 | 🐛 34 | 🌐 Java | 📅 2026-08-10 - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
 * [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,027 | 🐛 4 | 🌐 C | 📅 2025-02-20 - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
@@ -84,7 +84,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_http\_substitutions\_filter\_module](https://github.com/yaoweibin/ngx_http_substitutions_filter_module) ⭐ 628 | 🐛 28 | 🌐 Perl | 📅 2022-01-24 - a filter module which can do both regular expression and fixed string substitutions for nginx.
 * [ngx\_postgres](https://github.com/FRiCKLE/ngx_postgres) ⭐ 551 | 🐛 37 | 🌐 C | 📅 2020-09-29 - upstream module that allows nginx to communicate directly with PostgreSQL database.
 * [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) ⭐ 532 | 🐛 14 | 🌐 C | 📅 2026-05-18 - simple robot mitigation module using cookie based challenge/response technique.
-* [naxsi](https://github.com/wargio/naxsi) ⭐ 519 | 🐛 20 | 🌐 C | 📅 2026-08-07 - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
+* [naxsi](https://github.com/wargio/naxsi) ⭐ 520 | 🐛 20 | 🌐 C | 📅 2026-08-07 - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX.
 * [nginx-dav-ext-module](https://github.com/arut/nginx-dav-ext-module) ⭐ 511 | 🐛 32 | 🌐 C | 📅 2024-05-18 - NGINX WebDAV missing methods support (PROPFIND & OPTIONS).
 * [nginx-upstream-fair](https://github.com/gnosek/nginx-upstream-fair) ⭐ 493 | 🐛 26 | 🌐 C | 📅 2020-01-12 - The fair load balancer module for nginx.
 * [srcache-nginx-module](https://github.com/openresty/srcache-nginx-module) ⭐ 486 | 🐛 28 | 🌐 C | 📅 2026-08-24 - Transparent subrequest-based caching layout for arbitrary nginx locations.
@@ -132,7 +132,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_http\_php\_session](https://github.com/replay/ngx_http_php_session) ⭐ 37 | 🐛 0 | 🌐 C | 📅 2012-04-26 - nginx module to parse php sessions.
 * [ngx\_http\_avatars\_gen\_module](https://github.com/dizballanze/ngx_http_avatars_gen_module) ⭐ 34 | 🐛 2 | 🌐 C | 📅 2018-07-26 - Nginx module for on-the-fly generating of avatars based on user initials.
 * [iconv-nginx-module](https://github.com/calio/iconv-nginx-module) ⭐ 33 | 🐛 2 | 🌐 C | 📅 2018-10-10 - a character conversion nginx module using libiconv.
-* [nginx-zstd-module](https://github.com/myguard-labs/nginx-zstd-module) ⭐ 31 | 🐛 3 | 🌐 C | 📅 2026-09-04 - Zstandard (zstd) compression and decompression filters for nginx responses.
+* [nginx-zstd-module](https://github.com/myguard-labs/nginx-zstd-module) ⭐ 31 | 🐛 4 | 🌐 C | 📅 2026-09-04 - Zstandard (zstd) compression and decompression filters for nginx responses.
 * [tcp-nginx-module](https://github.com/laocai/tcp-nginx-module) ⭐ 30 | 🐛 2 | 🌐 C | 📅 2014-11-20 - Use nginx as a common TCP server framework.
 * [nginx-udplog-module](https://github.com/vkholodkov/nginx-udplog-module) ⭐ 29 | 🐛 3 | 🌐 C | 📅 2011-07-09 - Implementation of logging using BSD Syslog Protocol for nginx (RFC 3164).
 * [nginx-hmux-module](https://github.com/wangbin579/nginx-hmux-module) ⭐ 28 | 🐛 2 | 🌐 C | 📅 2024-08-20 - The module implements resin's hmux protocol in nginx.
@@ -162,7 +162,7 @@ These modules are not distributed with the Nginx source.
 * [nginx\_mod\_akamai\_g2o](https://github.com/refractalize/nginx_mod_akamai_g2o) ⭐ 7 | 🐛 0 | 📅 2016-08-08 - Nginx Module for Authenticating Akamai G2O requests.
 * [nginx-error-abuse-module](https://github.com/eilandert/nginx-error-abuse-module) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-08-20 - Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.
 * [nginx-error-abuse-module](https://github.com/myguard-labs/nginx-error-abuse-module) ⭐ 6 | 🐛 0 | 🌐 C | 📅 2026-08-20 - Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.
-* [nginx-autocert-module](https://github.com/myguard-labs/nginx-autocert-module) ⭐ 6 | 🐛 2 | 🌐 C | 📅 2026-08-31 - Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.
+* [nginx-autocert-module](https://github.com/myguard-labs/nginx-autocert-module) ⭐ 6 | 🐛 2 | 🌐 C | 📅 2026-09-05 - Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.
 * [nginx-xsltproc-module](https://github.com/yoreek/nginx-xsltproc-module) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2021-01-11 - XSLT processor bases on Nginx.
 * [nginx-dlg-auth](https://github.com/algermissen/nginx-dlg-auth) ⭐ 5 | 🐛 6 | 🌐 C | 📅 2014-06-06 - NGINX module for delegating authentication and authorization to an HTTP gateway.
 * [ngx\_http\_gif\_magick](https://github.com/mschenck/ngx_http_gif_magick) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2022-07-16 - nginx http filter module for dynamically resizing gifs with ImageMagick.
@@ -278,17 +278,17 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Tools
 
-* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 34,062 | 🐛 891 | 🌐 TypeScript | 📅 2026-09-03 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 34,066 | 🐛 894 | 🌐 TypeScript | 📅 2026-09-03 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 
-* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,264 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
+* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,263 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
 
-* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ⭐ 19,904 | 🐛 326 | 🌐 Python | 📅 2026-09-03 - Automated nginx proxy for Docker containers using docker-gen.
+* [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ⭐ 19,905 | 🐛 326 | 🌐 Python | 📅 2026-09-03 - Automated nginx proxy for Docker containers using docker-gen.
 
-* [Laradock](https://github.com/laradock/laradock) ⭐ 12,671 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-03 - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
+* [Laradock](https://github.com/laradock/laradock) ⭐ 12,670 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-03 - Full PHP development environment based on Docker, includes Nginx as one of its swappable services.
 
 * [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) ⭐ 11,561 | 🐛 1 | 📅 2026-06-20 - Nginx HTTP server boilerplate configs.
 
-* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,900 | 🐛 166 | 🌐 Python | 📅 2026-09-04 - Open-source Web Application Firewall and reverse proxy based on NGINX.
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,903 | 🐛 166 | 🌐 Python | 📅 2026-09-05 - Open-source Web Application Firewall and reverse proxy based on NGINX.
 
 * [ngxtop](https://github.com/lebinh/ngxtop) ⭐ 6,525 | 🐛 62 | 🌐 Python | 📅 2026-03-02 - Real-time metrics for nginx server.
 
@@ -296,17 +296,17 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [nginx-boilerplate](https://github.com/Umkus/nginx-boilerplate) ⭐ 2,436 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26 - Awesome Nginx configuration template.
 
-* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,314 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-04 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,319 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-05 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 * [nginx-conf](https://github.com/lebinh/nginx-conf) ⭐ 2,116 | 🐛 2 | 📅 2017-10-13 - A collection of useful Nginx configuration snippets.
 
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,668 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 - Real-time analyzing and diagnosing tools for Nginx based on SystemTap.
 
-* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,182 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Nginx configuration static analyzer
+* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,181 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - Nginx configuration static analyzer
 
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) ⭐ 646 | 🐛 41 | 🌐 Shell | 📅 2025-02-01 - Compile Nginx from source with custom modules on Debian and Ubuntu
 
-* [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ⭐ 515 | 🐛 40 | 🌐 C++ | 📅 2026-09-04 - NGINX plugin for OpenTracing.
+* [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ⭐ 515 | 🐛 41 | 🌐 C++ | 📅 2026-09-05 - NGINX plugin for OpenTracing.
 
 * [puppet-nginx](https://github.com/jfryman/puppet-nginx) ⭐ 468 | 🐛 106 | 🌐 Ruby | 📅 2026-07-27 - Puppet Module to manage NGINX on various UNIXes.
 
@@ -326,7 +326,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) ⭐ 249 | 🐛 5 | 🌐 Shell | 📅 2017-05-21 - A bash script for deleting items from Nginx cache.
 
-* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 8 | 🌐 Dockerfile | 📅 2026-09-04 - Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).
+* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 9 | 🌐 Dockerfile | 📅 2026-09-05 - Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).
 
 * [nginx-binaries](https://github.com/jirutka/nginx-binaries) ⭐ 83 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-23 - Nginx and njs binaries for Linux (x86\_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
 
@@ -388,4 +388,4 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
