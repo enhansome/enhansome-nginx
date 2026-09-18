@@ -25,8 +25,8 @@ Feel free to add your project :)
 ## Well-known Distributions
 
 * [OpenResty](https://github.com/openresty/ngx_openresty) ⭐ 14,035 | 🐛 336 | 🌐 C | 📅 2026-09-16
-* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,365 | 🐛 502 | 🌐 C | 📅 2026-09-07
-* [Angie](https://github.com/webserver-llc/angie) ⭐ 2,567 | 🐛 45 | 🌐 C | 📅 2026-09-17
+* [Tengine](https://github.com/alibaba/tengine) ⭐ 13,366 | 🐛 502 | 🌐 C | 📅 2026-09-07
+* [Angie](https://github.com/webserver-llc/angie) ⭐ 2,568 | 🐛 44 | 🌐 C | 📅 2026-09-18
 * [NGINX](https://nginx.org/en/docs/install.html)
 * [FreeNGINX](https://freenginx.org/)
 * [MyGuard NGINX](https://deb.myguard.nl/nginx-modules/)
@@ -34,7 +34,7 @@ Feel free to add your project :)
 
 ## Embeddable Scripting Languages
 
-* [lua](https://github.com/openresty/lua-nginx-module) ⭐ 11,784 | 🐛 396 | 🌐 C | 📅 2026-09-17
+* [lua](https://github.com/openresty/lua-nginx-module) ⭐ 11,783 | 🐛 396 | 🌐 C | 📅 2026-09-17
 * [clojure](https://github.com/nginx-clojure/nginx-clojure) ⭐ 1,084 | 🐛 34 | 🌐 Java | 📅 2026-09-11
 * [mruby](https://github.com/matsumoto-r/ngx_mruby) ⭐ 997 | 🐛 21 | 🌐 C | 📅 2026-09-03
 * [php](https://github.com/rryqszq4/ngx_php) ⭐ 317 | 🐛 3 | 🌐 C | 📅 2020-01-06
@@ -55,8 +55,8 @@ These modules are not distributed with the Nginx source.
 ### C Modules
 
 * [ngx\_openresty](https://github.com/openresty/ngx_openresty) ⭐ 14,035 | 🐛 336 | 🌐 C | 📅 2026-09-16 - Turning Nginx into a Full-fledged Web App Server.
-* [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) ⭐ 14,028 | 🐛 1,159 | 🌐 C | 📅 2024-12-24 - NGINX-based Media Streaming Server.
-* [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,784 | 🐛 396 | 🌐 C | 📅 2026-09-17 - Embed the Power of Lua into NGINX.
+* [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) ⭐ 14,027 | 🐛 1,159 | 🌐 C | 📅 2024-12-24 - NGINX-based Media Streaming Server.
+* [lua-nginx-module](https://github.com/openresty/lua-nginx-module) ⭐ 11,783 | 🐛 396 | 🌐 C | 📅 2026-09-17 - Embed the Power of Lua into NGINX.
 * [ngx\_pagespeed](https://github.com/apache/incubator-pagespeed-ngx) ⚠️ Archived - Automatic PageSpeed optimization module for Nginx.
 * [nginx-module-vts](https://github.com/vozlt/nginx-module-vts) ⭐ 3,503 | 🐛 11 | 🌐 C | 📅 2026-09-12 - Nginx virtual host traffic status module.
 * [ngx\_http\_google\_filter\_module](https://github.com/cuber/ngx_http_google_filter_module) ⭐ 3,355 | 🐛 37 | 🌐 C | 📅 2023-09-26 - Nginx Module for Google Mirror.
@@ -72,7 +72,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_http\_geoip2\_module](https://github.com/leev/ngx_http_geoip2_module) ⭐ 1,144 | 🐛 11 | 🌐 C | 📅 2024-04-02 - creates variables with values from the maxmind geoip2 databases based on the client IP (supports both IPv4 and IPv6).
 * [ngx\_cache\_purge](https://github.com/FRiCKLE/ngx_cache_purge) ⭐ 1,092 | 🐛 47 | 🌐 C | 📅 2023-02-20 - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.
 * [nginx-clojure](https://github.com/nginx-clojure/nginx-clojure) ⭐ 1,084 | 🐛 34 | 🌐 Java | 📅 2026-09-11 - Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers.
-* [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,027 | 🐛 4 | 🌐 C | 📅 2025-02-20 - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
+* [ngx\_devel\_kit](https://github.com/simpl/ngx_devel_kit) ⭐ 1,026 | 🐛 4 | 🌐 C | 📅 2025-02-20 - Nginx Development Kit - an Nginx module that adds additional generic tools that module developers can use in their own modules.
 * [nginx-upload-module](https://github.com/fdintino/nginx-upload-module) ⭐ 1,004 | 🐛 56 | 🌐 C | 📅 2024-07-17 - A module for nginx web server for handling file uploads using multipart/form-data encoding (RFC 1867).
 * [ngx\_mruby](https://github.com/matsumoto-r/ngx_mruby) ⭐ 997 | 🐛 21 | 🌐 C | 📅 2026-09-03 - ngx\_mruby - A Fast and Memory-Efficient Web Server Extension Mechanism Using Scripting Language mruby for nginx.
 * [nginx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) ⭐ 946 | 🐛 43 | 🌐 C | 📅 2026-02-23 - nginx fancy index module.
@@ -80,7 +80,7 @@ These modules are not distributed with the Nginx source.
 * [ngx\_http\_dyups\_module](https://github.com/yzprofile/ngx_http_dyups_module) ⚠️ Archived - update upstreams' config by restful interface.
 * [nginx-http-concat](https://github.com/alibaba/nginx-http-concat) ⭐ 863 | 🐛 34 | 🌐 C | 📅 2020-12-11 - A Nginx module for concatenating files in a given context: CSS and JS files usually.
 * [nginx-gridfs](https://github.com/mdirolf/nginx-gridfs) ⭐ 786 | 🐛 54 | 🌐 C | 📅 2013-12-10 - Nginx module for serving files from MongoDB's GridFS.
-* [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) ⭐ 759 | 🐛 151 | 🌐 C | 📅 2024-07-25 - LDAP authentication module for nginx.
+* [nginx-auth-ldap](https://github.com/kvspb/nginx-auth-ldap) ⭐ 759 | 🐛 150 | 🌐 C | 📅 2024-07-25 - LDAP authentication module for nginx.
 * [ngx\_http\_substitutions\_filter\_module](https://github.com/yaoweibin/ngx_http_substitutions_filter_module) ⭐ 628 | 🐛 27 | 🌐 Perl | 📅 2022-01-24 - a filter module which can do both regular expression and fixed string substitutions for nginx.
 * [ngx\_postgres](https://github.com/FRiCKLE/ngx_postgres) ⭐ 551 | 🐛 37 | 🌐 C | 📅 2020-09-29 - upstream module that allows nginx to communicate directly with PostgreSQL database.
 * [testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) ⭐ 532 | 🐛 14 | 🌐 C | 📅 2026-05-18 - simple robot mitigation module using cookie based challenge/response technique.
@@ -177,26 +177,26 @@ These modules are not distributed with the Nginx source.
 * [nginx-http-filter-data](https://github.com/61131/nginx-http-filter-data) ⭐ 0 | 🐛 1 | 🌐 C | 📅 2024-12-30 - RFC 2397 "data" URL scheme filter module for Nginx
 * [nginx-strip-filter-module](https://github.com/myguard-labs/nginx-strip-filter-module) ⭐ 0 | 🐛 4 | 🌐 C | 📅 2026-09-14 - Dynamic response-body minifier — strips newlines and redundant whitespace from HTML/CSS/JS responses.
 * [nwall](https://github.com/coalaura/nwall) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2026-09-07 - Ultra-fast bot-spam filter that cuts resource usage by hard-closing requests via User-Agent and URI rules.
-* [nginx-modsecurity](https://github.com/fabiocicerchia/nginx-modsecurity) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-09-14 - ModSecurity v3 dynamic module for nginx as an artifact - a .so you load into your own nginx.
+* [nginx-modsecurity](https://github.com/fabiocicerchia/nginx-modsecurity) ⭐ 0 | 🐛 4 | 🌐 Shell | 📅 2026-09-18 - ModSecurity v3 dynamic module for nginx as an artifact - a .so you load into your own nginx.
 * [ngx\_sync\_msg\_module](https://github.com/yzprofile/ngx_sync_msg_module) - This module provides a mechanism to sync messages between workers for your module.
 * [ngx\_immutable](https://github.com/GetPageSpeed/ngx_immutable) - NGINX module for setting immutable caching on static assets.
 
 ## Rust Modules
 
-* [ngx-rust](https://github.com/nginxinc/ngx-rust) ⭐ 915 | 🐛 47 | 🌐 Rust | 📅 2026-09-16 - Rust bindings for Nginx modules.
+* [ngx-rust](https://github.com/nginxinc/ngx-rust) ⭐ 915 | 🐛 45 | 🌐 Rust | 📅 2026-09-18 - Rust bindings for Nginx modules.
 
 ### Lua Modules
 
 * [ngx\_lua\_waf](https://github.com/loveshell/ngx_lua_waf) ⭐ 4,023 | 🐛 84 | 🌐 Lua | 📅 2024-03-17 - lua waf based on ngx\_lua.
 * [lua-resty-http](https://github.com/pintsized/lua-resty-http) ⭐ 2,079 | 🐛 41 | 🌐 Lua | 📅 2026-08-11 - Lua HTTP client cosocket driver for OpenResty / ngx\_lua.
-* [lua-resty-redis](https://github.com/openresty/lua-resty-redis) ⭐ 1,956 | 🐛 75 | 🌐 Lua | 📅 2026-09-16 - Lua redis client driver for the ngx\_lua based on the cosocket API.
+* [lua-resty-redis](https://github.com/openresty/lua-resty-redis) ⭐ 1,956 | 🐛 75 | 🌐 Lua | 📅 2026-09-18 - Lua redis client driver for the ngx\_lua based on the cosocket API.
 * [lua-resty-template](https://github.com/bungle/lua-resty-template) ⭐ 923 | 🐛 15 | 🌐 Lua | 📅 2023-07-21 - Templating Engine (HTML) for Lua and OpenResty
 * [lua-resty-core](https://github.com/openresty/lua-resty-core) ⭐ 853 | 🐛 72 | 🌐 Lua | 📅 2026-09-16 - New FFI-based API for lua-nginx-module.
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) ⭐ 813 | 🐛 83 | 🌐 Lua | 📅 2023-11-03 - Lua kafka client driver for the ngx\_lua based on the cosocket API.
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) ⭐ 726 | 🐛 54 | 🌐 Lua | 📅 2026-06-20 - Nonblocking Lua MySQL driver library for ngx\_lua.
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) ⭐ 544 | 🐛 48 | 🌐 Lua | 📅 2026-09-16 - Health Checker for Nginx Upstream Servers in Pure Lua.
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) ⭐ 538 | 🐛 37 | 🌐 Perl | 📅 2024-01-03 - JWT For The Great Openresty.
-* [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) ⭐ 523 | 🐛 33 | 🌐 Lua | 📅 2026-09-16 - WebSocket support for the ngx\_lua module (and OpenResty).
+* [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) ⭐ 523 | 🐛 32 | 🌐 Lua | 📅 2026-09-18 - WebSocket support for the ngx\_lua module (and OpenResty).
 * [lua-upstream-nginx-module](https://github.com/openresty/lua-upstream-nginx-module) ⭐ 512 | 🐛 27 | 🌐 C | 📅 2026-09-16 - Nginx C module to expose Lua API to ngx\_lua for Nginx upstreams.
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) ⭐ 493 | 🐛 36 | 🌐 Raku | 📅 2026-04-24 - Raw-socket-based Logger Library for Nginx.
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) ⭐ 461 | 🐛 16 | 🌐 Lua | 📅 2026-09-16 - Lua-land LRU Cache based on LuaJIT FFI.
@@ -256,7 +256,7 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) ⭐ 5 | 🐛 1 | 🌐 Perl | 📅 2014-10-22 - Lua library for capturing urls, decoding, and logging results.
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2015-12-16 - LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library.
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2014-08-14 - Lua library for using the hipchat api.
-* [nginx-lua-waf-kit](https://github.com/fabiocicerchia/nginx-lua-waf-kit) ⭐ 1 | 🐛 2 | 🌐 Lua | 📅 2026-09-14 - Opt-in Lua WAF modules for nginx-lua: rate limiting, bot scoring, edge JWT, geo/ASN policy, mirroring.
+* [nginx-lua-waf-kit](https://github.com/fabiocicerchia/nginx-lua-waf-kit) ⭐ 1 | 🐛 6 | 🌐 Lua | 📅 2026-09-18 - Opt-in Lua WAF modules for nginx-lua: rate limiting, bot scoring, edge JWT, geo/ASN policy, mirroring.
 * [lua-resty-fastdfs](https://github.com/azurewang) - Nonblocking Lua FastDFS driver library for ngx\_lua.
 
 ## Built-in Modules
@@ -280,9 +280,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ## Tools
 
-* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 34,157 | 🐛 878 | 🌐 TypeScript | 📅 2026-09-14 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
+* [nginx-proxy-manager](https://github.com/jc21/nginx-proxy-manager) ⭐ 34,168 | 🐛 878 | 🌐 TypeScript | 📅 2026-09-14 - Webinterface to manage nginx reverse-proxys with Letsencrypt support.
 
-* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,259 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
+* [nginxconfig.io](https://nginxconfig.io) - [GitHub](https://github.com/valentinxxx/nginxconfig.io) ⭐ 28,258 | 🐛 71 | 🌐 JavaScript | 📅 2024-12-14 - Online nginx configuration generator for general purposes.
 
 * [nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) ⭐ 19,913 | 🐛 327 | 🌐 Python | 📅 2026-09-16 - Automated nginx proxy for Docker containers using docker-gen.
 
@@ -290,7 +290,7 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) ⭐ 11,564 | 🐛 1 | 📅 2026-06-20 - Nginx HTTP server boilerplate configs.
 
-* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,972 | 🐛 170 | 🌐 Python | 📅 2026-09-17 - Open-source Web Application Firewall and reverse proxy based on NGINX.
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,974 | 🐛 173 | 🌐 Python | 📅 2026-09-18 - Open-source Web Application Firewall and reverse proxy based on NGINX.
 
 * [ngxtop](https://github.com/lebinh/ngxtop) ⭐ 6,525 | 🐛 62 | 🌐 Python | 📅 2026-03-02 - Real-time metrics for nginx server.
 
@@ -298,23 +298,23 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [nginx-boilerplate](https://github.com/Umkus/nginx-boilerplate) ⭐ 2,435 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26 - Awesome Nginx configuration template.
 
-* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,343 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-17 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+* [NPMplus](https://github.com/ZoeyVid/NPMplus) ⭐ 2,345 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-18 - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
 * [nginx-conf](https://github.com/lebinh/nginx-conf) ⭐ 2,114 | 🐛 2 | 📅 2017-10-13 - A collection of useful Nginx configuration snippets.
 
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) ⭐ 1,668 | 🐛 28 | 🌐 Perl | 📅 2023-03-14 - Real-time analyzing and diagnosing tools for Nginx based on SystemTap.
 
-* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,183 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - Nginx configuration static analyzer
+* [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,184 | 🐛 0 | 🌐 Python | 📅 2026-09-16 - Nginx configuration static analyzer
 
 * [nginx-autoinstall](https://github.com/angristan/nginx-autoinstall) ⭐ 646 | 🐛 41 | 🌐 Shell | 📅 2025-02-01 - Compile Nginx from source with custom modules on Debian and Ubuntu
 
-* [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ⭐ 514 | 🐛 40 | 🌐 C++ | 📅 2026-09-16 - NGINX plugin for OpenTracing.
+* [nginx-opentracing](https://github.com/opentracing-contrib/nginx-opentracing) ⭐ 514 | 🐛 40 | 🌐 C++ | 📅 2026-09-18 - NGINX plugin for OpenTracing.
 
 * [puppet-nginx](https://github.com/jfryman/puppet-nginx) ⭐ 468 | 🐛 106 | 🌐 Ruby | 📅 2026-09-11 - Puppet Module to manage NGINX on various UNIXes.
 
 * [test-nginx](https://github.com/openresty/test-nginx) ⭐ 456 | 🐛 44 | 🌐 Perl | 📅 2026-08-24 - Data-driven test scaffold for Nginx C module and OpenResty Lua library development.
 
-* [nginx-build](https://github.com/cubicdaiya/nginx-build) ⭐ 430 | 🐛 11 | 🌐 Go | 📅 2026-09-16 - seamless nginx builder.
+* [nginx-build](https://github.com/cubicdaiya/nginx-build) ⭐ 430 | 🐛 12 | 🌐 Go | 📅 2026-09-17 - seamless nginx builder.
 
 * [nginx-config-formatter](https://github.com/slomkowski/nginx-config-formatter) ⭐ 424 | 🐛 3 | 🌐 Python | 📅 2026-03-09 - Nginx config file formatter/beautifier written in Python.
 
@@ -328,9 +328,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 * [nginx-cache-purge](https://github.com/perusio/nginx-cache-purge) ⭐ 249 | 🐛 5 | 🌐 Shell | 📅 2017-05-21 - A bash script for deleting items from Nginx cache.
 
-* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 7 | 🌐 Dockerfile | 📅 2026-09-17 - Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).
+* [nginx-lua](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 12 | 🌐 Dockerfile | 📅 2026-09-18 - Latest Nginx with LuaJIT on six base distros (Alma, Alpine, Amazon, Debian, Fedora, Ubuntu).
 
-* [nginx-binaries](https://github.com/jirutka/nginx-binaries) ⭐ 83 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-06 - Nginx and njs binaries for Linux (x86\_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
+* [nginx-binaries](https://github.com/jirutka/nginx-binaries) ⭐ 84 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-06 - Nginx and njs binaries for Linux (x86\_64, aarch64, ppc64le), macOS and Windows; Linux binaries are static so works on every Linux.
 
 * [no-pool-nginx](https://github.com/openresty/no-pool-nginx) ⭐ 76 | 🐛 0 | 🌐 Shell | 📅 2026-09-16 - replace nginx's pool mechanism with plain malloc & free to help tools like valgrind.
 
@@ -392,4 +392,4 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
