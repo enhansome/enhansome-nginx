@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14045,
+            "stars": 14044,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -40,7 +40,7 @@
             "open_issues": 502,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13374,
+            "stars": 13379,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -73,7 +73,7 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-24T08:21:32Z",
+            "last_commit": "2026-09-25T08:23:24Z",
             "open_issues": 42,
             "owner": "webserver-llc",
             "repo": "angie",
@@ -111,10 +111,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-09-24T06:40:17Z",
-            "open_issues": 396,
+            "open_issues": 397,
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11783,
+            "stars": 11782,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -254,7 +254,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14045,
+                "stars": 14044,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -293,10 +293,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-09-24T06:40:17Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11783,
+                "stars": 11782,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -745,7 +745,7 @@
                 "open_issues": 43,
                 "owner": "aperezdc",
                 "repo": "ngx-fancyindex",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "c",
                   "indexes",
@@ -944,7 +944,7 @@
                 "open_issues": 21,
                 "owner": "wargio",
                 "repo": "naxsi",
-                "stars": 524,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1894,7 +1894,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-22T14:24:36Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "pjincz",
                 "repo": "nginx-cgi",
                 "stars": 57,
@@ -3114,8 +3114,8 @@
             "id": 100082295,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T05:43:00Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-25T05:44:13Z",
+            "open_issues": 49,
             "owner": "nginx",
             "repo": "ngx-rust",
             "stars": 914,
@@ -4664,7 +4664,7 @@
             "open_issues": 12,
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "docker",
               "gateway",
@@ -4902,10 +4902,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-24T09:59:07Z",
-            "open_issues": 855,
+            "open_issues": 863,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34215,
+            "stars": 34233,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4929,7 +4929,7 @@
             "open_issues": 72,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28253,
+            "stars": 28251,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4993,11 +4993,11 @@
             "id": 41152295,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-09-10T02:54:31Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-25T15:30:50Z",
+            "open_issues": 24,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12676,
+            "stars": 12673,
             "topics": [
               "docker",
               "docker-compose",
@@ -5039,7 +5039,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11563,
             "topics": [
               "best-practices",
               "config",
@@ -5064,11 +5064,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T14:10:06Z",
-            "open_issues": 153,
+            "last_commit": "2026-09-25T15:02:54Z",
+            "open_issues": 151,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 10998,
+            "stars": 11003,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5176,11 +5176,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T15:39:24Z",
+            "last_commit": "2026-09-25T15:43:58Z",
             "open_issues": 15,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2351,
+            "stars": 2352,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5312,7 +5312,7 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T01:36:01Z",
+            "last_commit": "2026-09-24T22:49:02Z",
             "open_issues": 40,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
@@ -5345,7 +5345,7 @@
             "open_issues": 105,
             "owner": "voxpupuli",
             "repo": "puppet-nginx",
-            "stars": 467,
+            "stars": 468,
             "topics": [
               "archlinux-puppet-module",
               "bsd-puppet-module",
@@ -5558,8 +5558,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T00:02:20Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-25T00:02:20Z",
+            "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 226,
@@ -5828,6 +5828,27 @@
         },
         {
           "node_type": "item",
+          "title": "nginx-config-auditor",
+          "description": "Free, stdlib-only Python static analyzer for nginx configs: flags weak TLS versions/ciphers, missing security headers, autoindex exposure, and more. No dependencies, read-only, works against a config directory or a running Docker container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, stdlib-only Python static analyzer for nginx configs - flags weak TLS, missing security headers, autoindex exposure, and more",
+            "homepage": null,
+            "id": 1386485510,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-25T01:51:36Z",
+            "open_issues": 0,
+            "owner": "errantsolutions",
+            "repo": "nginx-config-auditor",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T15:49:01.459Z"
+        },
+        {
+          "node_type": "item",
           "title": "nginx-scanner-trap",
           "description": "One-script honeypot for existing nginx servers: bots probing paths like /.env or /.git get banned on all ports via fail2ban + nftables. Interactive install with whitelisting, dry-run preview, Debian/Ubuntu, MIT licensed.",
           "children": [],
@@ -5964,7 +5985,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:49:00.394Z",
+    "last_updated": "2026-09-25T15:49:01.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -5972,11 +5993,11 @@
       "id": 40654944,
       "language": "C",
       "license": null,
-      "last_commit": "2026-09-22T08:03:59Z",
+      "last_commit": "2026-09-25T06:03:21Z",
       "open_issues": 5,
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1293,
+      "stars": 1294,
       "topics": [
         "awesome",
         "awesome-list",
@@ -5988,7 +6009,7 @@
         "ngx-lua"
       ]
     },
-    "original_repository_sha": "68b0e4701123a8063695f18807237b6e1cef2249",
+    "original_repository_sha": "108d4177a0e47240301666d4c88ba607f4a1857b",
     "enhanced_repository": "enhansome/enhansome-nginx",
     "enhanced_repository_description": null,
     "title": "Awesome Nginx with stars"
