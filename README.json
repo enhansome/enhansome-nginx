@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14055,
+            "stars": 14056,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -254,7 +254,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14055,
+                "stars": 14056,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -275,7 +275,7 @@
                 "open_issues": 1155,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14028,
+                "stars": 14027,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -389,7 +389,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3066,
+                "stars": 3067,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -410,7 +410,7 @@
                 "open_issues": 26,
                 "owner": "winshining",
                 "repo": "nginx-http-flv-module",
-                "stars": 2932,
+                "stars": 2931,
                 "topics": [
                   "aac",
                   "chunked-transmission",
@@ -678,7 +678,7 @@
                 "open_issues": 4,
                 "owner": "vision5",
                 "repo": "ngx_devel_kit",
-                "stars": 1026,
+                "stars": 1027,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1166,7 +1166,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T00:03:40Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "nginx",
                 "repo": "nginx-otel",
                 "stars": 274,
@@ -2007,7 +2007,7 @@
                 "id": 448138162,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-29T15:36:54Z",
+                "last_commit": "2026-09-30T01:41:48Z",
                 "open_issues": 10,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
@@ -4901,11 +4901,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T07:19:54Z",
+            "last_commit": "2026-09-29T21:01:32Z",
             "open_issues": 876,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34269,
+            "stars": 34283,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4929,7 +4929,7 @@
             "open_issues": 72,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28258,
+            "stars": 28264,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4971,7 +4971,7 @@
             "open_issues": 330,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19917,
+            "stars": 19918,
             "topics": [
               "docker",
               "docker-gen",
@@ -4997,7 +4997,7 @@
             "open_issues": 24,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12677,
+            "stars": 12679,
             "topics": [
               "docker",
               "docker-compose",
@@ -5039,7 +5039,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11563,
             "topics": [
               "best-practices",
               "config",
@@ -5064,11 +5064,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T13:49:16Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-30T13:40:59Z",
+            "open_issues": 170,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11025,
+            "stars": 11029,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5176,11 +5176,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T16:13:29Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-29T18:36:08Z",
+            "open_issues": 15,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2360,
+            "stars": 2361,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5641,7 +5641,7 @@
             "open_issues": 7,
             "owner": "HarshShah0203",
             "repo": "homedex",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "caddy",
               "docker",
@@ -5991,7 +5991,7 @@
             "open_issues": 0,
             "owner": "SimulatedGREG",
             "repo": "nginx-cheatsheet",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "cheatsheet",
               "nginx",
@@ -6026,7 +6026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:53:12.375Z",
+    "last_updated": "2026-09-30T16:49:11.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -6038,7 +6038,7 @@
       "open_issues": 5,
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1293,
+      "stars": 1295,
       "topics": [
         "awesome",
         "awesome-list",
