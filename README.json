@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "OpenResty",
-          "description": null,
+          "description": "openresty/openresty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Tengine",
-          "description": null,
+          "description": "alibaba/tengine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 502,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13383,
+            "stars": 13384,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "Angie",
-          "description": null,
+          "description": "webserver-llc/angie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "lua",
-          "description": null,
+          "description": "openresty/lua-nginx-module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "clojure",
-          "description": null,
+          "description": "nginx-clojure/nginx-clojure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "mruby",
-          "description": null,
+          "description": "matsumotory/ngx_mruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
             "id": 4246391,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-03T06:24:44Z",
+            "last_commit": "2026-10-03T02:05:40Z",
             "open_issues": 21,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "php",
-          "description": null,
+          "description": "rryqszq4/ngx_php",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "wasm",
-          "description": null,
+          "description": "Kong/ngx_wasm_module",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,7 +317,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4334,
+                "stars": 4333,
                 "topics": [
                   "pagespeed"
                 ]
@@ -716,7 +716,7 @@
                 "id": 4246391,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-03T06:24:44Z",
+                "last_commit": "2026-10-03T02:05:40Z",
                 "open_issues": 21,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
@@ -1169,7 +1169,7 @@
                 "open_issues": 21,
                 "owner": "nginx",
                 "repo": "nginx-otel",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1354,7 +1354,7 @@
                 "open_issues": 11,
                 "owner": "openresty",
                 "repo": "memc-nginx-module",
-                "stars": 213,
+                "stars": 212,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1893,7 +1893,7 @@
                 "id": 916271026,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T08:50:19Z",
+                "last_commit": "2026-10-03T02:48:36Z",
                 "open_issues": 5,
                 "owner": "pjincz",
                 "repo": "nginx-cgi",
@@ -3115,7 +3115,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T05:44:30Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "nginx",
             "repo": "ngx-rust",
             "stars": 916,
@@ -4881,10 +4881,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-01T22:48:48Z",
-            "open_issues": 875,
+            "open_issues": 869,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34298,
+            "stars": 34305,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4908,7 +4908,7 @@
             "open_issues": 72,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28266,
+            "stars": 28269,
             "topics": [
               "cdn",
               "digitalocean",
@@ -5044,10 +5044,10 @@
             "language": "Python",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-02T15:52:06Z",
-            "open_issues": 171,
+            "open_issues": 174,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11032,
+            "stars": 11035,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5155,11 +5155,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T16:14:12Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-03T01:16:33Z",
+            "open_issues": 15,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5459,32 +5459,6 @@
         },
         {
           "node_type": "item",
-          "title": "nixy",
-          "description": "Nginx auto configuration and service discovery for Mesos/Marathon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "nixy - nginx auto configuration and service discovery for Mesos/Marathon",
-            "homepage": null,
-            "id": 50028904,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2019-07-01T08:01:42Z",
-            "open_issues": 1,
-            "owner": "martensson",
-            "repo": "nixy",
-            "stars": 270,
-            "topics": [
-              "load-balancer",
-              "marathon",
-              "mesos",
-              "nginx"
-            ]
-          },
-          "first_seen": "2026-08-28T21:22:28.977Z"
-        },
-        {
-          "node_type": "item",
           "title": "nginx-devel-utils",
           "description": "Utilities for nginx module development.",
           "children": [],
@@ -5506,6 +5480,32 @@
         },
         {
           "node_type": "item",
+          "title": "nixy",
+          "description": "Nginx auto configuration and service discovery for Mesos/Marathon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "nixy - nginx auto configuration and service discovery for Mesos/Marathon",
+            "homepage": null,
+            "id": 50028904,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2019-07-01T08:01:42Z",
+            "open_issues": 1,
+            "owner": "martensson",
+            "repo": "nixy",
+            "stars": 266,
+            "topics": [
+              "load-balancer",
+              "marathon",
+              "mesos",
+              "nginx"
+            ]
+          },
+          "first_seen": "2026-08-28T21:22:28.977Z"
+        },
+        {
+          "node_type": "item",
           "title": "nginx-cache-purge",
           "description": "A bash script for deleting items from Nginx cache.",
           "children": [],
@@ -5520,7 +5520,7 @@
             "open_issues": 5,
             "owner": "perusio",
             "repo": "nginx-cache-purge",
-            "stars": 249,
+            "stars": 247,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -6005,7 +6005,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:37:51.605Z",
+    "last_updated": "2026-10-03T05:02:11.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
