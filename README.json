@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14062,
+            "stars": 14063,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -73,7 +73,7 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-05T08:22:40Z",
+            "last_commit": "2026-10-06T08:21:15Z",
             "open_issues": 42,
             "owner": "webserver-llc",
             "repo": "angie",
@@ -254,7 +254,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14062,
+                "stars": 14063,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -272,10 +272,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2024-12-24T10:28:38Z",
-                "open_issues": 1155,
+                "open_issues": 1154,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14025,
+                "stars": 14026,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -368,7 +368,7 @@
                 "open_issues": 37,
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3353,
+                "stars": 3352,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -517,7 +517,7 @@
                 "open_issues": 74,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1856,
+                "stars": 1857,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -699,7 +699,7 @@
                 "open_issues": 56,
                 "owner": "fdintino",
                 "repo": "nginx-upload-module",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -944,7 +944,7 @@
                 "open_issues": 21,
                 "owner": "wargio",
                 "repo": "naxsi",
-                "stars": 522,
+                "stars": 523,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1169,7 +1169,7 @@
                 "open_issues": 21,
                 "owner": "nginx",
                 "repo": "nginx-otel",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -2922,6 +2922,34 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-http-sentinel-module",
+              "description": "(experimental) PREACCESS module that scores every client from weighted signals and acts on the verdict — tarpit bots, block scanners, PoW-challenge grey-area requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EXPERIMENTAL: Unified client-reputation + JA4+ fingerprint + AI-scraper tarpit module for nginx/angie (planning stage)",
+                "homepage": null,
+                "id": 1277439463,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-10T18:00:40Z",
+                "open_issues": 1,
+                "owner": "myguard-labs",
+                "repo": "nginx-http-sentinel-module",
+                "stars": 2,
+                "topics": [
+                  "angie",
+                  "ja4",
+                  "module",
+                  "nginx",
+                  "security",
+                  "tarpit"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "ngx_status_module",
               "description": "Nginx mod status module similar to Apache plugin",
               "children": [],
@@ -2938,34 +2966,6 @@
                 "repo": "ngx_status_module",
                 "stars": 1,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-http-sentinel-module",
-              "description": "(experimental) PREACCESS module that scores every client from weighted signals and acts on the verdict — tarpit bots, block scanners, PoW-challenge grey-area requests.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EXPERIMENTAL: Unified client-reputation + JA4+ fingerprint + AI-scraper tarpit module for nginx/angie (planning stage)",
-                "homepage": null,
-                "id": 1277439463,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-10T18:00:40Z",
-                "open_issues": 1,
-                "owner": "myguard-labs",
-                "repo": "nginx-http-sentinel-module",
-                "stars": 1,
-                "topics": [
-                  "angie",
-                  "ja4",
-                  "module",
-                  "nginx",
-                  "security",
-                  "tarpit"
-                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -4880,11 +4880,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:04:33Z",
-            "open_issues": 872,
+            "last_commit": "2026-10-05T23:35:00Z",
+            "open_issues": 871,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34322,
+            "stars": 34327,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4908,7 +4908,7 @@
             "open_issues": 72,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28266,
+            "stars": 28267,
             "topics": [
               "cdn",
               "digitalocean",
@@ -5018,7 +5018,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11563,
             "topics": [
               "best-practices",
               "config",
@@ -5043,11 +5043,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T16:48:47Z",
+            "last_commit": "2026-10-06T10:10:54Z",
             "open_issues": 180,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11041,
+            "stars": 11044,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5135,7 +5135,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2432,
+            "stars": 2431,
             "topics": [
               "boilerplate",
               "nginx"
@@ -5155,11 +5155,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T16:14:09Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-06T09:29:29Z",
+            "open_issues": 15,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2364,
+            "stars": 2366,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5291,8 +5291,8 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T20:29:37Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-06T10:23:10Z",
+            "open_issues": 42,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
             "stars": 513,
@@ -5537,8 +5537,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T23:25:34Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-06T06:05:05Z",
+            "open_issues": 5,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 226,
@@ -5984,7 +5984,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T19:44:27.539Z",
+    "last_updated": "2026-10-06T11:04:06.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
