@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14067,
+            "stars": 14068,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -40,7 +40,7 @@
             "open_issues": 502,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13386,
+            "stars": 13390,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -73,7 +73,7 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-08T08:24:55Z",
+            "last_commit": "2026-10-13T15:24:13Z",
             "open_issues": 44,
             "owner": "webserver-llc",
             "repo": "angie",
@@ -135,7 +135,7 @@
             "open_issues": 34,
             "owner": "nginx-clojure",
             "repo": "nginx-clojure",
-            "stars": 1085,
+            "stars": 1084,
             "topics": [
               "clojure",
               "groovy",
@@ -163,7 +163,7 @@
             "open_issues": 10,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
-            "stars": 999,
+            "stars": 998,
             "topics": [
               "mruby",
               "nginx",
@@ -254,7 +254,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14067,
+                "stars": 14068,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -317,7 +317,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4332,
+                "stars": 4331,
                 "topics": [
                   "pagespeed"
                 ]
@@ -340,7 +340,7 @@
                 "open_issues": 13,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
-                "stars": 3500,
+                "stars": 3499,
                 "topics": [
                   "c",
                   "monitoring",
@@ -368,7 +368,7 @@
                 "open_issues": 37,
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3350,
+                "stars": 3349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -389,7 +389,7 @@
                 "open_issues": 134,
                 "owner": "slact",
                 "repo": "nchan",
-                "stars": 3065,
+                "stars": 3064,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -449,7 +449,7 @@
                 "open_issues": 15,
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
-                "stars": 2230,
+                "stars": 2229,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -514,10 +514,10 @@
                 "language": "Perl",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T15:43:08Z",
-                "open_issues": 75,
+                "open_issues": 76,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1858,
+                "stars": 1857,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -608,7 +608,7 @@
                 "open_issues": 11,
                 "owner": "leev",
                 "repo": "ngx_http_geoip2_module",
-                "stars": 1143,
+                "stars": 1142,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -650,7 +650,7 @@
                 "open_issues": 34,
                 "owner": "nginx-clojure",
                 "repo": "nginx-clojure",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": [
                   "clojure",
                   "groovy",
@@ -720,7 +720,7 @@
                 "open_issues": 10,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
-                "stars": 999,
+                "stars": 998,
                 "topics": [
                   "mruby",
                   "nginx",
@@ -771,7 +771,7 @@
                 "open_issues": 28,
                 "owner": "openresty",
                 "repo": "redis2-nginx-module",
-                "stars": 903,
+                "stars": 902,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -792,7 +792,7 @@
                 "open_issues": 38,
                 "owner": "yzprofile",
                 "repo": "ngx_http_dyups_module",
-                "stars": 874,
+                "stars": 873,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -876,7 +876,7 @@
                 "open_issues": 27,
                 "owner": "yaoweibin",
                 "repo": "ngx_http_substitutions_filter_module",
-                "stars": 628,
+                "stars": 627,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -897,7 +897,7 @@
                 "open_issues": 37,
                 "owner": "FRiCKLE",
                 "repo": "ngx_postgres",
-                "stars": 551,
+                "stars": 550,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1211,7 +1211,7 @@
                 "open_issues": 12,
                 "owner": "openresty",
                 "repo": "replace-filter-nginx-module",
-                "stars": 263,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 15,
                 "owner": "alibaba",
                 "repo": "nginx-tfs",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1278,7 +1278,7 @@
                 "open_issues": 5,
                 "owner": "alibaba",
                 "repo": "nginx-http-sysguard",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1813,7 +1813,7 @@
                 "open_issues": 1,
                 "owner": "alibaba",
                 "repo": "nginx-backtrace",
-                "stars": 70,
+                "stars": 71,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1834,7 +1834,7 @@
                 "open_issues": 2,
                 "owner": "openresty",
                 "repo": "array-var-nginx-module",
-                "stars": 68,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1876,7 +1876,7 @@
                 "open_issues": 5,
                 "owner": "pjincz",
                 "repo": "nginx-cgi",
-                "stars": 59,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3114,7 +3114,7 @@
             "id": 100082295,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T05:45:13Z",
+            "last_commit": "2026-10-13T06:53:55Z",
             "open_issues": 47,
             "owner": "nginx",
             "repo": "ngx-rust",
@@ -3141,7 +3141,7 @@
                 "open_issues": 84,
                 "owner": "loveshell",
                 "repo": "ngx_lua_waf",
-                "stars": 4023,
+                "stars": 4022,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3192,7 +3192,7 @@
                 "open_issues": 75,
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
-                "stars": 1958,
+                "stars": 1957,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3386,7 +3386,7 @@
                 "open_issues": 36,
                 "owner": "cloudflare",
                 "repo": "lua-resty-logger-socket",
-                "stars": 493,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3470,7 +3470,7 @@
                 "open_issues": 24,
                 "owner": "cloudflare",
                 "repo": "lua-resty-cookie",
-                "stars": 350,
+                "stars": 349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3596,7 +3596,7 @@
                 "open_issues": 3,
                 "owner": "wingify",
                 "repo": "lua-resty-rabbitmqstomp",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3832,7 +3832,7 @@
                 "open_issues": 3,
                 "owner": "ledgetech",
                 "repo": "lua-resty-qless",
-                "stars": 97,
+                "stars": 96,
                 "topics": [
                   "job-queue",
                   "lua",
@@ -4880,11 +4880,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T05:12:57Z",
-            "open_issues": 862,
+            "last_commit": "2026-10-13T11:50:04Z",
+            "open_issues": 866,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34384,
+            "stars": 34393,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4908,7 +4908,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28263,
+            "stars": 28262,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4950,7 +4950,7 @@
             "open_issues": 328,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19920,
+            "stars": 19923,
             "topics": [
               "docker",
               "docker-gen",
@@ -4976,7 +4976,7 @@
             "open_issues": 29,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12676,
+            "stars": 12677,
             "topics": [
               "docker",
               "docker-compose",
@@ -5018,7 +5018,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11561,
             "topics": [
               "best-practices",
               "config",
@@ -5043,11 +5043,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T07:04:09Z",
-            "open_issues": 199,
+            "last_commit": "2026-10-13T16:48:01Z",
+            "open_issues": 186,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11061,
+            "stars": 11064,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5089,7 +5089,7 @@
             "open_issues": 62,
             "owner": "lebinh",
             "repo": "ngxtop",
-            "stars": 6524,
+            "stars": 6523,
             "topics": [
               "cli",
               "monitoring",
@@ -5135,7 +5135,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2431,
+            "stars": 2429,
             "topics": [
               "boilerplate",
               "nginx"
@@ -5155,8 +5155,8 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-12T14:29:07Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-13T15:52:33Z",
+            "open_issues": 16,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
             "stars": 2374,
@@ -5187,7 +5187,7 @@
             "open_issues": 2,
             "owner": "lebinh",
             "repo": "nginx-conf",
-            "stars": 2113,
+            "stars": 2112,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -5208,7 +5208,7 @@
             "open_issues": 28,
             "owner": "openresty",
             "repo": "openresty-systemtap-toolkit",
-            "stars": 1667,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -5229,7 +5229,7 @@
             "open_issues": 1,
             "owner": "dvershinin",
             "repo": "gixy",
-            "stars": 1186,
+            "stars": 1185,
             "topics": [
               "checker",
               "configuration",
@@ -5324,7 +5324,7 @@
             "open_issues": 107,
             "owner": "voxpupuli",
             "repo": "puppet-nginx",
-            "stars": 468,
+            "stars": 467,
             "topics": [
               "archlinux-puppet-module",
               "bsd-puppet-module",
@@ -5376,8 +5376,8 @@
             "id": 20060139,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-12T04:10:23Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-13T10:35:42Z",
+            "open_issues": 7,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 430,
@@ -5473,7 +5473,7 @@
             "open_issues": 1,
             "owner": "openresty",
             "repo": "openresty-devel-utils",
-            "stars": 268,
+            "stars": 267,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -5949,7 +5949,7 @@
             "open_issues": 542,
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6949,
+            "stars": 6948,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -5970,7 +5970,7 @@
             "open_issues": 5,
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2868,
+            "stars": 2867,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -6026,7 +6026,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:17:21.082Z",
+    "last_updated": "2026-10-13T18:17:46.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
