@@ -19,7 +19,7 @@
             "open_issues": 336,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14068,
+            "stars": 14071,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "adc",
               "apache",
@@ -114,7 +114,7 @@
             "open_issues": 399,
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11784,
+            "stars": 11786,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -159,8 +159,8 @@
             "id": 4246391,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-04T09:14:06Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-14T14:31:54Z",
+            "open_issues": 9,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
             "stars": 998,
@@ -254,7 +254,7 @@
                 "open_issues": 336,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14068,
+                "stars": 14071,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -275,7 +275,7 @@
                 "open_issues": 1155,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14026,
+                "stars": 14025,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -296,7 +296,7 @@
                 "open_issues": 399,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11784,
+                "stars": 11786,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -368,7 +368,7 @@
                 "open_issues": 37,
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3349,
+                "stars": 3350,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -716,8 +716,8 @@
                 "id": 4246391,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-04T09:14:06Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-14T14:31:54Z",
+                "open_issues": 9,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
                 "stars": 998,
@@ -965,7 +965,7 @@
                 "open_issues": 32,
                 "owner": "arut",
                 "repo": "nginx-dav-ext-module",
-                "stars": 510,
+                "stars": 509,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1813,7 +1813,7 @@
                 "open_issues": 1,
                 "owner": "alibaba",
                 "repo": "nginx-backtrace",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1971,6 +1971,34 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-zstd-module",
+              "description": "Zstandard (zstd) compression and decompression filters for nginx responses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ZTSD Compression for NGINX/Angie, fixed and tested",
+                "homepage": "https://deb.myguard.nl/articles/zstd-nginx-module-bugs-fixed/",
+                "id": 448138162,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-10-12T11:36:59Z",
+                "open_issues": 9,
+                "owner": "myguard-labs",
+                "repo": "nginx-zstd-module",
+                "stars": 35,
+                "topics": [
+                  "angie",
+                  "compression",
+                  "hardened",
+                  "myguard",
+                  "nginx",
+                  "zstd"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "ngx_http_avatars_gen_module",
               "description": "Nginx module for on-the-fly generating of avatars based on user initials.",
               "children": [],
@@ -1991,34 +2019,6 @@
                   "generating-avatars",
                   "nginx",
                   "nginx-module"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-zstd-module",
-              "description": "Zstandard (zstd) compression and decompression filters for nginx responses.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ZTSD Compression for NGINX/Angie, fixed and tested",
-                "homepage": "https://deb.myguard.nl/articles/zstd-nginx-module-bugs-fixed/",
-                "id": 448138162,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T11:36:59Z",
-                "open_issues": 9,
-                "owner": "myguard-labs",
-                "repo": "nginx-zstd-module",
-                "stars": 34,
-                "topics": [
-                  "angie",
-                  "compression",
-                  "hardened",
-                  "myguard",
-                  "nginx",
-                  "zstd"
                 ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3124,6 +3124,34 @@
           "first_seen": "2026-08-28T21:22:28.977Z"
         },
         {
+          "node_type": "item",
+          "title": "ngx_mbrotli",
+          "description": "Safe Rust brotli compression module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Brotli compression for NGINX, written in Rust with ngx-rust and the mbrotli encoder.",
+            "homepage": null,
+            "id": 1412976379,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-14T15:28:14Z",
+            "open_issues": 0,
+            "owner": "M-Compressors",
+            "repo": "ngx_mbrotli",
+            "stars": 2,
+            "topics": [
+              "brotli",
+              "brotli-compression",
+              "compression",
+              "nginx",
+              "nginx-configuration",
+              "nginx-module"
+            ]
+          },
+          "first_seen": "2026-10-14T15:49:23.677Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -3141,7 +3169,7 @@
                 "open_issues": 84,
                 "owner": "loveshell",
                 "repo": "ngx_lua_waf",
-                "stars": 4022,
+                "stars": 4021,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3213,7 +3241,7 @@
                 "open_issues": 15,
                 "owner": "bungle",
                 "repo": "lua-resty-template",
-                "stars": 923,
+                "stars": 924,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -4669,7 +4697,7 @@
             "open_issues": 11,
             "owner": "nginx",
             "repo": "njs-examples",
-            "stars": 694,
+            "stars": 693,
             "topics": [
               "javascript",
               "nginx",
@@ -4880,11 +4908,11 @@
             "id": 114938943,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T11:50:04Z",
-            "open_issues": 866,
+            "last_commit": "2026-10-13T21:10:53Z",
+            "open_issues": 859,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34393,
+            "stars": 34398,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4950,7 +4978,7 @@
             "open_issues": 328,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19923,
+            "stars": 19925,
             "topics": [
               "docker",
               "docker-gen",
@@ -4976,7 +5004,7 @@
             "open_issues": 29,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12677,
+            "stars": 12675,
             "topics": [
               "docker",
               "docker-compose",
@@ -5018,7 +5046,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -5043,11 +5071,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T16:48:01Z",
+            "last_commit": "2026-10-14T13:38:07Z",
             "open_issues": 186,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11064,
+            "stars": 11068,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5155,11 +5183,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T15:52:33Z",
+            "last_commit": "2026-10-14T15:44:55Z",
             "open_issues": 16,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2374,
+            "stars": 2377,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5926,6 +5954,66 @@
             ]
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ipscanner-forward-auth",
+          "description": "Forward-auth sidecar for nginx (also Nginx Proxy Manager, Apache, HAProxy, Traefik and Caddy) that checks each visitor with the IPScanner API, passes verdict headers to the app and, in enforce mode, blocks bots, Tor, VPN and proxies. Needs an IPScanner API key. MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Forward-auth sidecar for nginx, Nginx Proxy Manager, Apache, HAProxy, Traefik and Caddy: blocks bots, Tor, VPN and proxies with IPScanner",
+            "homepage": "https://ipscanner.io/nginx",
+            "id": 1413778590,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-11T08:31:41Z",
+            "open_issues": 0,
+            "owner": "ipscanner",
+            "repo": "ipscanner-forward-auth",
+            "stars": 0,
+            "topics": [
+              "apache",
+              "auth-request",
+              "bot-detection",
+              "docker",
+              "forward-auth",
+              "haproxy",
+              "ipscanner",
+              "nginx"
+            ]
+          },
+          "first_seen": "2026-10-14T15:49:23.677Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nginx-vhost",
+          "description": "CLI to point a local domain at a reverse proxy, static site or PHP app, with nginx -t validation and automatic rollback.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Point any local domain at a reverse proxy, static site or PHP app with one command. Validates with nginx -t and rolls back on failure.",
+            "homepage": null,
+            "id": 1415497732,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-10-12T17:26:20Z",
+            "open_issues": 0,
+            "owner": "nowshad7",
+            "repo": "nginx-vhost",
+            "stars": 0,
+            "topics": [
+              "bash",
+              "cli",
+              "local-development",
+              "mkcert",
+              "nginx",
+              "php-fpm",
+              "reverse-proxy",
+              "vhost"
+            ]
+          },
+          "first_seen": "2026-10-14T15:49:23.677Z"
         }
       ],
       "title": "Tools"
@@ -6026,7 +6114,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T18:17:46.854Z",
+    "last_updated": "2026-10-14T15:49:23.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -6034,11 +6122,11 @@
       "id": 40654944,
       "language": "C",
       "license": null,
-      "last_commit": "2026-10-11T03:35:14Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-14T03:10:15Z",
+      "open_issues": 5,
       "owner": "agile6v",
       "repo": "awesome-nginx",
-      "stars": 1297,
+      "stars": 1298,
       "topics": [
         "awesome",
         "awesome-list",
@@ -6050,7 +6138,7 @@
         "ngx-lua"
       ]
     },
-    "original_repository_sha": "049265d343f3ca1cfc8e4de8f9c49d197d581560",
+    "original_repository_sha": "f835c323c8cacdaacf218ff62e2a61f0cfda68b0",
     "enhanced_repository": "enhansome/enhansome-nginx",
     "enhanced_repository_description": null,
     "title": "Awesome Nginx with stars"
