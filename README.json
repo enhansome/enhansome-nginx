@@ -15,11 +15,11 @@
             "id": 480080,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T08:37:23Z",
-            "open_issues": 336,
+            "last_commit": "2026-10-15T07:17:35Z",
+            "open_issues": 337,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14071,
+            "stars": 14073,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -40,7 +40,7 @@
             "open_issues": 502,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13390,
+            "stars": 13391,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -73,11 +73,11 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-13T15:24:13Z",
+            "last_commit": "2026-10-15T08:23:29Z",
             "open_issues": 44,
             "owner": "webserver-llc",
             "repo": "angie",
-            "stars": 2587,
+            "stars": 2589,
             "topics": [
               "adc",
               "apache",
@@ -110,7 +110,7 @@
             "id": 613829,
             "language": "C",
             "license": null,
-            "last_commit": "2026-09-24T06:40:17Z",
+            "last_commit": "2026-10-15T14:31:41Z",
             "open_issues": 399,
             "owner": "openresty",
             "repo": "lua-nginx-module",
@@ -159,7 +159,7 @@
             "id": 4246391,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-14T14:31:54Z",
+            "last_commit": "2026-10-15T06:47:18Z",
             "open_issues": 9,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
@@ -188,7 +188,7 @@
             "open_issues": 3,
             "owner": "rryqszq4",
             "repo": "ngx_php",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "module",
               "nginx",
@@ -250,11 +250,11 @@
                 "id": 480080,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T08:37:23Z",
-                "open_issues": 336,
+                "last_commit": "2026-10-15T07:17:35Z",
+                "open_issues": 337,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14071,
+                "stars": 14073,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -272,7 +272,7 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2024-12-24T10:28:38Z",
-                "open_issues": 1155,
+                "open_issues": 1154,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
                 "stars": 14025,
@@ -292,7 +292,7 @@
                 "id": 613829,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-24T06:40:17Z",
+                "last_commit": "2026-10-15T14:31:41Z",
                 "open_issues": 399,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
@@ -336,8 +336,8 @@
                 "id": 30759499,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-11T02:06:39Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-15T14:09:35Z",
+                "open_issues": 11,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
                 "stars": 3499,
@@ -517,7 +517,7 @@
                 "open_issues": 76,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1857,
+                "stars": 1858,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -716,7 +716,7 @@
                 "id": 4246391,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-14T14:31:54Z",
+                "last_commit": "2026-10-15T06:47:18Z",
                 "open_issues": 9,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
@@ -965,7 +965,7 @@
                 "open_issues": 32,
                 "owner": "arut",
                 "repo": "nginx-dav-ext-module",
-                "stars": 509,
+                "stars": 510,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -1141,7 +1141,7 @@
                 "open_issues": 3,
                 "owner": "rryqszq4",
                 "repo": "ngx_php",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "module",
                   "nginx",
@@ -1985,7 +1985,7 @@
                 "open_issues": 9,
                 "owner": "myguard-labs",
                 "repo": "nginx-zstd-module",
-                "stars": 35,
+                "stars": 36,
                 "topics": [
                   "angie",
                   "compression",
@@ -2653,6 +2653,37 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-autocert-module",
+              "description": "Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "nginx module to automate certificates through the ACME protocol, with dual-certifate, wildcard and ip-cert  support",
+                "homepage": "https://deb.myguard.nl/articles/nginx-autocert-module/",
+                "id": 1272653477,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-10-12T11:23:36Z",
+                "open_issues": 11,
+                "owner": "myguard-labs",
+                "repo": "nginx-autocert-module",
+                "stars": 7,
+                "topics": [
+                  "acme",
+                  "angie",
+                  "dual-certificate",
+                  "ecdsa",
+                  "https",
+                  "nginx",
+                  "rsa",
+                  "tls",
+                  "wildcard-certificates"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "nginx-error-abuse-module",
               "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
               "children": [],
@@ -2701,37 +2732,6 @@
                   "module",
                   "myguard",
                   "nginx"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-autocert-module",
-              "description": "Automatic TLS certificates built into nginx — ACME/Let's Encrypt issuance and renewal, with wildcard, IP-address certs and TLS-ALPN-01.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "nginx module to automate certificates through the ACME protocol, with dual-certifate, wildcard and ip-cert  support",
-                "homepage": "https://deb.myguard.nl/articles/nginx-autocert-module/",
-                "id": 1272653477,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-10-12T11:23:36Z",
-                "open_issues": 11,
-                "owner": "myguard-labs",
-                "repo": "nginx-autocert-module",
-                "stars": 6,
-                "topics": [
-                  "acme",
-                  "angie",
-                  "dual-certificate",
-                  "ecdsa",
-                  "https",
-                  "nginx",
-                  "rsa",
-                  "tls",
-                  "wildcard-certificates"
                 ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3114,8 +3114,8 @@
             "id": 100082295,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:53:55Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-15T06:31:28Z",
+            "open_issues": 45,
             "owner": "nginx",
             "repo": "ngx-rust",
             "stars": 920,
@@ -3135,7 +3135,7 @@
             "id": 1412976379,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-14T15:28:14Z",
+            "last_commit": "2026-10-14T20:54:12Z",
             "open_issues": 0,
             "owner": "M-Compressors",
             "repo": "ngx_mbrotli",
@@ -4667,8 +4667,8 @@
             "id": 296727267,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T00:13:18Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-14T22:02:34Z",
+            "open_issues": 11,
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 757,
@@ -4697,7 +4697,7 @@
             "open_issues": 11,
             "owner": "nginx",
             "repo": "njs-examples",
-            "stars": 693,
+            "stars": 692,
             "topics": [
               "javascript",
               "nginx",
@@ -4909,10 +4909,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-13T21:10:53Z",
-            "open_issues": 859,
+            "open_issues": 857,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34398,
+            "stars": 34410,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4936,7 +4936,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28262,
+            "stars": 28260,
             "topics": [
               "cdn",
               "digitalocean",
@@ -4978,7 +4978,7 @@
             "open_issues": 328,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19925,
+            "stars": 19927,
             "topics": [
               "docker",
               "docker-gen",
@@ -5004,7 +5004,7 @@
             "open_issues": 29,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12675,
+            "stars": 12674,
             "topics": [
               "docker",
               "docker-compose",
@@ -5046,7 +5046,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11560,
+            "stars": 11559,
             "topics": [
               "best-practices",
               "config",
@@ -5071,11 +5071,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T13:38:07Z",
-            "open_issues": 186,
+            "last_commit": "2026-10-15T09:27:23Z",
+            "open_issues": 158,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11068,
+            "stars": 11071,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5183,11 +5183,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T15:44:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-15T14:01:34Z",
+            "open_issues": 15,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2377,
+            "stars": 2382,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5253,7 +5253,7 @@
             "id": 198842952,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T04:58:09Z",
+            "last_commit": "2026-10-15T05:20:09Z",
             "open_issues": 1,
             "owner": "dvershinin",
             "repo": "gixy",
@@ -5319,7 +5319,7 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T13:13:32Z",
+            "last_commit": "2026-10-15T01:38:16Z",
             "open_issues": 40,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
@@ -5405,7 +5405,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-13T10:35:42Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 430,
@@ -5432,7 +5432,7 @@
             "open_issues": 3,
             "owner": "slomkowski",
             "repo": "nginx-config-formatter",
-            "stars": 425,
+            "stars": 421,
             "topics": [
               "beautifier",
               "formatter",
@@ -5623,7 +5623,7 @@
             "id": 750575,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-16T02:17:50Z",
+            "last_commit": "2026-10-15T06:35:41Z",
             "open_issues": 0,
             "owner": "openresty",
             "repo": "no-pool-nginx",
@@ -5648,7 +5648,7 @@
             "open_issues": 7,
             "owner": "HarshShah0203",
             "repo": "homedex",
-            "stars": 62,
+            "stars": 64,
             "topics": [
               "caddy",
               "docker",
@@ -6014,6 +6014,37 @@
             ]
           },
           "first_seen": "2026-10-14T15:49:23.677Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Server Rules Generator",
+          "description": "GitHub - Generates matching nginx, Apache .htaccess, Caddy and Cloudflare rules from one set of options: HTTPS and www redirects, bulk redirects with chains and loops fixed, security headers, AI crawler and bad bot blocking. Free, no signup, MIT licensed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate matching Apache .htaccess, Nginx, Caddy and Cloudflare rules: HTTPS, redirects, security headers, AI bot blocking. Tested on real servers.",
+            "homepage": "https://www.paidhosting.com/htaccess-nginx-generator/",
+            "id": 1419851827,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-14T21:10:21Z",
+            "open_issues": 0,
+            "owner": "PaidHost",
+            "repo": "server-rules-generator",
+            "stars": 0,
+            "topics": [
+              "ai-crawlers",
+              "apache",
+              "caddy",
+              "cloudflare",
+              "htaccess",
+              "nginx",
+              "redirects",
+              "security-headers",
+              "wordpress"
+            ]
+          },
+          "first_seen": "2026-10-15T15:35:17.138Z"
         }
       ],
       "title": "Tools"
@@ -6079,7 +6110,7 @@
             "open_issues": 0,
             "owner": "SimulatedGREG",
             "repo": "nginx-cheatsheet",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "cheatsheet",
               "nginx",
@@ -6114,7 +6145,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:49:23.677Z",
+    "last_updated": "2026-10-15T15:35:17.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
@@ -6122,8 +6153,8 @@
       "id": 40654944,
       "language": "C",
       "license": null,
-      "last_commit": "2026-10-14T03:10:15Z",
-      "open_issues": 5,
+      "last_commit": "2026-10-15T12:40:11Z",
+      "open_issues": 6,
       "owner": "agile6v",
       "repo": "awesome-nginx",
       "stars": 1298,
@@ -6138,7 +6169,7 @@
         "ngx-lua"
       ]
     },
-    "original_repository_sha": "f835c323c8cacdaacf218ff62e2a61f0cfda68b0",
+    "original_repository_sha": "c49cf10c505c43036b56f245a9917adb00c3fd0f",
     "enhanced_repository": "enhansome/enhansome-nginx",
     "enhanced_repository_description": null,
     "title": "Awesome Nginx with stars"
