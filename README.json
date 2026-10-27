@@ -19,7 +19,7 @@
             "open_issues": 331,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14099,
+            "stars": 14106,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -40,7 +40,7 @@
             "open_issues": 510,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13407,
+            "stars": 13409,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -74,7 +74,7 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-23T08:23:12Z",
-            "open_issues": 46,
+            "open_issues": 45,
             "owner": "webserver-llc",
             "repo": "angie",
             "stars": 2605,
@@ -110,8 +110,8 @@
             "id": 613829,
             "language": "C",
             "license": null,
-            "last_commit": "2026-10-23T07:30:24Z",
-            "open_issues": 395,
+            "last_commit": "2026-10-27T15:20:07Z",
+            "open_issues": 394,
             "owner": "openresty",
             "repo": "lua-nginx-module",
             "stars": 11786,
@@ -254,7 +254,7 @@
                 "open_issues": 331,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14099,
+                "stars": 14106,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -275,7 +275,7 @@
                 "open_issues": 1158,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14029,
+                "stars": 14028,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -292,8 +292,8 @@
                 "id": 613829,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-23T07:30:24Z",
-                "open_issues": 395,
+                "last_commit": "2026-10-27T15:20:07Z",
+                "open_issues": 394,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
                 "stars": 11786,
@@ -449,7 +449,7 @@
                 "open_issues": 15,
                 "owner": "wandenberg",
                 "repo": "nginx-push-stream-module",
-                "stars": 2228,
+                "stars": 2227,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -517,7 +517,7 @@
                 "open_issues": 75,
                 "owner": "owasp-modsecurity",
                 "repo": "ModSecurity-nginx",
-                "stars": 1861,
+                "stars": 1860,
                 "topics": [
                   "libmodsecurity",
                   "modsecurity",
@@ -742,7 +742,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-23T23:37:38Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "aperezdc",
                 "repo": "ngx-fancyindex",
                 "stars": 951,
@@ -2632,6 +2632,33 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-error-abuse-module",
+              "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
+                "id": 1262837794,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
+                "owner": "myguard-labs",
+                "repo": "nginx-error-abuse-module",
+                "stars": 7,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "nginx_mod_akamai_g2o",
               "description": "Nginx Module for Authenticating Akamai G2O requests.",
               "children": [],
@@ -2648,6 +2675,33 @@
                 "repo": "nginx_mod_akamai_g2o",
                 "stars": 7,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nginx-error-abuse-module",
+              "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NGINX module that ratelimits error (404) abusers",
+                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
+                "id": 1262837794,
+                "language": "C",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-20T09:39:06Z",
+                "open_issues": 0,
+                "owner": "myguard-labs",
+                "repo": "nginx-error-abuse-module",
+                "stars": 7,
+                "topics": [
+                  "404",
+                  "abuse",
+                  "module",
+                  "myguard",
+                  "nginx"
+                ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
             },
@@ -2678,60 +2732,6 @@
                   "rsa",
                   "tls",
                   "wildcard-certificates"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-error-abuse-module",
-              "description": "Ratelimits and bans clients making excessive error (404/403/5xx) requests; shared-memory counters, optional Redis for multi-server, returns 429 to banned clients.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NGINX module that ratelimits error (404) abusers",
-                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
-                "id": 1262837794,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-08-20T09:39:06Z",
-                "open_issues": 0,
-                "owner": "myguard-labs",
-                "repo": "nginx-error-abuse-module",
-                "stars": 6,
-                "topics": [
-                  "404",
-                  "abuse",
-                  "module",
-                  "myguard",
-                  "nginx"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-error-abuse-module",
-              "description": "Watches error responses and bans clients that trigger repeated 4xx/5xx abuse.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NGINX module that ratelimits error (404) abusers",
-                "homepage": "https://deb.myguard.nl/articles/nginx-error-abuse/",
-                "id": 1262837794,
-                "language": "C",
-                "license": "BSD-2-Clause",
-                "last_commit": "2026-08-20T09:39:06Z",
-                "open_issues": 0,
-                "owner": "myguard-labs",
-                "repo": "nginx-error-abuse-module",
-                "stars": 6,
-                "topics": [
-                  "404",
-                  "abuse",
-                  "module",
-                  "myguard",
-                  "nginx"
                 ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -2843,6 +2843,34 @@
             },
             {
               "node_type": "item",
+              "title": "nginx-http-sentinel-module",
+              "description": "(experimental) PREACCESS module that scores every client from weighted signals and acts on the verdict — tarpit bots, block scanners, PoW-challenge grey-area requests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "EXPERIMENTAL: Unified client-reputation + JA4+ fingerprint + AI-scraper tarpit module for nginx/angie (planning stage)",
+                "homepage": null,
+                "id": 1277439463,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-10T18:00:40Z",
+                "open_issues": 1,
+                "owner": "myguard-labs",
+                "repo": "nginx-http-sentinel-module",
+                "stars": 3,
+                "topics": [
+                  "angie",
+                  "ja4",
+                  "module",
+                  "nginx",
+                  "security",
+                  "tarpit"
+                ]
+              },
+              "first_seen": "2026-08-28T21:22:28.977Z"
+            },
+            {
+              "node_type": "item",
               "title": "nginx-cache-turbo-module",
               "description": "Built-in full-page cache for nginx — a tiny Varnish living inside the worker.",
               "children": [],
@@ -2916,34 +2944,6 @@
                   "module",
                   "nginx",
                   "security"
-                ]
-              },
-              "first_seen": "2026-08-28T21:22:28.977Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nginx-http-sentinel-module",
-              "description": "(experimental) PREACCESS module that scores every client from weighted signals and acts on the verdict — tarpit bots, block scanners, PoW-challenge grey-area requests.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "EXPERIMENTAL: Unified client-reputation + JA4+ fingerprint + AI-scraper tarpit module for nginx/angie (planning stage)",
-                "homepage": null,
-                "id": 1277439463,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2026-08-10T18:00:40Z",
-                "open_issues": 1,
-                "owner": "myguard-labs",
-                "repo": "nginx-http-sentinel-module",
-                "stars": 2,
-                "topics": [
-                  "angie",
-                  "ja4",
-                  "module",
-                  "nginx",
-                  "security",
-                  "tarpit"
                 ]
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3141,7 +3141,7 @@
             "id": 100082295,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T05:44:53Z",
+            "last_commit": "2026-10-27T05:26:19Z",
             "open_issues": 45,
             "owner": "nginx",
             "repo": "ngx-rust",
@@ -4965,10 +4965,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T19:08:50Z",
-            "open_issues": 872,
+            "open_issues": 869,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34540,
+            "stars": 34550,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -4992,7 +4992,7 @@
             "open_issues": 71,
             "owner": "digitalocean",
             "repo": "nginxconfig.io",
-            "stars": 28259,
+            "stars": 28258,
             "topics": [
               "cdn",
               "digitalocean",
@@ -5034,7 +5034,7 @@
             "open_issues": 331,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19938,
+            "stars": 19939,
             "topics": [
               "docker",
               "docker-gen",
@@ -5060,7 +5060,7 @@
             "open_issues": 32,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12681,
+            "stars": 12680,
             "topics": [
               "docker",
               "docker-compose",
@@ -5102,7 +5102,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11563,
+            "stars": 11564,
             "topics": [
               "best-practices",
               "config",
@@ -5127,11 +5127,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T15:26:56Z",
-            "open_issues": 162,
+            "last_commit": "2026-10-27T08:09:40Z",
+            "open_issues": 166,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11120,
+            "stars": 11125,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5239,11 +5239,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T14:16:05Z",
+            "last_commit": "2026-10-27T16:33:49Z",
             "open_issues": 16,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2417,
+            "stars": 2418,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5309,7 +5309,7 @@
             "id": 198842952,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T16:00:22Z",
+            "last_commit": "2026-10-26T20:03:26Z",
             "open_issues": 0,
             "owner": "dvershinin",
             "repo": "gixy",
@@ -5375,7 +5375,7 @@
             "id": 106615169,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T10:06:21Z",
+            "last_commit": "2026-10-27T09:52:45Z",
             "open_issues": 39,
             "owner": "opentracing-contrib",
             "repo": "nginx-opentracing",
@@ -5439,8 +5439,8 @@
             "id": 406087,
             "language": "Perl",
             "license": null,
-            "last_commit": "2026-10-20T03:39:17Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-27T08:16:36Z",
+            "open_issues": 44,
             "owner": "openresty",
             "repo": "test-nginx",
             "stars": 455,
@@ -5460,8 +5460,8 @@
             "id": 20060139,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T05:44:49Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-27T11:48:51Z",
+            "open_issues": 7,
             "owner": "cubicdaiya",
             "repo": "nginx-build",
             "stars": 430,
@@ -5621,8 +5621,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T00:02:39Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-27T00:02:23Z",
+            "open_issues": 16,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 228,
@@ -5888,7 +5888,7 @@
             "id": 1415429112,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T15:37:38Z",
+            "last_commit": "2026-10-27T03:30:08Z",
             "open_issues": 1,
             "owner": "spcaeo",
             "repo": "skald",
@@ -6276,7 +6276,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T17:22:24.696Z",
+    "last_updated": "2026-10-27T16:37:14.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
