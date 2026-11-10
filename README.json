@@ -19,7 +19,7 @@
             "open_issues": 318,
             "owner": "openresty",
             "repo": "openresty",
-            "stars": 14124,
+            "stars": 14128,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -37,10 +37,10 @@
             "language": "C",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-07T02:39:23Z",
-            "open_issues": 510,
+            "open_issues": 511,
             "owner": "alibaba",
             "repo": "tengine",
-            "stars": 13421,
+            "stars": 13424,
             "topics": [
               "forward-proxy",
               "health-check",
@@ -73,7 +73,7 @@
             "id": 557753836,
             "language": "C",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-06T08:25:12Z",
+            "last_commit": "2026-11-10T08:26:48Z",
             "open_issues": 45,
             "owner": "webserver-llc",
             "repo": "angie",
@@ -114,7 +114,7 @@
             "open_issues": 390,
             "owner": "openresty",
             "repo": "lua-nginx-module",
-            "stars": 11791,
+            "stars": 11793,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -159,8 +159,8 @@
             "id": 4246391,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:06:46Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-10T18:27:22Z",
+            "open_issues": 1,
             "owner": "matsumotory",
             "repo": "ngx_mruby",
             "stars": 997,
@@ -188,7 +188,7 @@
             "open_issues": 3,
             "owner": "rryqszq4",
             "repo": "ngx_php",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "module",
               "nginx",
@@ -254,7 +254,7 @@
                 "open_issues": 318,
                 "owner": "openresty",
                 "repo": "openresty",
-                "stars": 14124,
+                "stars": 14128,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -275,7 +275,7 @@
                 "open_issues": 1159,
                 "owner": "arut",
                 "repo": "nginx-rtmp-module",
-                "stars": 14022,
+                "stars": 14025,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -296,7 +296,7 @@
                 "open_issues": 390,
                 "owner": "openresty",
                 "repo": "lua-nginx-module",
-                "stars": 11791,
+                "stars": 11793,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -317,7 +317,7 @@
                 "open_issues": 353,
                 "owner": "apache",
                 "repo": "incubator-pagespeed-ngx",
-                "stars": 4328,
+                "stars": 4327,
                 "topics": [
                   "pagespeed"
                 ]
@@ -336,7 +336,7 @@
                 "id": 30759499,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-15T14:09:35Z",
+                "last_commit": "2026-11-10T11:43:18Z",
                 "open_issues": 11,
                 "owner": "vozlt",
                 "repo": "nginx-module-vts",
@@ -368,7 +368,7 @@
                 "open_issues": 37,
                 "owner": "cuber",
                 "repo": "ngx_http_google_filter_module",
-                "stars": 3347,
+                "stars": 3348,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -716,8 +716,8 @@
                 "id": 4246391,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-09T21:06:46Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-10T18:27:22Z",
+                "open_issues": 1,
                 "owner": "matsumotory",
                 "repo": "ngx_mruby",
                 "stars": 997,
@@ -918,7 +918,7 @@
                 "open_issues": 14,
                 "owner": "kyprizel",
                 "repo": "testcookie-nginx-module",
-                "stars": 534,
+                "stars": 533,
                 "topics": [
                   "ddos",
                   "ddos-mitigation",
@@ -1141,7 +1141,7 @@
                 "open_issues": 3,
                 "owner": "rryqszq4",
                 "repo": "ngx_php",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "module",
                   "nginx",
@@ -1166,7 +1166,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T00:03:40Z",
-                "open_issues": 22,
+                "open_issues": 21,
                 "owner": "nginx",
                 "repo": "nginx-otel",
                 "stars": 281,
@@ -2881,8 +2881,8 @@
                 "id": 1265374865,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-09T18:16:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-10T15:41:22Z",
+                "open_issues": 1,
                 "owner": "myguard-labs",
                 "repo": "nginx-cache-turbo-module",
                 "stars": 3,
@@ -3145,7 +3145,7 @@
             "open_issues": 38,
             "owner": "nginx",
             "repo": "ngx-rust",
-            "stars": 925,
+            "stars": 926,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3163,7 +3163,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-08T14:10:24Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "M-Compressors",
             "repo": "ngx_mbrotli",
             "stars": 4,
@@ -3276,7 +3276,7 @@
                 "open_issues": 75,
                 "owner": "openresty",
                 "repo": "lua-resty-redis",
-                "stars": 1958,
+                "stars": 1959,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:22:28.977Z"
@@ -3635,7 +3635,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2024-11-09T04:22:57Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "spacewander",
                 "repo": "lua-resty-rsa",
                 "stars": 268,
@@ -3655,8 +3655,8 @@
                 "id": 3334760,
                 "language": "Lua",
                 "license": null,
-                "last_commit": "2026-10-23T05:02:50Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-10T02:35:14Z",
+                "open_issues": 8,
                 "owner": "openresty",
                 "repo": "lua-resty-memcached",
                 "stars": 216,
@@ -4724,7 +4724,7 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T00:04:51Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "nginx",
             "repo": "nginx-s3-gateway",
             "stars": 762,
@@ -4753,7 +4753,7 @@
             "open_issues": 11,
             "owner": "nginx",
             "repo": "njs-examples",
-            "stars": 692,
+            "stars": 693,
             "topics": [
               "javascript",
               "nginx",
@@ -4962,13 +4962,13 @@
             "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
             "homepage": "https://nginxproxymanager.com",
             "id": 114938943,
-            "language": "TypeScript",
+            "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:39:45Z",
-            "open_issues": 828,
+            "last_commit": "2026-11-09T22:26:34Z",
+            "open_issues": 829,
             "owner": "NginxProxyManager",
             "repo": "nginx-proxy-manager",
-            "stars": 34663,
+            "stars": 34668,
             "topics": [
               "nginx",
               "nginx-proxy"
@@ -5034,7 +5034,7 @@
             "open_issues": 335,
             "owner": "nginx-proxy",
             "repo": "nginx-proxy",
-            "stars": 19937,
+            "stars": 19938,
             "topics": [
               "docker",
               "docker-gen",
@@ -5056,11 +5056,11 @@
             "id": 41152295,
             "language": "Dockerfile",
             "license": "MIT",
-            "last_commit": "2026-11-04T17:28:10Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-10T08:34:17Z",
+            "open_issues": 1,
             "owner": "laradock",
             "repo": "laradock",
-            "stars": 12682,
+            "stars": 12683,
             "topics": [
               "docker",
               "docker-compose",
@@ -5102,7 +5102,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11559,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -5127,11 +5127,11 @@
             "id": 203456148,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T14:07:38Z",
+            "last_commit": "2026-11-10T13:01:41Z",
             "open_issues": 163,
             "owner": "bunkerity",
             "repo": "bunkerweb",
-            "stars": 11240,
+            "stars": 11245,
             "topics": [
               "antibot",
               "cybersecurity",
@@ -5215,11 +5215,11 @@
             "id": 487797390,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T19:43:21Z",
+            "last_commit": "2026-11-10T16:41:09Z",
             "open_issues": 20,
             "owner": "ZoeyVid",
             "repo": "NPMplus",
-            "stars": 2439,
+            "stars": 2441,
             "topics": [
               "nginx",
               "nginx-php",
@@ -5488,7 +5488,7 @@
             "open_issues": 3,
             "owner": "slomkowski",
             "repo": "nginx-config-formatter",
-            "stars": 421,
+            "stars": 422,
             "topics": [
               "beautifier",
               "formatter",
@@ -5621,8 +5621,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T20:48:32Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-10T07:56:22Z",
+            "open_issues": 20,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 228,
@@ -5745,7 +5745,7 @@
             "open_issues": 0,
             "owner": "jaygooby",
             "repo": "build-nginx",
-            "stars": 55,
+            "stars": 54,
             "topics": [
               "3rd-party-modules",
               "build-tool",
@@ -5888,7 +5888,7 @@
             "id": 1415429112,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T21:13:46Z",
+            "last_commit": "2026-11-10T04:54:24Z",
             "open_issues": 1,
             "owner": "spcaeo",
             "repo": "skald",
@@ -6235,7 +6235,7 @@
             "open_issues": 542,
             "owner": "taobao",
             "repo": "nginx-book",
-            "stars": 6951,
+            "stars": 6952,
             "topics": []
           },
           "first_seen": "2026-08-28T21:22:28.977Z"
@@ -6312,7 +6312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:25:51.239Z",
+    "last_updated": "2026-11-10T18:40:01.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
